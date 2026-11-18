@@ -1,0 +1,523 @@
+{
+  "id": "P30",
+  "title": "Your Personal Speaking Map and Continuing Plan",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Choose a small current tool kit",
+    "Link a tool to a real situation",
+    "Review and adjust your plan"
+  ],
+  "deeperExplanation": {
+    "question": "How do I know when to change the plan?",
+    "answer": "Choose a small review point and a few observations that matter. Ask whether the practice is usable, whether it serves a real situation and whether it increases or reduces unnecessary effort. Keep a useful practice, adjust a crowded one and leave unclear results open. The map is allowed to change. Its job is to help you choose the next part of your journey, not predict every future conversation."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P30-focused-v1",
+  "sections": [
+    {
+      "id": "P30-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Your Personal Speaking Map and Continuing Plan. You have explored several tools. Some helped in particular moments, some were neutral and some still feel unfamiliar. You wonder which approach you are supposed to follow from now on.\n\nIn this session, we will choose a small current tool kit, link a tool to a real situation, and review and adjust your plan. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Choose a small current tool kit",
+      "segments": [
+        {
+          "id": "P30-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P30-01-S02",
+          "text": "Today we are exploring Your Personal Speaking Map and Continuing Plan."
+        },
+        {
+          "id": "P30-01-S03",
+          "text": "You have explored several tools."
+        },
+        {
+          "id": "P30-01-S04",
+          "text": "Some helped in particular moments, some were neutral and some still feel unfamiliar."
+        },
+        {
+          "id": "P30-01-S05",
+          "text": "You wonder which approach you are supposed to follow from now on."
+        },
+        {
+          "id": "P30-01-S06",
+          "text": "In this session, we will choose a small current tool kit, link a tool to a real situation, and review and adjust your plan."
+        },
+        {
+          "id": "P30-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P30-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P30-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Choose a small current tool kit",
+          "Link a tool to a real situation",
+          "Review and adjust your plan"
+        ],
+        "altText": "This session explores: Choose a small current tool kit; Link a tool to a real situation; Review and adjust your plan."
+      }
+    },
+    {
+      "id": "P30-02",
+      "type": "explain",
+      "narration": "Your speaking map records useful choices rather than a permanent prescription. Connect a situation with what you notice, a tool you want to try and what you learned. A map can change as your experience changes. You do not need to carry all forty tools into every conversation.",
+      "learningPurpose": "Choose a small current tool kit",
+      "segments": [
+        {
+          "id": "P30-02-S01",
+          "text": "Your speaking map records useful choices rather than a permanent prescription."
+        },
+        {
+          "id": "P30-02-S02",
+          "text": "Connect a situation with what you notice, a tool you want to try and what you learned."
+        },
+        {
+          "id": "P30-02-S03",
+          "text": "A map can change as your experience changes."
+        },
+        {
+          "id": "P30-02-S04",
+          "text": "You do not need to carry all forty tools into every conversation."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What is in your current travel kit?"
+      }
+    },
+    {
+      "id": "P30-03",
+      "type": "explain",
+      "narration": "You have explored several tools. Some helped in particular moments, some were neutral and some still feel unfamiliar. You wonder which approach you are supposed to follow from now on.\n\nSelecting fewer tools for a period can make practice clearer. Choose one psychological approach and one body practice only if both serve your current goal. They can also be explored separately. Plan general speaking experiences so practice remains connected to life, rather than becoming only the rehearsal of techniques.\n\nHow do I know when to change the plan?\n\nChoose a small review point and a few observations that matter. Ask whether the practice is usable, whether it serves a real situation and whether it increases or reduces unnecessary effort. Keep a useful practice, adjust a crowded one and leave unclear results open. The map is allowed to change. Its job is to help you choose the next part of your journey, not predict every future conversation.",
+      "learningPurpose": "Choose a small current tool kit",
+      "segments": [
+        {
+          "id": "P30-03-S01",
+          "text": "You have explored several tools."
+        },
+        {
+          "id": "P30-03-S02",
+          "text": "Some helped in particular moments, some were neutral and some still feel unfamiliar."
+        },
+        {
+          "id": "P30-03-S03",
+          "text": "You wonder which approach you are supposed to follow from now on."
+        },
+        {
+          "id": "P30-03-S04",
+          "text": "Selecting fewer tools for a period can make practice clearer."
+        },
+        {
+          "id": "P30-03-S05",
+          "text": "Choose one psychological approach and one body practice only if both serve your current goal."
+        },
+        {
+          "id": "P30-03-S06",
+          "text": "They can also be explored separately."
+        },
+        {
+          "id": "P30-03-S07",
+          "text": "Plan general speaking experiences so practice remains connected to life, rather than becoming only the rehearsal of techniques."
+        },
+        {
+          "id": "P30-03-S08",
+          "text": "How do I know when to change the plan?"
+        },
+        {
+          "id": "P30-03-S09",
+          "text": "Choose a small review point and a few observations that matter."
+        },
+        {
+          "id": "P30-03-S10",
+          "text": "Ask whether the practice is usable, whether it serves a real situation and whether it increases or reduces unnecessary effort."
+        },
+        {
+          "id": "P30-03-S11",
+          "text": "Keep a useful practice, adjust a crowded one and leave unclear results open."
+        },
+        {
+          "id": "P30-03-S12",
+          "text": "The map is allowed to change."
+        },
+        {
+          "id": "P30-03-S13",
+          "text": "Its job is to help you choose the next part of your journey, not predict every future conversation."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Situation",
+          "Chosen support",
+          "Review and adjust"
+        ],
+        "altText": "Three parts to distinguish: Situation, Chosen support, Review and adjust. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What would tell you to adjust it?"
+      }
+    },
+    {
+      "id": "P30-04",
+      "type": "visual",
+      "narration": "A small travel kit is more useful than carrying the entire workshop. Keep what is useful for this part of the journey, knowing you can return for another tool.",
+      "learningPurpose": "Choose a small current tool kit",
+      "segments": [
+        {
+          "id": "P30-04-S01",
+          "text": "A small travel kit is more useful than carrying the entire workshop."
+        },
+        {
+          "id": "P30-04-S02",
+          "text": "Keep what is useful for this part of the journey, knowing you can return for another tool."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Travel kit",
+        "labels": [
+          "Whole workshop",
+          "Current useful kit"
+        ],
+        "altText": "A small travel kit is more useful than carrying the entire workshop. Keep what is useful for this part of the journey, knowing you can return for another tool."
+      }
+    },
+    {
+      "id": "P30-05",
+      "type": "contrast",
+      "narration": "Rigid plan: I must do every technique and never have a difficult day. Working map: For team updates I want to share the main point and explore a comfortable pace; after a week I will review the experience. Now consider a short check. What belongs in a working speaking map? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Link a tool to a real situation",
+      "segments": [
+        {
+          "id": "P30-05-S01",
+          "text": "Rigid plan: I must do every technique and never have a difficult day."
+        },
+        {
+          "id": "P30-05-S02",
+          "text": "Working map: For team updates I want to share the main point and explore a comfortable pace; after a week I will review the experience."
+        },
+        {
+          "id": "P30-05-S03",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P30-05-S04",
+          "text": "What belongs in a working speaking map?"
+        },
+        {
+          "id": "P30-05-S05",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What belongs in a working speaking map?",
+        "labels": [
+          "All forty tools before every conversation.",
+          "A situation, one useful choice, an observation and a review point.",
+          "A promise never to have a difficult day."
+        ],
+        "altText": "Three options: All forty tools before every conversation. / A situation, one useful choice, an observation and a review point. / A promise never to have a difficult day."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What belongs in a working speaking map?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "All forty tools before every conversation.",
+            "feedback": "Consider the distinction again. The map supports current choices and can change. It does not need to become a permanent prescription or a performance exam."
+          },
+          {
+            "id": "B",
+            "text": "A situation, one useful choice, an observation and a review point.",
+            "feedback": "Yes. The map supports current choices and can change. It does not need to become a permanent prescription or a performance exam."
+          },
+          {
+            "id": "C",
+            "text": "A promise never to have a difficult day.",
+            "feedback": "Consider the distinction again. The map supports current choices and can change. It does not need to become a permanent prescription or a performance exam."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P30-06",
+      "type": "reflection",
+      "narration": "Choose two situations that matter. For each, note a recognisable cue, one preferred response, one small practice and one observation. Include what you will do if the tool is unhelpful or you miss a day.",
+      "learningPurpose": "Link a tool to a real situation",
+      "segments": [
+        {
+          "id": "P30-06-S01",
+          "text": "Choose two situations that matter."
+        },
+        {
+          "id": "P30-06-S02",
+          "text": "For each, note a recognisable cue, one preferred response, one small practice and one observation."
+        },
+        {
+          "id": "P30-06-S03",
+          "text": "Include what you will do if the tool is unhelpful or you miss a day."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Choose two situations that matter. For each, note a recognisable cue, one preferred response, one small practice and one observation. Include what you will do if the tool is unhelpful or you miss a day.",
+        "questions": [
+          "What is in your current travel kit?",
+          "What would tell you to adjust it?",
+          "What is your next real speaking opportunity?"
+        ]
+      }
+    },
+    {
+      "id": "P30-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Practise a message from one situation that matters to you, with one chosen focus. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Link a tool to a real situation",
+      "segments": [
+        {
+          "id": "P30-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P30-07-S02",
+          "text": "Practise a message from one situation that matters to you, with one chosen focus."
+        },
+        {
+          "id": "P30-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P30-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P30-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Practise a message from one situation that matters to you, with one chosen focus.",
+        "reflectionQuestions": [
+          "What is in your current travel kit?",
+          "What would tell you to adjust it?",
+          "What is your next real speaking opportunity?"
+        ]
+      }
+    },
+    {
+      "id": "P30-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Explain your small speaking map to your future self: the situation, one support or experiment, and how you will review it without turning the week into an exam. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Link a tool to a real situation",
+      "segments": [
+        {
+          "id": "P30-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P30-08-S02",
+          "text": "Explain your small speaking map to your future self: the situation, one support or experiment, and how you will review it without turning the week into an exam."
+        },
+        {
+          "id": "P30-08-S03",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P30-08-S04",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Explain your small speaking map to your future self: the situation, one support or experiment, and how you will review it without turning the week into an exam.",
+        "reflectionQuestions": [
+          "What is in your current travel kit?",
+          "What would tell you to adjust it?",
+          "What is your next real speaking opportunity?"
+        ]
+      }
+    },
+    {
+      "id": "P30-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Review and adjust your plan",
+      "segments": [
+        {
+          "id": "P30-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P30-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P30-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P30-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You have explored several tools. Some helped in particular moments, some were neutral and some still feel unfamiliar. You wonder which approach you are supposed to follow from now on.",
+        "partnerPrompts": [
+          "What situation matters most right now?",
+          "What would you like to explore there?",
+          "How will you review it without turning the week into an exam?"
+        ]
+      }
+    },
+    {
+      "id": "P30-10",
+      "type": "review",
+      "narration": "This session is available at any point, not only after completing the catalogue. A map can begin with one tool and one situation. A change of plan can be a thoughtful response to experience. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Review and adjust your plan",
+      "segments": [
+        {
+          "id": "P30-10-S01",
+          "text": "This session is available at any point, not only after completing the catalogue."
+        },
+        {
+          "id": "P30-10-S02",
+          "text": "A map can begin with one tool and one situation."
+        },
+        {
+          "id": "P30-10-S03",
+          "text": "A change of plan can be a thoughtful response to experience."
+        },
+        {
+          "id": "P30-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P30-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What is in your current travel kit?",
+          "What would tell you to adjust it?",
+          "What is your next real speaking opportunity?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P30-11",
+      "type": "transfer",
+      "narration": "Save a seven-day plan with one focus, a few realistic speaking opportunities and one short review. Choose what to keep, change or explore next. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Review and adjust your plan",
+      "segments": [
+        {
+          "id": "P30-11-S01",
+          "text": "Save a seven-day plan with one focus, a few realistic speaking opportunities and one short review."
+        },
+        {
+          "id": "P30-11-S02",
+          "text": "Choose what to keep, change or explore next."
+        },
+        {
+          "id": "P30-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P30-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P30-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Save a seven-day plan with one focus, a few realistic speaking opportunities and one short review. Choose what to keep, change or explore next.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P30-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Review and adjust your plan",
+      "segments": [
+        {
+          "id": "P30-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P30-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P30-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P30-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P30-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What is your next real speaking opportunity?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "id": "P12",
+  "title": "Prediction Is Not Reality",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Separate known facts from predictions",
+    "Leave uncertainty open",
+    "Compare a forecast with an observation"
+  ],
+  "deeperExplanation": {
+    "question": "What if I have been right about this word before?",
+    "answer": "Past experience is information, but the exact conditions of a new moment can differ. You can acknowledge that the word has taken effort without deciding every future detail. Notice what response the prediction invites: hiding, rehearsing or asking for time. Then choose what would serve the actual purpose. You do not have to promise yourself an easy word in order to attempt a useful message."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P12-focused-v1",
+  "sections": [
+    {
+      "id": "P12-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Prediction Is Not Reality. You see a name you may need to say. Your mind predicts a block, the listener’s impatience and the embarrassment afterwards. The conversation has not happened, but your body is already responding.\n\nIn this session, we will separate known facts from predictions, leave uncertainty open, and compare a forecast with an observation. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Separate known facts from predictions",
+      "segments": [
+        {
+          "id": "P12-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P12-01-S02",
+          "text": "Today we are exploring Prediction Is Not Reality."
+        },
+        {
+          "id": "P12-01-S03",
+          "text": "You see a name you may need to say."
+        },
+        {
+          "id": "P12-01-S04",
+          "text": "Your mind predicts a block, the listener’s impatience and the embarrassment afterwards."
+        },
+        {
+          "id": "P12-01-S05",
+          "text": "The conversation has not happened, but your body is already responding."
+        },
+        {
+          "id": "P12-01-S06",
+          "text": "In this session, we will separate known facts from predictions, leave uncertainty open, and compare a forecast with an observation."
+        },
+        {
+          "id": "P12-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P12-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P12-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Separate known facts from predictions",
+          "Leave uncertainty open",
+          "Compare a forecast with an observation"
+        ],
+        "altText": "This session explores: Separate known facts from predictions; Leave uncertainty open; Compare a forecast with an observation."
+      }
+    },
+    {
+      "id": "P12-02",
+      "type": "explain",
+      "narration": "A prediction is an attempt to forecast an event. It may feel vivid and familiar without being the event itself. We will distinguish what you know now from what you expect. You may know that a word has been difficult before. You do not yet know exactly how this moment will unfold, what the listener will think or how you will respond.",
+      "learningPurpose": "Separate known facts from predictions",
+      "segments": [
+        {
+          "id": "P12-02-S01",
+          "text": "A prediction is an attempt to forecast an event."
+        },
+        {
+          "id": "P12-02-S02",
+          "text": "It may feel vivid and familiar without being the event itself."
+        },
+        {
+          "id": "P12-02-S03",
+          "text": "We will distinguish what you know now from what you expect."
+        },
+        {
+          "id": "P12-02-S04",
+          "text": "You may know that a word has been difficult before."
+        },
+        {
+          "id": "P12-02-S05",
+          "text": "You do not yet know exactly how this moment will unfold, what the listener will think or how you will respond."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did you know before speaking?"
+      }
+    },
+    {
+      "id": "P12-03",
+      "type": "explain",
+      "narration": "You see a name you may need to say. Your mind predicts a block, the listener’s impatience and the embarrassment afterwards. The conversation has not happened, but your body is already responding.\n\nThe goal is not to replace a negative prediction with a positive guarantee. Both demand certainty about the future. A more useful response can be: this is uncertain, and I can choose my next small action. That action might be to say the name, ask for time or choose a setting you are willing to practise in.\n\nWhat if I have been right about this word before?\n\nPast experience is information, but the exact conditions of a new moment can differ. You can acknowledge that the word has taken effort without deciding every future detail. Notice what response the prediction invites: hiding, rehearsing or asking for time. Then choose what would serve the actual purpose. You do not have to promise yourself an easy word in order to attempt a useful message.",
+      "learningPurpose": "Separate known facts from predictions",
+      "segments": [
+        {
+          "id": "P12-03-S01",
+          "text": "You see a name you may need to say."
+        },
+        {
+          "id": "P12-03-S02",
+          "text": "Your mind predicts a block, the listener’s impatience and the embarrassment afterwards."
+        },
+        {
+          "id": "P12-03-S03",
+          "text": "The conversation has not happened, but your body is already responding."
+        },
+        {
+          "id": "P12-03-S04",
+          "text": "The goal is not to replace a negative prediction with a positive guarantee."
+        },
+        {
+          "id": "P12-03-S05",
+          "text": "Both demand certainty about the future."
+        },
+        {
+          "id": "P12-03-S06",
+          "text": "A more useful response can be: this is uncertain, and I can choose my next small action."
+        },
+        {
+          "id": "P12-03-S07",
+          "text": "That action might be to say the name, ask for time or choose a setting you are willing to practise in."
+        },
+        {
+          "id": "P12-03-S08",
+          "text": "What if I have been right about this word before?"
+        },
+        {
+          "id": "P12-03-S09",
+          "text": "Past experience is information, but the exact conditions of a new moment can differ."
+        },
+        {
+          "id": "P12-03-S10",
+          "text": "You can acknowledge that the word has taken effort without deciding every future detail."
+        },
+        {
+          "id": "P12-03-S11",
+          "text": "Notice what response the prediction invites: hiding, rehearsing or asking for time."
+        },
+        {
+          "id": "P12-03-S12",
+          "text": "Then choose what would serve the actual purpose."
+        },
+        {
+          "id": "P12-03-S13",
+          "text": "You do not have to promise yourself an easy word in order to attempt a useful message."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Known now",
+          "Predicted",
+          "Within my choice"
+        ],
+        "altText": "Three parts to distinguish: Known now, Predicted, Within my choice. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What had you only predicted?"
+      }
+    },
+    {
+      "id": "P12-04",
+      "type": "visual",
+      "narration": "A weather forecast helps you prepare, but it is not rain on your skin. You can carry an umbrella without staying indoors every time a cloud is predicted.",
+      "learningPurpose": "Separate known facts from predictions",
+      "segments": [
+        {
+          "id": "P12-04-S01",
+          "text": "A weather forecast helps you prepare, but it is not rain on your skin."
+        },
+        {
+          "id": "P12-04-S02",
+          "text": "You can carry an umbrella without staying indoors every time a cloud is predicted."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Forecast and window",
+        "labels": [
+          "A prediction",
+          "What actually happens"
+        ],
+        "altText": "A weather forecast helps you prepare, but it is not rain on your skin. You can carry an umbrella without staying indoors every time a cloud is predicted."
+      }
+    },
+    {
+      "id": "P12-05",
+      "type": "contrast",
+      "narration": "Prediction: Everyone will lose patience. Present fact: I am about to answer a question, and I feel nervous. The present fact offers a place to act. Now consider a short check. Which statement is a prediction? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Leave uncertainty open",
+      "segments": [
+        {
+          "id": "P12-05-S01",
+          "text": "Prediction: Everyone will lose patience."
+        },
+        {
+          "id": "P12-05-S02",
+          "text": "Present fact: I am about to answer a question, and I feel nervous."
+        },
+        {
+          "id": "P12-05-S03",
+          "text": "The present fact offers a place to act."
+        },
+        {
+          "id": "P12-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P12-05-S05",
+          "text": "Which statement is a prediction?"
+        },
+        {
+          "id": "P12-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "Which statement is a prediction?",
+        "labels": [
+          "This word took effort yesterday.",
+          "They will certainly be impatient tomorrow.",
+          "I want to ask about the appointment."
+        ],
+        "altText": "Three options: This word took effort yesterday. / They will certainly be impatient tomorrow. / I want to ask about the appointment."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "Which statement is a prediction?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "This word took effort yesterday.",
+            "feedback": "Consider the distinction again. Tomorrow's reaction has not happened. Past effort is information, and your intended request is a present choice."
+          },
+          {
+            "id": "B",
+            "text": "They will certainly be impatient tomorrow.",
+            "feedback": "Yes. Tomorrow's reaction has not happened. Past effort is information, and your intended request is a present choice."
+          },
+          {
+            "id": "C",
+            "text": "I want to ask about the appointment.",
+            "feedback": "Consider the distinction again. Tomorrow's reaction has not happened. Past effort is information, and your intended request is a present choice."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P12-06",
+      "type": "reflection",
+      "narration": "Divide a page into known, predicted and within my choice. Use a mild future speaking situation. Put each statement in the appropriate column. Leave uncertainty unresolved rather than forcing the predicted column to become positive.",
+      "learningPurpose": "Leave uncertainty open",
+      "segments": [
+        {
+          "id": "P12-06-S01",
+          "text": "Divide a page into known, predicted and within my choice."
+        },
+        {
+          "id": "P12-06-S02",
+          "text": "Use a mild future speaking situation."
+        },
+        {
+          "id": "P12-06-S03",
+          "text": "Put each statement in the appropriate column."
+        },
+        {
+          "id": "P12-06-S04",
+          "text": "Leave uncertainty unresolved rather than forcing the predicted column to become positive."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Divide a page into known, predicted and within my choice. Use a mild future speaking situation. Put each statement in the appropriate column. Leave uncertainty unresolved rather than forcing the predicted column to become positive.",
+        "questions": [
+          "What did you know before speaking?",
+          "What had you only predicted?",
+          "What was different, even slightly, from the forecast?"
+        ]
+      }
+    },
+    {
+      "id": "P12-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Choose a simple request. If useful, note one prediction, then record the request in your own words. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Leave uncertainty open",
+      "segments": [
+        {
+          "id": "P12-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P12-07-S02",
+          "text": "Choose a simple request."
+        },
+        {
+          "id": "P12-07-S03",
+          "text": "If useful, note one prediction, then record the request in your own words."
+        },
+        {
+          "id": "P12-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P12-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P12-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Choose a simple request. If useful, note one prediction, then record the request in your own words.",
+        "reflectionQuestions": [
+          "What did you know before speaking?",
+          "What had you only predicted?",
+          "What was different, even slightly, from the forecast?"
+        ]
+      }
+    },
+    {
+      "id": "P12-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Try another short request and describe what actually happened. Include uncertainty and difficulty; do not force the observation to disprove the prediction. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Leave uncertainty open",
+      "segments": [
+        {
+          "id": "P12-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P12-08-S02",
+          "text": "Try another short request and describe what actually happened."
+        },
+        {
+          "id": "P12-08-S03",
+          "text": "Include uncertainty and difficulty; do not force the observation to disprove the prediction."
+        },
+        {
+          "id": "P12-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P12-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Try another short request and describe what actually happened. Include uncertainty and difficulty; do not force the observation to disprove the prediction.",
+        "reflectionQuestions": [
+          "What did you know before speaking?",
+          "What had you only predicted?",
+          "What was different, even slightly, from the forecast?"
+        ]
+      }
+    },
+    {
+      "id": "P12-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Compare a forecast with an observation",
+      "segments": [
+        {
+          "id": "P12-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P12-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P12-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P12-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You see a name you may need to say. Your mind predicts a block, the listener’s impatience and the embarrassment afterwards. The conversation has not happened, but your body is already responding.",
+        "partnerPrompts": [
+          "Tell me your preferred name.",
+          "Tell me a place you would like to visit.",
+          "Ask me one question about the visit."
+        ]
+      }
+    },
+    {
+      "id": "P12-10",
+      "type": "review",
+      "narration": "A prediction can sometimes be accurate. This does not make it a rule for every occasion. The exercise is about relating to forecasts more flexibly, not proving your mind wrong. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Compare a forecast with an observation",
+      "segments": [
+        {
+          "id": "P12-10-S01",
+          "text": "A prediction can sometimes be accurate."
+        },
+        {
+          "id": "P12-10-S02",
+          "text": "This does not make it a rule for every occasion."
+        },
+        {
+          "id": "P12-10-S03",
+          "text": "The exercise is about relating to forecasts more flexibly, not proving your mind wrong."
+        },
+        {
+          "id": "P12-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P12-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did you know before speaking?",
+          "What had you only predicted?",
+          "What was different, even slightly, from the forecast?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P12-11",
+      "type": "transfer",
+      "narration": "Before a manageable speaking moment, write one prediction and later one observation. Keep the observation specific. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Compare a forecast with an observation",
+      "segments": [
+        {
+          "id": "P12-11-S01",
+          "text": "Before a manageable speaking moment, write one prediction and later one observation."
+        },
+        {
+          "id": "P12-11-S02",
+          "text": "Keep the observation specific."
+        },
+        {
+          "id": "P12-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P12-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P12-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Before a manageable speaking moment, write one prediction and later one observation. Keep the observation specific.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P12-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Compare a forecast with an observation",
+      "segments": [
+        {
+          "id": "P12-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P12-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P12-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P12-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P12-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What was different, even slightly, from the forecast?"
+      }
+    }
+  ]
+}

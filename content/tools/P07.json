@@ -1,0 +1,551 @@
+{
+  "id": "P07",
+  "title": "Your Relationship With Your Voice",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Listen for meaning",
+    "Explore one voice feature",
+    "Choose comfortable expression"
+  ],
+  "deeperExplanation": {
+    "question": "What if a change in my voice feels fake?",
+    "answer": "A new behaviour can feel unfamiliar because you have little practice with it. Ask a more precise question than am I fake: does this voice express what I mean, and is it comfortable? You can keep a small change that serves you and drop an exaggerated version. Becoming more expressive does not require acting like a different person. You are exploring possibilities in your own instrument."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P07-focused-v1",
+  "sections": [
+    {
+      "id": "P07-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Your Relationship With Your Voice. You hear a recording of yourself and immediately want to stop it. The voice sounds unfamiliar. Instead of hearing the message, you begin listing everything you dislike.\n\nIn this session, we will listen for meaning, explore one voice feature, and choose comfortable expression. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Listen for meaning",
+      "segments": [
+        {
+          "id": "P07-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P07-01-S02",
+          "text": "Today we are exploring Your Relationship With Your Voice."
+        },
+        {
+          "id": "P07-01-S03",
+          "text": "You hear a recording of yourself and immediately want to stop it."
+        },
+        {
+          "id": "P07-01-S04",
+          "text": "The voice sounds unfamiliar."
+        },
+        {
+          "id": "P07-01-S05",
+          "text": "Instead of hearing the message, you begin listing everything you dislike."
+        },
+        {
+          "id": "P07-01-S06",
+          "text": "In this session, we will listen for meaning, explore one voice feature, and choose comfortable expression."
+        },
+        {
+          "id": "P07-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P07-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P07-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Listen for meaning",
+          "Explore one voice feature",
+          "Choose comfortable expression"
+        ],
+        "altText": "This session explores: Listen for meaning; Explore one voice feature; Choose comfortable expression."
+      }
+    },
+    {
+      "id": "P07-02",
+      "type": "explain",
+      "narration": "Your recorded voice can feel different from the voice you hear while speaking. We will listen as though we are getting to know an instrument, rather than grading a person. You can dislike a feature and still explore it with interest. Begin with what the voice communicates: warmth, interest, a question, a preference. Those are meaningful features too.",
+      "learningPurpose": "Listen for meaning",
+      "segments": [
+        {
+          "id": "P07-02-S01",
+          "text": "Your recorded voice can feel different from the voice you hear while speaking."
+        },
+        {
+          "id": "P07-02-S02",
+          "text": "We will listen as though we are getting to know an instrument, rather than grading a person."
+        },
+        {
+          "id": "P07-02-S03",
+          "text": "You can dislike a feature and still explore it with interest."
+        },
+        {
+          "id": "P07-02-S04",
+          "text": "Begin with what the voice communicates: warmth, interest, a question, a preference."
+        },
+        {
+          "id": "P07-02-S05",
+          "text": "Those are meaningful features too."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did your voice communicate?"
+      }
+    },
+    {
+      "id": "P07-03",
+      "type": "explain",
+      "narration": "You hear a recording of yourself and immediately want to stop it. The voice sounds unfamiliar. Instead of hearing the message, you begin listing everything you dislike.\n\nTrying a different pace, volume or melody can feel unfamiliar. Unfamiliar does not automatically mean dishonest. You may be learning a new way to use your own voice. The question is whether the change serves what you want to communicate and remains comfortable. You do not have to adopt someone else’s accent or personality.\n\nWhat if a change in my voice feels fake?\n\nA new behaviour can feel unfamiliar because you have little practice with it. Ask a more precise question than am I fake: does this voice express what I mean, and is it comfortable? You can keep a small change that serves you and drop an exaggerated version. Becoming more expressive does not require acting like a different person. You are exploring possibilities in your own instrument.",
+      "learningPurpose": "Listen for meaning",
+      "segments": [
+        {
+          "id": "P07-03-S01",
+          "text": "You hear a recording of yourself and immediately want to stop it."
+        },
+        {
+          "id": "P07-03-S02",
+          "text": "The voice sounds unfamiliar."
+        },
+        {
+          "id": "P07-03-S03",
+          "text": "Instead of hearing the message, you begin listing everything you dislike."
+        },
+        {
+          "id": "P07-03-S04",
+          "text": "Trying a different pace, volume or melody can feel unfamiliar."
+        },
+        {
+          "id": "P07-03-S05",
+          "text": "Unfamiliar does not automatically mean dishonest."
+        },
+        {
+          "id": "P07-03-S06",
+          "text": "You may be learning a new way to use your own voice."
+        },
+        {
+          "id": "P07-03-S07",
+          "text": "The question is whether the change serves what you want to communicate and remains comfortable."
+        },
+        {
+          "id": "P07-03-S08",
+          "text": "You do not have to adopt someone else’s accent or personality."
+        },
+        {
+          "id": "P07-03-S09",
+          "text": "What if a change in my voice feels fake?"
+        },
+        {
+          "id": "P07-03-S10",
+          "text": "A new behaviour can feel unfamiliar because you have little practice with it."
+        },
+        {
+          "id": "P07-03-S11",
+          "text": "Ask a more precise question than am I fake: does this voice express what I mean, and is it comfortable?"
+        },
+        {
+          "id": "P07-03-S12",
+          "text": "You can keep a small change that serves you and drop an exaggerated version."
+        },
+        {
+          "id": "P07-03-S13",
+          "text": "Becoming more expressive does not require acting like a different person."
+        },
+        {
+          "id": "P07-03-S14",
+          "text": "You are exploring possibilities in your own instrument."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Message",
+          "One chosen feature",
+          "Useful expression"
+        ],
+        "altText": "Three parts to distinguish: Message, One chosen feature, Useful expression. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Which reaction was about unfamiliarity?"
+      }
+    },
+    {
+      "id": "P07-04",
+      "type": "visual",
+      "narration": "Imagine hearing your own handwriting read aloud for the first time. Recognition takes time. You are allowed to become familiar without announcing a final judgement.",
+      "learningPurpose": "Listen for meaning",
+      "segments": [
+        {
+          "id": "P07-04-S01",
+          "text": "Imagine hearing your own handwriting read aloud for the first time."
+        },
+        {
+          "id": "P07-04-S02",
+          "text": "Recognition takes time."
+        },
+        {
+          "id": "P07-04-S03",
+          "text": "You are allowed to become familiar without announcing a final judgement."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Familiar handwriting",
+        "labels": [
+          "Unfamiliar at first",
+          "Listen for the message"
+        ],
+        "altText": "Imagine hearing your own handwriting read aloud for the first time. Recognition takes time. You are allowed to become familiar without announcing a final judgement."
+      }
+    },
+    {
+      "id": "P07-05",
+      "type": "contrast",
+      "narration": "Grading: My voice sounds terrible. Exploring: I can hear interest in the first sentence, and I would like to explore the ending. The second response gives you something specific to work with. Now consider a short check. What is a useful first listening task? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Explore one voice feature",
+      "segments": [
+        {
+          "id": "P07-05-S01",
+          "text": "Grading: My voice sounds terrible."
+        },
+        {
+          "id": "P07-05-S02",
+          "text": "Exploring: I can hear interest in the first sentence, and I would like to explore the ending."
+        },
+        {
+          "id": "P07-05-S03",
+          "text": "The second response gives you something specific to work with."
+        },
+        {
+          "id": "P07-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P07-05-S05",
+          "text": "What is a useful first listening task?"
+        },
+        {
+          "id": "P07-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is a useful first listening task?",
+        "labels": [
+          "Hear what your message communicates.",
+          "List every disliked sound.",
+          "Repeat until the voice feels perfect."
+        ],
+        "altText": "Three options: Hear what your message communicates. / List every disliked sound. / Repeat until the voice feels perfect."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is a useful first listening task?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hear what your message communicates.",
+            "feedback": "Yes. Beginning with the message gives listening a specific purpose. Familiarity need not depend on liking every feature."
+          },
+          {
+            "id": "B",
+            "text": "List every disliked sound.",
+            "feedback": "Consider the distinction again. Beginning with the message gives listening a specific purpose. Familiarity need not depend on liking every feature."
+          },
+          {
+            "id": "C",
+            "text": "Repeat until the voice feels perfect.",
+            "feedback": "Consider the distinction again. Beginning with the message gives listening a specific purpose. Familiarity need not depend on liking every feature."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P07-06",
+      "type": "reflection",
+      "narration": "Record 20 seconds about something you genuinely enjoy. Listen once for the message. If you are willing, listen once more for a single feature you choose. You can use the transcript instead if playback feels too much today.",
+      "learningPurpose": "Explore one voice feature",
+      "segments": [
+        {
+          "id": "P07-06-S01",
+          "text": "Record 20 seconds about something you genuinely enjoy."
+        },
+        {
+          "id": "P07-06-S02",
+          "text": "Listen once for the message."
+        },
+        {
+          "id": "P07-06-S03",
+          "text": "If you are willing, listen once more for a single feature you choose."
+        },
+        {
+          "id": "P07-06-S04",
+          "text": "You can use the transcript instead if playback feels too much today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Record 20 seconds about something you genuinely enjoy. Listen once for the message. If you are willing, listen once more for a single feature you choose. You can use the transcript instead if playback feels too much today.",
+        "questions": [
+          "What did your voice communicate?",
+          "Which reaction was about unfamiliarity?",
+          "What one feature would you like to explore gently?"
+        ]
+      }
+    },
+    {
+      "id": "P07-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Record a short message about something you enjoy. Listening back is optional; if you listen, hear the message once. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Explore one voice feature",
+      "segments": [
+        {
+          "id": "P07-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P07-07-S02",
+          "text": "Record a short message about something you enjoy."
+        },
+        {
+          "id": "P07-07-S03",
+          "text": "Listening back is optional; if you listen, hear the message once."
+        },
+        {
+          "id": "P07-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P07-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P07-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Record a short message about something you enjoy. Listening back is optional; if you listen, hear the message once.",
+        "reflectionQuestions": [
+          "What did your voice communicate?",
+          "Which reaction was about unfamiliarity?",
+          "What one feature would you like to explore gently?"
+        ]
+      }
+    },
+    {
+      "id": "P07-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Choose a welcome, a curious question or a sincere thank-you. Say it with the meaning you want to express, without grading your whole voice. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Explore one voice feature",
+      "segments": [
+        {
+          "id": "P07-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P07-08-S02",
+          "text": "Choose a welcome, a curious question or a sincere thank-you."
+        },
+        {
+          "id": "P07-08-S03",
+          "text": "Say it with the meaning you want to express, without grading your whole voice."
+        },
+        {
+          "id": "P07-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P07-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Choose a welcome, a curious question or a sincere thank-you. Say it with the meaning you want to express, without grading your whole voice.",
+        "reflectionQuestions": [
+          "What did your voice communicate?",
+          "Which reaction was about unfamiliarity?",
+          "What one feature would you like to explore gently?"
+        ]
+      }
+    },
+    {
+      "id": "P07-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose comfortable expression",
+      "segments": [
+        {
+          "id": "P07-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P07-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P07-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P07-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You hear a recording of yourself and immediately want to stop it. The voice sounds unfamiliar. Instead of hearing the message, you begin listing everything you dislike.",
+        "partnerPrompts": [
+          "Welcome me to a familiar place.",
+          "Ask me about something that interests you.",
+          "Thank me for one specific helpful action."
+        ]
+      }
+    },
+    {
+      "id": "P07-10",
+      "type": "review",
+      "narration": "You do not have to love every recording or listen repeatedly until you do. A short, bounded review is enough. Choose one feature per practice, and leave the rest alone. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose comfortable expression",
+      "segments": [
+        {
+          "id": "P07-10-S01",
+          "text": "You do not have to love every recording or listen repeatedly until you do."
+        },
+        {
+          "id": "P07-10-S02",
+          "text": "A short, bounded review is enough."
+        },
+        {
+          "id": "P07-10-S03",
+          "text": "Choose one feature per practice, and leave the rest alone."
+        },
+        {
+          "id": "P07-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P07-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did your voice communicate?",
+          "Which reaction was about unfamiliarity?",
+          "What one feature would you like to explore gently?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P07-11",
+      "type": "transfer",
+      "narration": "Create a short voice note for yourself with one real message. Save what you heard in the meaning, not a global rating of the voice. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose comfortable expression",
+      "segments": [
+        {
+          "id": "P07-11-S01",
+          "text": "Create a short voice note for yourself with one real message."
+        },
+        {
+          "id": "P07-11-S02",
+          "text": "Save what you heard in the meaning, not a global rating of the voice."
+        },
+        {
+          "id": "P07-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P07-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P07-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Create a short voice note for yourself with one real message. Save what you heard in the meaning, not a global rating of the voice.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P07-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose comfortable expression",
+      "segments": [
+        {
+          "id": "P07-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P07-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P07-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P07-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P07-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What one feature would you like to explore gently?"
+      }
+    }
+  ]
+}

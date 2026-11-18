@@ -1,0 +1,539 @@
+{
+  "id": "B06",
+  "title": "Linked Speech / Legato",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Hear a short connected phrase",
+    "Separate connection from speed",
+    "Keep ordinary sound closures and pauses"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B06-focused-v1",
+  "sections": [
+    {
+      "id": "B06-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Linked Speech / Legato. Each word feels like another separate start, and the effort of restarting crowds a short request.\n\nWe will hear a short connected phrase, separate connection from speed, and keep ordinary sound closures and pauses. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Hear a short connected phrase",
+      "segments": [
+        {
+          "id": "B06-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B06-01-S02",
+          "text": "Today we are exploring Linked Speech / Legato."
+        },
+        {
+          "id": "B06-01-S03",
+          "text": "Each word feels like another separate start, and the effort of restarting crowds a short request."
+        },
+        {
+          "id": "B06-01-S04",
+          "text": "We will hear a short connected phrase, separate connection from speed, and keep ordinary sound closures and pauses."
+        },
+        {
+          "id": "B06-01-S05",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B06-01-S06",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B06-01-S07",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B06-01-S08",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B06-01-S09",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Hear a short connected phrase",
+          "Separate connection from speed",
+          "Keep ordinary sound closures and pauses"
+        ],
+        "altText": "One meaning group -> Connections within phrase -> Natural boundary"
+      }
+    },
+    {
+      "id": "B06-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Legato means connected. Here it describes the movement of a short spoken phrase rather than an instruction to make every sound continuous. Connection and speed are different: a connected phrase may be ordinary in pace or a little slower. A normal closure on a sound still belongs in the message.\n\nLinked speech lets a short phrase move as a connected message. You do not need to restart the voice and effort before each word. This can be explored at different speeds; connection and pace are separate features. Normal sound closures and phrase boundaries still belong in speech. Keep the phrase short enough to say comfortably.\n\nNotice the distinction: Connection does not remove voiceless sounds, normal closures or the need to breathe. It can be explored at more than one pace. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Hear a short connected phrase",
+      "segments": [
+        {
+          "id": "B06-02-S01",
+          "text": "Legato means connected."
+        },
+        {
+          "id": "B06-02-S02",
+          "text": "Here it describes the movement of a short spoken phrase rather than an instruction to make every sound continuous."
+        },
+        {
+          "id": "B06-02-S03",
+          "text": "Connection and speed are different: a connected phrase may be ordinary in pace or a little slower."
+        },
+        {
+          "id": "B06-02-S04",
+          "text": "A normal closure on a sound still belongs in the message."
+        },
+        {
+          "id": "B06-02-S05",
+          "text": "Linked speech lets a short phrase move as a connected message."
+        },
+        {
+          "id": "B06-02-S06",
+          "text": "You do not need to restart the voice and effort before each word."
+        },
+        {
+          "id": "B06-02-S07",
+          "text": "This can be explored at different speeds; connection and pace are separate features."
+        },
+        {
+          "id": "B06-02-S08",
+          "text": "Normal sound closures and phrase boundaries still belong in speech."
+        },
+        {
+          "id": "B06-02-S09",
+          "text": "Keep the phrase short enough to say comfortably."
+        },
+        {
+          "id": "B06-02-S10",
+          "text": "Notice the distinction: Connection does not remove voiceless sounds, normal closures or the need to breathe."
+        },
+        {
+          "id": "B06-02-S11",
+          "text": "It can be explored at more than one pace."
+        },
+        {
+          "id": "B06-02-S12",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B06-02-S13",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "One meaning group",
+          "Connections within phrase",
+          "Natural boundary"
+        ],
+        "altText": "One meaning group -> Connections within phrase -> Natural boundary"
+      }
+    },
+    {
+      "id": "B06-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: I would like to know more. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Connection between words, physical effort and whether the meaning remains clear. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Separate connection from speed",
+      "segments": [
+        {
+          "id": "B06-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B06-03-S02",
+          "text": "We will use this message: I would like to know more."
+        },
+        {
+          "id": "B06-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B06-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B06-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B06-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B06-03-S07",
+          "text": "Connection between words, physical effort and whether the meaning remains clear."
+        },
+        {
+          "id": "B06-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B06-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "One meaning group",
+          "Connections within phrase",
+          "Natural boundary"
+        ],
+        "altText": "Show a phrase with separate word islands and then a continuous curved line under the meaning group. Demonstrate a connected version at ordinary and slower pace. Do not demand continuous voicing across voiceless sounds or an entire sentence on one breath."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B06-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Choose a short phrase with one clear meaning. Next: Listen for connections rather than equal beats. Then: Try the phrase, then add a natural pause before another idea.\n\nUse these familiar phrases one at a time: I would like to know more. Thank you for taking the time. Let us look at the next step. Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Separate connection from speed",
+      "segments": [
+        {
+          "id": "B06-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B06-04-S02",
+          "text": "First: Choose a short phrase with one clear meaning."
+        },
+        {
+          "id": "B06-04-S03",
+          "text": "Next: Listen for connections rather than equal beats."
+        },
+        {
+          "id": "B06-04-S04",
+          "text": "Then: Try the phrase, then add a natural pause before another idea."
+        },
+        {
+          "id": "B06-04-S05",
+          "text": "Use these familiar phrases one at a time: I would like to know more."
+        },
+        {
+          "id": "B06-04-S06",
+          "text": "Thank you for taking the time."
+        },
+        {
+          "id": "B06-04-S07",
+          "text": "Let us look at the next step."
+        },
+        {
+          "id": "B06-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B06-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B06-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B06-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B06-try-1",
+            "instruction": "Choose a short phrase with one clear meaning.",
+            "phrase": "I would like to know more.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B06-try-2",
+            "instruction": "Listen for connections rather than equal beats.",
+            "phrase": "Thank you for taking the time.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B06-try-3",
+            "instruction": "Try the phrase, then add a natural pause before another idea.",
+            "phrase": "Let us look at the next step.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B06-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. What does linked speech require? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Connection between words, physical effort and whether the meaning remains clear. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Separate connection from speed",
+      "segments": [
+        {
+          "id": "B06-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B06-05-S02",
+          "text": "What does linked speech require?"
+        },
+        {
+          "id": "B06-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B06-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B06-05-S05",
+          "text": "After the check, notice one observation from your attempt: Connection between words, physical effort and whether the meaning remains clear."
+        },
+        {
+          "id": "B06-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B06-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What does linked speech require?",
+        "labels": [
+          "Voicing continuously through every consonant.",
+          "Saying a whole sentence on one breath.",
+          "Letting a short meaning group connect while keeping normal sounds and boundaries."
+        ],
+        "altText": "One meaning group -> Connections within phrase -> Natural boundary"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What does linked speech require?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Voicing continuously through every consonant.",
+            "feedback": "Consider the distinction again. Connection does not remove voiceless sounds, normal closures or the need to breathe. It can be explored at more than one pace."
+          },
+          {
+            "id": "B",
+            "text": "Saying a whole sentence on one breath.",
+            "feedback": "Consider the distinction again. Connection does not remove voiceless sounds, normal closures or the need to breathe. It can be explored at more than one pace."
+          },
+          {
+            "id": "C",
+            "text": "Letting a short meaning group connect while keeping normal sounds and boundaries.",
+            "feedback": "Yes. Connection does not remove voiceless sounds, normal closures or the need to breathe. It can be explored at more than one pace."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "B06-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Keep ordinary sound closures and pauses",
+      "segments": [
+        {
+          "id": "B06-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B06-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B06-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B06-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B06-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B06-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B06-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Connection between words, physical effort and whether the meaning remains clear.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B06-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Keep ordinary sound closures and pauses",
+      "segments": [
+        {
+          "id": "B06-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B06-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B06-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B06-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B06-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B06-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Connection between words, physical effort and whether the meaning remains clear. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Keep ordinary sound closures and pauses",
+      "segments": [
+        {
+          "id": "B06-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B06-08-S02",
+          "text": "Here is the feature we explored: Connection between words, physical effort and whether the meaning remains clear."
+        },
+        {
+          "id": "B06-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B06-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B06-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B06-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B06-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B06-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B06-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B06-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "One meaning group",
+          "Connections within phrase",
+          "Natural boundary"
+        ],
+        "altText": "One meaning group -> Connections within phrase -> Natural boundary"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore continuity between words within meaningful phrases.",
+    "teachingScript": "Linked speech lets a short phrase move as a connected message. You do not need to restart the voice and effort before each word. This can be explored at different speeds; connection and pace are separate features. Normal sound closures and phrase boundaries still belong in speech. Keep the phrase short enough to say comfortably.",
+    "demonstrationProduction": "Show a phrase with separate word islands and then a continuous curved line under the meaning group. Demonstrate a connected version at ordinary and slower pace. Do not demand continuous voicing across voiceless sounds or an entire sentence on one breath.",
+    "guidedSteps": [
+      "Choose a short phrase with one clear meaning.",
+      "Listen for connections rather than equal beats.",
+      "Try the phrase, then add a natural pause before another idea."
+    ],
+    "phrases": [
+      "I would like to know more.",
+      "Thank you for taking the time.",
+      "Let us look at the next step."
+    ],
+    "observation": "Connection between words, physical effort and whether the meaning remains clear.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

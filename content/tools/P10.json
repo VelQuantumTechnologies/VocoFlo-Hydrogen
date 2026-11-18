@@ -1,0 +1,547 @@
+{
+  "id": "P10",
+  "title": "Return to the Conversation",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice attention leaving the exchange",
+    "Find an external detail",
+    "Respond to the current message"
+  ],
+  "deeperExplanation": {
+    "question": "What if I have missed too much to respond?",
+    "answer": "You can say so directly. A request such as I missed the part after the meeting is an ordinary conversational repair. You do not need to pretend complete understanding while becoming more anxious about the gap. Ask for the portion you need, listen and respond to that. The repair can be short; it does not have to become a long explanation of why your attention moved."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P10-focused-v1",
+  "sections": [
+    {
+      "id": "P10-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Return to the Conversation. You are listening, then remember an awkward word from five minutes ago. You miss the next part of what the person says. Now you are worried about both your speech and what you missed.\n\nIn this session, we will notice attention leaving the exchange, find an external detail, and respond to the current message. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice attention leaving the exchange",
+      "segments": [
+        {
+          "id": "P10-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P10-01-S02",
+          "text": "Today we are exploring Return to the Conversation."
+        },
+        {
+          "id": "P10-01-S03",
+          "text": "You are listening, then remember an awkward word from five minutes ago."
+        },
+        {
+          "id": "P10-01-S04",
+          "text": "You miss the next part of what the person says."
+        },
+        {
+          "id": "P10-01-S05",
+          "text": "Now you are worried about both your speech and what you missed."
+        },
+        {
+          "id": "P10-01-S06",
+          "text": "In this session, we will notice attention leaving the exchange, find an external detail, and respond to the current message."
+        },
+        {
+          "id": "P10-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P10-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P10-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice attention leaving the exchange",
+          "Find an external detail",
+          "Respond to the current message"
+        ],
+        "altText": "This session explores: Notice attention leaving the exchange; Find an external detail; Respond to the current message."
+      }
+    },
+    {
+      "id": "P10-02",
+      "type": "explain",
+      "narration": "Returning is a small action of attention. You do not need to recover perfect concentration before participating. Find one available detail: the last point you understood, a word the person emphasised, or a question you genuinely have. Respond to that detail, or ask them to repeat what you missed. Conversation has room for repair.",
+      "learningPurpose": "Notice attention leaving the exchange",
+      "segments": [
+        {
+          "id": "P10-02-S01",
+          "text": "Returning is a small action of attention."
+        },
+        {
+          "id": "P10-02-S02",
+          "text": "You do not need to recover perfect concentration before participating."
+        },
+        {
+          "id": "P10-02-S03",
+          "text": "Find one available detail: the last point you understood, a word the person emphasised, or a question you genuinely have."
+        },
+        {
+          "id": "P10-02-S04",
+          "text": "Respond to that detail, or ask them to repeat what you missed."
+        },
+        {
+          "id": "P10-02-S05",
+          "text": "Conversation has room for repair."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What detail helped you return?"
+      }
+    },
+    {
+      "id": "P10-03",
+      "type": "explain",
+      "narration": "You are listening, then remember an awkward word from five minutes ago. You miss the next part of what the person says. Now you are worried about both your speech and what you missed.\n\nOutward attention is not a performance trick for looking engaged. You are actually trying to understand and contribute. Avoid making eye contact, nodding or remembering every detail another examination. A simple honest question can bring you back more effectively than pretending you heard everything.\n\nWhat if I have missed too much to respond?\n\nYou can say so directly. A request such as I missed the part after the meeting is an ordinary conversational repair. You do not need to pretend complete understanding while becoming more anxious about the gap. Ask for the portion you need, listen and respond to that. The repair can be short; it does not have to become a long explanation of why your attention moved.",
+      "learningPurpose": "Notice attention leaving the exchange",
+      "segments": [
+        {
+          "id": "P10-03-S01",
+          "text": "You are listening, then remember an awkward word from five minutes ago."
+        },
+        {
+          "id": "P10-03-S02",
+          "text": "You miss the next part of what the person says."
+        },
+        {
+          "id": "P10-03-S03",
+          "text": "Now you are worried about both your speech and what you missed."
+        },
+        {
+          "id": "P10-03-S04",
+          "text": "Outward attention is not a performance trick for looking engaged."
+        },
+        {
+          "id": "P10-03-S05",
+          "text": "You are actually trying to understand and contribute."
+        },
+        {
+          "id": "P10-03-S06",
+          "text": "Avoid making eye contact, nodding or remembering every detail another examination."
+        },
+        {
+          "id": "P10-03-S07",
+          "text": "A simple honest question can bring you back more effectively than pretending you heard everything."
+        },
+        {
+          "id": "P10-03-S08",
+          "text": "What if I have missed too much to respond?"
+        },
+        {
+          "id": "P10-03-S09",
+          "text": "You can say so directly."
+        },
+        {
+          "id": "P10-03-S10",
+          "text": "A request such as I missed the part after the meeting is an ordinary conversational repair."
+        },
+        {
+          "id": "P10-03-S11",
+          "text": "You do not need to pretend complete understanding while becoming more anxious about the gap."
+        },
+        {
+          "id": "P10-03-S12",
+          "text": "Ask for the portion you need, listen and respond to that."
+        },
+        {
+          "id": "P10-03-S13",
+          "text": "The repair can be short; it does not have to become a long explanation of why your attention moved."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Attention drifts",
+          "Listener's detail",
+          "Relevant response"
+        ],
+        "altText": "Three parts to distinguish: Attention drifts, Listener's detail, Relevant response. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Did you pretend or clarify?"
+      }
+    },
+    {
+      "id": "P10-04",
+      "type": "visual",
+      "narration": "Think of stepping off a walking path to look at something. Returning means taking the next step onto the path. You do not have to retrace the entire journey first.",
+      "learningPurpose": "Notice attention leaving the exchange",
+      "segments": [
+        {
+          "id": "P10-04-S01",
+          "text": "Think of stepping off a walking path to look at something."
+        },
+        {
+          "id": "P10-04-S02",
+          "text": "Returning means taking the next step onto the path."
+        },
+        {
+          "id": "P10-04-S03",
+          "text": "You do not have to retrace the entire journey first."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Walking path",
+        "labels": [
+          "Attention drifts",
+          "Next relevant step"
+        ],
+        "altText": "Think of stepping off a walking path to look at something. Returning means taking the next step onto the path. You do not have to retrace the entire journey first."
+      }
+    },
+    {
+      "id": "P10-05",
+      "type": "contrast",
+      "narration": "Pretending: Nod while privately replaying the mistake. Returning: I missed the last part. What happened after the meeting? The honest response reconnects you with the person. Now consider a short check. What is a conversational attention anchor? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Find an external detail",
+      "segments": [
+        {
+          "id": "P10-05-S01",
+          "text": "Pretending: Nod while privately replaying the mistake."
+        },
+        {
+          "id": "P10-05-S02",
+          "text": "Returning: I missed the last part."
+        },
+        {
+          "id": "P10-05-S03",
+          "text": "What happened after the meeting?"
+        },
+        {
+          "id": "P10-05-S04",
+          "text": "The honest response reconnects you with the person."
+        },
+        {
+          "id": "P10-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P10-05-S06",
+          "text": "What is a conversational attention anchor?"
+        },
+        {
+          "id": "P10-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is a conversational attention anchor?",
+        "labels": [
+          "The exact shape of your mouth.",
+          "A tally of every pause.",
+          "A detail of what the other person just said."
+        ],
+        "altText": "Three options: The exact shape of your mouth. / A tally of every pause. / A detail of what the other person just said."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is a conversational attention anchor?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The exact shape of your mouth.",
+            "feedback": "Consider the distinction again. A relevant detail gives attention somewhere useful to return. This is not a demand to maintain perfect focus."
+          },
+          {
+            "id": "B",
+            "text": "A tally of every pause.",
+            "feedback": "Consider the distinction again. A relevant detail gives attention somewhere useful to return. This is not a demand to maintain perfect focus."
+          },
+          {
+            "id": "C",
+            "text": "A detail of what the other person just said.",
+            "feedback": "Yes. A relevant detail gives attention somewhere useful to return. This is not a demand to maintain perfect focus."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P10-06",
+      "type": "reflection",
+      "narration": "Read a short partner statement. Put it aside and write one detail you remember and one genuine question. Notice whether you can respond without holding the whole statement perfectly in mind.",
+      "learningPurpose": "Find an external detail",
+      "segments": [
+        {
+          "id": "P10-06-S01",
+          "text": "Read a short partner statement."
+        },
+        {
+          "id": "P10-06-S02",
+          "text": "Put it aside and write one detail you remember and one genuine question."
+        },
+        {
+          "id": "P10-06-S03",
+          "text": "Notice whether you can respond without holding the whole statement perfectly in mind."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Read a short partner statement. Put it aside and write one detail you remember and one genuine question. Notice whether you can respond without holding the whole statement perfectly in mind.",
+        "questions": [
+          "What detail helped you return?",
+          "Did you pretend or clarify?",
+          "What did you discover about the other person?"
+        ]
+      }
+    },
+    {
+      "id": "P10-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Listen to this prepared message: I tried a new walking route yesterday, and the quiet park was my favourite part. Reply with one relevant detail or question. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Find an external detail",
+      "segments": [
+        {
+          "id": "P10-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P10-07-S02",
+          "text": "Listen to this prepared message: I tried a new walking route yesterday, and the quiet park was my favourite part."
+        },
+        {
+          "id": "P10-07-S03",
+          "text": "Reply with one relevant detail or question."
+        },
+        {
+          "id": "P10-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P10-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P10-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Listen to this prepared message: I tried a new walking route yesterday, and the quiet park was my favourite part. Reply with one relevant detail or question.",
+        "reflectionQuestions": [
+          "What detail helped you return?",
+          "Did you pretend or clarify?",
+          "What did you discover about the other person?"
+        ]
+      }
+    },
+    {
+      "id": "P10-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Hear the same message once more, then respond to the detail about the quiet park. Return to that meaning if attention drifts; no perfect-focus requirement. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Find an external detail",
+      "segments": [
+        {
+          "id": "P10-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P10-08-S02",
+          "text": "Hear the same message once more, then respond to the detail about the quiet park."
+        },
+        {
+          "id": "P10-08-S03",
+          "text": "Return to that meaning if attention drifts; no perfect-focus requirement."
+        },
+        {
+          "id": "P10-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P10-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Hear the same message once more, then respond to the detail about the quiet park. Return to that meaning if attention drifts; no perfect-focus requirement.",
+        "reflectionQuestions": [
+          "What detail helped you return?",
+          "Did you pretend or clarify?",
+          "What did you discover about the other person?"
+        ]
+      }
+    },
+    {
+      "id": "P10-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Respond to the current message",
+      "segments": [
+        {
+          "id": "P10-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P10-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P10-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P10-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You are listening, then remember an awkward word from five minutes ago. You miss the next part of what the person says. Now you are worried about both your speech and what you missed.",
+        "partnerPrompts": [
+          "I tried a different route to work and found a small park. What would you ask me?",
+          "The park was quiet, but I arrived later than usual. What detail interests you?",
+          "I am deciding whether to take that route again. What would you like to understand?"
+        ]
+      }
+    },
+    {
+      "id": "P10-10",
+      "type": "review",
+      "narration": "You will drift again. Returning is the skill, not permanent concentration. A missed detail is not evidence that you are a bad listener or speaker. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Respond to the current message",
+      "segments": [
+        {
+          "id": "P10-10-S01",
+          "text": "You will drift again."
+        },
+        {
+          "id": "P10-10-S02",
+          "text": "Returning is the skill, not permanent concentration."
+        },
+        {
+          "id": "P10-10-S03",
+          "text": "A missed detail is not evidence that you are a bad listener or speaker."
+        },
+        {
+          "id": "P10-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P10-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What detail helped you return?",
+          "Did you pretend or clarify?",
+          "What did you discover about the other person?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P10-11",
+      "type": "transfer",
+      "narration": "In one everyday exchange, ask a genuine follow-up based on what you actually heard. Save one sentence about the connection you noticed. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Respond to the current message",
+      "segments": [
+        {
+          "id": "P10-11-S01",
+          "text": "In one everyday exchange, ask a genuine follow-up based on what you actually heard."
+        },
+        {
+          "id": "P10-11-S02",
+          "text": "Save one sentence about the connection you noticed."
+        },
+        {
+          "id": "P10-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P10-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P10-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "In one everyday exchange, ask a genuine follow-up based on what you actually heard. Save one sentence about the connection you noticed.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P10-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Respond to the current message",
+      "segments": [
+        {
+          "id": "P10-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P10-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P10-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P10-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P10-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What did you discover about the other person?"
+      }
+    }
+  ]
+}

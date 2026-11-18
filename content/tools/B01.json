@@ -1,0 +1,531 @@
+{
+  "id": "B01",
+  "title": "Exhalation — Begin With Moving Air",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Recognise a held or pressured start",
+    "Observe comfortable outward airflow",
+    "Explore a short message without breath exhaustion"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B01-focused-v1",
+  "sections": [
+    {
+      "id": "B01-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Exhalation — Begin With Moving Air. Beginning a sentence feels like a held starting gate. You want to ask a simple question, but extra preparation can become another task.\n\nWe will recognise a held or pressured start, observe comfortable outward airflow, and explore a short message without breath exhaustion. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Recognise a held or pressured start",
+      "segments": [
+        {
+          "id": "B01-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B01-01-S02",
+          "text": "Today we are exploring Exhalation — Begin With Moving Air."
+        },
+        {
+          "id": "B01-01-S03",
+          "text": "Beginning a sentence feels like a held starting gate."
+        },
+        {
+          "id": "B01-01-S04",
+          "text": "You want to ask a simple question, but extra preparation can become another task."
+        },
+        {
+          "id": "B01-01-S05",
+          "text": "We will recognise a held or pressured start, observe comfortable outward airflow, and explore a short message without breath exhaustion."
+        },
+        {
+          "id": "B01-01-S06",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B01-01-S07",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B01-01-S08",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B01-01-S09",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B01-01-S10",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Recognise a held or pressured start",
+          "Observe comfortable outward airflow",
+          "Explore a short message without breath exhaustion"
+        ],
+        "altText": "Comfortable breath -> Short spoken message -> Natural breath again"
+      }
+    },
+    {
+      "id": "B01-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Airflow is the movement of air. Voice onset is when voiced sound begins, and articulation is how the mouth shapes sounds. They work together, but this lesson gives attention to airflow rather than asking you to manage all three at once.\n\nBefore a first word, you may notice that you hold your breath or add pressure. Today we will explore the beginning of a message with comfortable moving air. This is a physical exploration, not a requirement to arrange a perfect breath before every sentence. Let breathing remain comfortable, and use short phrases with time to breathe again.\n\nNotice the distinction: The focus is comfortable moving air, not a large inhalation or exhausting the breath. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Recognise a held or pressured start",
+      "segments": [
+        {
+          "id": "B01-02-S01",
+          "text": "Airflow is the movement of air."
+        },
+        {
+          "id": "B01-02-S02",
+          "text": "Voice onset is when voiced sound begins, and articulation is how the mouth shapes sounds."
+        },
+        {
+          "id": "B01-02-S03",
+          "text": "They work together, but this lesson gives attention to airflow rather than asking you to manage all three at once."
+        },
+        {
+          "id": "B01-02-S04",
+          "text": "Before a first word, you may notice that you hold your breath or add pressure."
+        },
+        {
+          "id": "B01-02-S05",
+          "text": "Today we will explore the beginning of a message with comfortable moving air."
+        },
+        {
+          "id": "B01-02-S06",
+          "text": "This is a physical exploration, not a requirement to arrange a perfect breath before every sentence."
+        },
+        {
+          "id": "B01-02-S07",
+          "text": "Let breathing remain comfortable, and use short phrases with time to breathe again."
+        },
+        {
+          "id": "B01-02-S08",
+          "text": "Notice the distinction: The focus is comfortable moving air, not a large inhalation or exhausting the breath."
+        },
+        {
+          "id": "B01-02-S09",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B01-02-S10",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "Comfortable breath",
+          "Short spoken message",
+          "Natural breath again"
+        ],
+        "altText": "Comfortable breath -> Short spoken message -> Natural breath again"
+      }
+    },
+    {
+      "id": "B01-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: I would like some water. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Whether beginning felt held, pressured or easier; whether breath remained comfortable. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Observe comfortable outward airflow",
+      "segments": [
+        {
+          "id": "B01-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B01-03-S02",
+          "text": "We will use this message: I would like some water."
+        },
+        {
+          "id": "B01-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B01-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B01-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B01-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B01-03-S07",
+          "text": "Whether beginning felt held, pressured or easier; whether breath remained comfortable."
+        },
+        {
+          "id": "B01-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B01-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "Comfortable breath",
+          "Short spoken message",
+          "Natural breath again"
+        ],
+        "altText": "Demonstrate a comfortable quiet breath and a short phrase during outward airflow. Use a side-by-side airflow arrow and speaker icon. Do not teach a large inhalation, mandatory silent-exhale interval, forced H insertion or breath exhaustion. Exact onset timing and demonstrated model must be confirmed by Chetan before release."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B01-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Notice a comfortable breath without trying to enlarge it. Next: Try a short familiar phrase while allowing outward airflow. Then: Pause naturally and compare another short phrase.\n\nUse these familiar phrases one at a time: I would like some water. The meeting starts tomorrow. Can I ask a question? Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Observe comfortable outward airflow",
+      "segments": [
+        {
+          "id": "B01-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B01-04-S02",
+          "text": "First: Notice a comfortable breath without trying to enlarge it."
+        },
+        {
+          "id": "B01-04-S03",
+          "text": "Next: Try a short familiar phrase while allowing outward airflow."
+        },
+        {
+          "id": "B01-04-S04",
+          "text": "Then: Pause naturally and compare another short phrase."
+        },
+        {
+          "id": "B01-04-S05",
+          "text": "Use these familiar phrases one at a time: I would like some water."
+        },
+        {
+          "id": "B01-04-S06",
+          "text": "The meeting starts tomorrow."
+        },
+        {
+          "id": "B01-04-S07",
+          "text": "Can I ask a question?"
+        },
+        {
+          "id": "B01-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B01-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B01-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B01-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B01-try-1",
+            "instruction": "Notice a comfortable breath without trying to enlarge it.",
+            "phrase": "I would like some water.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B01-try-2",
+            "instruction": "Try a short familiar phrase while allowing outward airflow.",
+            "phrase": "The meeting starts tomorrow.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B01-try-3",
+            "instruction": "Pause naturally and compare another short phrase.",
+            "phrase": "Can I ask a question?",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B01-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. What is the purpose of this airflow exploration? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Whether beginning felt held, pressured or easier; whether breath remained comfortable. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Observe comfortable outward airflow",
+      "segments": [
+        {
+          "id": "B01-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B01-05-S02",
+          "text": "What is the purpose of this airflow exploration?"
+        },
+        {
+          "id": "B01-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B01-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B01-05-S05",
+          "text": "After the check, notice one observation from your attempt: Whether beginning felt held, pressured or easier; whether breath remained comfortable."
+        },
+        {
+          "id": "B01-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B01-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is the purpose of this airflow exploration?",
+        "labels": [
+          "Use the biggest possible breath.",
+          "Begin a short message with comfortable outward airflow.",
+          "Empty the lungs before the first word."
+        ],
+        "altText": "Comfortable breath -> Short spoken message -> Natural breath again"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is the purpose of this airflow exploration?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Use the biggest possible breath.",
+            "feedback": "Consider the distinction again. The focus is comfortable moving air, not a large inhalation or exhausting the breath."
+          },
+          {
+            "id": "B",
+            "text": "Begin a short message with comfortable outward airflow.",
+            "feedback": "Yes. The focus is comfortable moving air, not a large inhalation or exhausting the breath."
+          },
+          {
+            "id": "C",
+            "text": "Empty the lungs before the first word.",
+            "feedback": "Consider the distinction again. The focus is comfortable moving air, not a large inhalation or exhausting the breath."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "B01-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Explore a short message without breath exhaustion",
+      "segments": [
+        {
+          "id": "B01-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B01-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B01-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B01-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B01-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B01-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B01-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Whether beginning felt held, pressured or easier; whether breath remained comfortable.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B01-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Explore a short message without breath exhaustion",
+      "segments": [
+        {
+          "id": "B01-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B01-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B01-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B01-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B01-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B01-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Whether beginning felt held, pressured or easier; whether breath remained comfortable. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Explore a short message without breath exhaustion",
+      "segments": [
+        {
+          "id": "B01-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B01-08-S02",
+          "text": "Here is the feature we explored: Whether beginning felt held, pressured or easier; whether breath remained comfortable."
+        },
+        {
+          "id": "B01-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B01-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B01-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B01-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B01-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B01-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B01-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B01-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "Comfortable breath",
+          "Short spoken message",
+          "Natural breath again"
+        ],
+        "altText": "Comfortable breath -> Short spoken message -> Natural breath again"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore beginning a short spoken message with comfortable outward airflow.",
+    "teachingScript": "Before a first word, you may notice that you hold your breath or add pressure. Today we will explore the beginning of a message with comfortable moving air. This is a physical exploration, not a requirement to arrange a perfect breath before every sentence. Let breathing remain comfortable, and use short phrases with time to breathe again.",
+    "demonstrationProduction": "Demonstrate a comfortable quiet breath and a short phrase during outward airflow. Use a side-by-side airflow arrow and speaker icon. Do not teach a large inhalation, mandatory silent-exhale interval, forced H insertion or breath exhaustion. Exact onset timing and demonstrated model must be confirmed by Chetan before release.",
+    "guidedSteps": [
+      "Notice a comfortable breath without trying to enlarge it.",
+      "Try a short familiar phrase while allowing outward airflow.",
+      "Pause naturally and compare another short phrase."
+    ],
+    "phrases": [
+      "I would like some water.",
+      "The meeting starts tomorrow.",
+      "Can I ask a question?"
+    ],
+    "observation": "Whether beginning felt held, pressured or easier; whether breath remained comfortable.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

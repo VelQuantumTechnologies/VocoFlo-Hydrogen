@@ -1,0 +1,527 @@
+{
+  "id": "P29",
+  "title": "Disclosure, Boundaries, and Listener Reactions",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Choose how much to disclose",
+    "State a clear preference",
+    "Separate observed reaction from a guess"
+  ],
+  "deeperExplanation": {
+    "question": "What if someone reacts badly to my boundary?",
+    "answer": "A boundary gives information about what you need; it does not control another person. You can repeat the request, change the setting, seek support or decide to leave the exchange. Consider the relationship and practical consequences. You do not have to explain your entire history to justify a simple speaking preference. Their reaction can help you choose how much access or trust to offer next."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P29-focused-v1",
+  "sections": [
+    {
+      "id": "P29-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Disclosure, Boundaries, and Listener Reactions. Someone finishes your sentence or offers advice you did not ask for. You want to explain what helps, but worry that doing so will make the moment uncomfortable.\n\nIn this session, we will choose how much to disclose, state a clear preference, and separate observed reaction from a guess. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Choose how much to disclose",
+      "segments": [
+        {
+          "id": "P29-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P29-01-S02",
+          "text": "Today we are exploring Disclosure, Boundaries, and Listener Reactions."
+        },
+        {
+          "id": "P29-01-S03",
+          "text": "Someone finishes your sentence or offers advice you did not ask for."
+        },
+        {
+          "id": "P29-01-S04",
+          "text": "You want to explain what helps, but worry that doing so will make the moment uncomfortable."
+        },
+        {
+          "id": "P29-01-S05",
+          "text": "In this session, we will choose how much to disclose, state a clear preference, and separate observed reaction from a guess."
+        },
+        {
+          "id": "P29-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P29-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P29-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Choose how much to disclose",
+          "State a clear preference",
+          "Separate observed reaction from a guess"
+        ],
+        "altText": "This session explores: Choose how much to disclose; State a clear preference; Separate observed reaction from a guess."
+      }
+    },
+    {
+      "id": "P29-02",
+      "type": "explain",
+      "narration": "You can decide how much to share about your speech. Disclosure is an option, not a requirement for participation. A boundary can focus on the immediate need: please let me finish, or I may take a little longer and I want to say this in my own words. You can be warm and direct at the same time.",
+      "learningPurpose": "Choose how much to disclose",
+      "segments": [
+        {
+          "id": "P29-02-S01",
+          "text": "You can decide how much to share about your speech."
+        },
+        {
+          "id": "P29-02-S02",
+          "text": "Disclosure is an option, not a requirement for participation."
+        },
+        {
+          "id": "P29-02-S03",
+          "text": "A boundary can focus on the immediate need: please let me finish, or I may take a little longer and I want to say this in my own words."
+        },
+        {
+          "id": "P29-02-S04",
+          "text": "You can be warm and direct at the same time."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did you want the listener to do?"
+      }
+    },
+    {
+      "id": "P29-03",
+      "type": "explain",
+      "narration": "Someone finishes your sentence or offers advice you did not ask for. You want to explain what helps, but worry that doing so will make the moment uncomfortable.\n\nListener reactions are varied and sometimes unclear. A glance, pause or expression does not tell you everything they think. You can check an interpretation, state a need or choose not to engage further. If someone is repeatedly unkind, you do not have to turn their response into a lesson about your own confidence.\n\nWhat if someone reacts badly to my boundary?\n\nA boundary gives information about what you need; it does not control another person. You can repeat the request, change the setting, seek support or decide to leave the exchange. Consider the relationship and practical consequences. You do not have to explain your entire history to justify a simple speaking preference. Their reaction can help you choose how much access or trust to offer next.",
+      "learningPurpose": "Choose how much to disclose",
+      "segments": [
+        {
+          "id": "P29-03-S01",
+          "text": "Someone finishes your sentence or offers advice you did not ask for."
+        },
+        {
+          "id": "P29-03-S02",
+          "text": "You want to explain what helps, but worry that doing so will make the moment uncomfortable."
+        },
+        {
+          "id": "P29-03-S03",
+          "text": "Listener reactions are varied and sometimes unclear."
+        },
+        {
+          "id": "P29-03-S04",
+          "text": "A glance, pause or expression does not tell you everything they think."
+        },
+        {
+          "id": "P29-03-S05",
+          "text": "You can check an interpretation, state a need or choose not to engage further."
+        },
+        {
+          "id": "P29-03-S06",
+          "text": "If someone is repeatedly unkind, you do not have to turn their response into a lesson about your own confidence."
+        },
+        {
+          "id": "P29-03-S07",
+          "text": "What if someone reacts badly to my boundary?"
+        },
+        {
+          "id": "P29-03-S08",
+          "text": "A boundary gives information about what you need; it does not control another person."
+        },
+        {
+          "id": "P29-03-S09",
+          "text": "You can repeat the request, change the setting, seek support or decide to leave the exchange."
+        },
+        {
+          "id": "P29-03-S10",
+          "text": "Consider the relationship and practical consequences."
+        },
+        {
+          "id": "P29-03-S11",
+          "text": "You do not have to explain your entire history to justify a simple speaking preference."
+        },
+        {
+          "id": "P29-03-S12",
+          "text": "Their reaction can help you choose how much access or trust to offer next."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "My preference",
+          "Optional disclosure",
+          "Observed response"
+        ],
+        "altText": "Three parts to distinguish: My preference, Optional disclosure, Observed response. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "How much did you choose to disclose?"
+      }
+    },
+    {
+      "id": "P29-04",
+      "type": "visual",
+      "narration": "A sign on a door gives visitors useful information. You decide what the sign says and who needs to see it. It is not a confession that you must make everywhere.",
+      "learningPurpose": "Choose how much to disclose",
+      "segments": [
+        {
+          "id": "P29-04-S01",
+          "text": "A sign on a door gives visitors useful information."
+        },
+        {
+          "id": "P29-04-S02",
+          "text": "You decide what the sign says and who needs to see it."
+        },
+        {
+          "id": "P29-04-S03",
+          "text": "It is not a confession that you must make everywhere."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Door sign",
+        "labels": [
+          "A practical request",
+          "Disclosure is a choice"
+        ],
+        "altText": "A sign on a door gives visitors useful information. You decide what the sign says and who needs to see it. It is not a confession that you must make everywhere."
+      }
+    },
+    {
+      "id": "P29-05",
+      "type": "contrast",
+      "narration": "Unspoken hope: They should know not to finish for me. Stated preference: I appreciate you trying to help. I would like to finish the sentence myself. You can acknowledge intent while being clear about impact. Now consider a short check. What is true about disclosure? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "State a clear preference",
+      "segments": [
+        {
+          "id": "P29-05-S01",
+          "text": "Unspoken hope: They should know not to finish for me."
+        },
+        {
+          "id": "P29-05-S02",
+          "text": "Stated preference: I appreciate you trying to help."
+        },
+        {
+          "id": "P29-05-S03",
+          "text": "I would like to finish the sentence myself."
+        },
+        {
+          "id": "P29-05-S04",
+          "text": "You can acknowledge intent while being clear about impact."
+        },
+        {
+          "id": "P29-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P29-05-S06",
+          "text": "What is true about disclosure?"
+        },
+        {
+          "id": "P29-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is true about disclosure?",
+        "labels": [
+          "It is a choice; a brief request can be enough.",
+          "It is required before you may participate.",
+          "You must explain your whole history."
+        ],
+        "altText": "Three options: It is a choice; a brief request can be enough. / It is required before you may participate. / You must explain your whole history."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is true about disclosure?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It is a choice; a brief request can be enough.",
+            "feedback": "Yes. You can ask for a practical need without sharing more than you want. The relationship and setting can guide your choice."
+          },
+          {
+            "id": "B",
+            "text": "It is required before you may participate.",
+            "feedback": "Consider the distinction again. You can ask for a practical need without sharing more than you want. The relationship and setting can guide your choice."
+          },
+          {
+            "id": "C",
+            "text": "You must explain your whole history.",
+            "feedback": "Consider the distinction again. You can ask for a practical need without sharing more than you want. The relationship and setting can guide your choice."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P29-06",
+      "type": "reflection",
+      "narration": "Choose a common listener behaviour. Write a minimal request, an optional disclosure and an exit or follow-up option. Choose wording that fits the relationship and the setting.",
+      "learningPurpose": "State a clear preference",
+      "segments": [
+        {
+          "id": "P29-06-S01",
+          "text": "Choose a common listener behaviour."
+        },
+        {
+          "id": "P29-06-S02",
+          "text": "Write a minimal request, an optional disclosure and an exit or follow-up option."
+        },
+        {
+          "id": "P29-06-S03",
+          "text": "Choose wording that fits the relationship and the setting."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Choose a common listener behaviour. Write a minimal request, an optional disclosure and an exit or follow-up option. Choose wording that fits the relationship and the setting.",
+        "questions": [
+          "What did you want the listener to do?",
+          "How much did you choose to disclose?",
+          "Which reaction was observed rather than assumed?"
+        ]
+      }
+    },
+    {
+      "id": "P29-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Practise one minimal speaking preference you would like a listener to respect. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "State a clear preference",
+      "segments": [
+        {
+          "id": "P29-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P29-07-S02",
+          "text": "Practise one minimal speaking preference you would like a listener to respect."
+        },
+        {
+          "id": "P29-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P29-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P29-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Practise one minimal speaking preference you would like a listener to respect.",
+        "reflectionQuestions": [
+          "What did you want the listener to do?",
+          "How much did you choose to disclose?",
+          "Which reaction was observed rather than assumed?"
+        ]
+      }
+    },
+    {
+      "id": "P29-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Choose a warmer restatement, a firmer boundary, a written response or an exit for a repeated interruption. Share only as much personal information as you choose. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "State a clear preference",
+      "segments": [
+        {
+          "id": "P29-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P29-08-S02",
+          "text": "Choose a warmer restatement, a firmer boundary, a written response or an exit for a repeated interruption."
+        },
+        {
+          "id": "P29-08-S03",
+          "text": "Share only as much personal information as you choose."
+        },
+        {
+          "id": "P29-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P29-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Choose a warmer restatement, a firmer boundary, a written response or an exit for a repeated interruption. Share only as much personal information as you choose.",
+        "reflectionQuestions": [
+          "What did you want the listener to do?",
+          "How much did you choose to disclose?",
+          "Which reaction was observed rather than assumed?"
+        ]
+      }
+    },
+    {
+      "id": "P29-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Separate observed reaction from a guess",
+      "segments": [
+        {
+          "id": "P29-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P29-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P29-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P29-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "Someone finishes your sentence or offers advice you did not ask for. You want to explain what helps, but worry that doing so will make the moment uncomfortable.",
+        "partnerPrompts": [
+          "I finish your sentence, trying to help. What would you like me to do?",
+          "I look uncertain. How could you check what I understood?",
+          "I interrupt again. State a boundary or choose how to leave the exchange."
+        ]
+      }
+    },
+    {
+      "id": "P29-10",
+      "type": "review",
+      "narration": "You do not have to disclose in order to earn patience, and a boundary does not guarantee the other person will respond well. Their reaction gives information about the relationship, not a verdict about you. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Separate observed reaction from a guess",
+      "segments": [
+        {
+          "id": "P29-10-S01",
+          "text": "You do not have to disclose in order to earn patience, and a boundary does not guarantee the other person will respond well."
+        },
+        {
+          "id": "P29-10-S02",
+          "text": "Their reaction gives information about the relationship, not a verdict about you."
+        },
+        {
+          "id": "P29-10-S03",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P29-10-S04",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did you want the listener to do?",
+          "How much did you choose to disclose?",
+          "Which reaction was observed rather than assumed?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P29-11",
+      "type": "transfer",
+      "narration": "Use one preference statement when it serves you. Record what you asked, what was actually said and what you choose next. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Separate observed reaction from a guess",
+      "segments": [
+        {
+          "id": "P29-11-S01",
+          "text": "Use one preference statement when it serves you."
+        },
+        {
+          "id": "P29-11-S02",
+          "text": "Record what you asked, what was actually said and what you choose next."
+        },
+        {
+          "id": "P29-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P29-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P29-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Use one preference statement when it serves you. Record what you asked, what was actually said and what you choose next.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P29-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Separate observed reaction from a guess",
+      "segments": [
+        {
+          "id": "P29-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P29-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P29-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P29-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P29-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Which reaction was observed rather than assumed?"
+      }
+    }
+  ]
+}

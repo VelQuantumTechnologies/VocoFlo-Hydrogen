@@ -1,0 +1,551 @@
+{
+  "id": "P05",
+  "title": "Stop Standing Against Yourself",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Recognise a personal attack",
+    "Keep useful information",
+    "Choose a supportive next step"
+  ],
+  "deeperExplanation": {
+    "question": "Will kindness make me stop improving?",
+    "answer": "Improvement needs information and practice. Personal attacks are not the same as information. You can notice I rushed the first answer and choose to take more room next time. That is more actionable than I am hopeless. Support also makes room to acknowledge what did work, so your picture of an attempt is more complete. You remain responsible for your choices without treating yourself as an enemy."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P05-focused-v1",
+  "sections": [
+    {
+      "id": "P05-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Stop Standing Against Yourself. After a difficult answer, your internal voice says: Why are you still doing this? You know better. The next answer begins with an argument already taking place inside you.\n\nIn this session, we will recognise a personal attack, keep useful information, and choose a supportive next step. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Recognise a personal attack",
+      "segments": [
+        {
+          "id": "P05-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P05-01-S02",
+          "text": "Today we are exploring Stop Standing Against Yourself."
+        },
+        {
+          "id": "P05-01-S03",
+          "text": "After a difficult answer, your internal voice says: Why are you still doing this?"
+        },
+        {
+          "id": "P05-01-S04",
+          "text": "You know better."
+        },
+        {
+          "id": "P05-01-S05",
+          "text": "The next answer begins with an argument already taking place inside you."
+        },
+        {
+          "id": "P05-01-S06",
+          "text": "In this session, we will recognise a personal attack, keep useful information, and choose a supportive next step."
+        },
+        {
+          "id": "P05-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P05-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P05-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Recognise a personal attack",
+          "Keep useful information",
+          "Choose a supportive next step"
+        ],
+        "altText": "This session explores: Recognise a personal attack; Keep useful information; Choose a supportive next step."
+      }
+    },
+    {
+      "id": "P05-02",
+      "type": "explain",
+      "narration": "You can recognise something difficult without becoming your own opponent. Supporting yourself means describing the task and choosing a useful response, rather than adding an attack on the person doing it. The attack may sound motivating because it is urgent. Notice whether it actually helps you participate in the next moment, or asks you to spend more energy defending yourself.",
+      "learningPurpose": "Recognise a personal attack",
+      "segments": [
+        {
+          "id": "P05-02-S01",
+          "text": "You can recognise something difficult without becoming your own opponent."
+        },
+        {
+          "id": "P05-02-S02",
+          "text": "Supporting yourself means describing the task and choosing a useful response, rather than adding an attack on the person doing it."
+        },
+        {
+          "id": "P05-02-S03",
+          "text": "The attack may sound motivating because it is urgent."
+        },
+        {
+          "id": "P05-02-S04",
+          "text": "Notice whether it actually helps you participate in the next moment, or asks you to spend more energy defending yourself."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What information was hidden inside the criticism?"
+      }
+    },
+    {
+      "id": "P05-03",
+      "type": "explain",
+      "narration": "After a difficult answer, your internal voice says: Why are you still doing this? You know better. The next answer begins with an argument already taking place inside you.\n\nA supportive response can be honest. You can say that answer was hard, I wanted more time, or I rushed. Support is not a claim that every attempt was wonderful. It is the decision to stay on your own side while you work with what happened. That leaves room for both learning and dignity.\n\nWill kindness make me stop improving?\n\nImprovement needs information and practice. Personal attacks are not the same as information. You can notice I rushed the first answer and choose to take more room next time. That is more actionable than I am hopeless. Support also makes room to acknowledge what did work, so your picture of an attempt is more complete. You remain responsible for your choices without treating yourself as an enemy.",
+      "learningPurpose": "Recognise a personal attack",
+      "segments": [
+        {
+          "id": "P05-03-S01",
+          "text": "After a difficult answer, your internal voice says: Why are you still doing this?"
+        },
+        {
+          "id": "P05-03-S02",
+          "text": "You know better."
+        },
+        {
+          "id": "P05-03-S03",
+          "text": "The next answer begins with an argument already taking place inside you."
+        },
+        {
+          "id": "P05-03-S04",
+          "text": "A supportive response can be honest."
+        },
+        {
+          "id": "P05-03-S05",
+          "text": "You can say that answer was hard, I wanted more time, or I rushed."
+        },
+        {
+          "id": "P05-03-S06",
+          "text": "Support is not a claim that every attempt was wonderful."
+        },
+        {
+          "id": "P05-03-S07",
+          "text": "It is the decision to stay on your own side while you work with what happened."
+        },
+        {
+          "id": "P05-03-S08",
+          "text": "That leaves room for both learning and dignity."
+        },
+        {
+          "id": "P05-03-S09",
+          "text": "Will kindness make me stop improving?"
+        },
+        {
+          "id": "P05-03-S10",
+          "text": "Improvement needs information and practice."
+        },
+        {
+          "id": "P05-03-S11",
+          "text": "Personal attacks are not the same as information."
+        },
+        {
+          "id": "P05-03-S12",
+          "text": "You can notice I rushed the first answer and choose to take more room next time."
+        },
+        {
+          "id": "P05-03-S13",
+          "text": "That is more actionable than I am hopeless."
+        },
+        {
+          "id": "P05-03-S14",
+          "text": "Support also makes room to acknowledge what did work, so your picture of an attempt is more complete."
+        },
+        {
+          "id": "P05-03-S15",
+          "text": "You remain responsible for your choices without treating yourself as an enemy."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Personal attack",
+          "Useful information",
+          "Next helpful action"
+        ],
+        "altText": "Three parts to distinguish: Personal attack, Useful information, Next helpful action. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What response would help the next moment?"
+      }
+    },
+    {
+      "id": "P05-04",
+      "type": "visual",
+      "narration": "Think of a teammate who has missed a pass. You can help them see the next play, or keep shouting about the missed pass while the game continues. Choose the kind of teammate you would want beside you.",
+      "learningPurpose": "Recognise a personal attack",
+      "segments": [
+        {
+          "id": "P05-04-S01",
+          "text": "Think of a teammate who has missed a pass."
+        },
+        {
+          "id": "P05-04-S02",
+          "text": "You can help them see the next play, or keep shouting about the missed pass while the game continues."
+        },
+        {
+          "id": "P05-04-S03",
+          "text": "Choose the kind of teammate you would want beside you."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Teammate",
+        "labels": [
+          "Attack the missed pass",
+          "Help the next play"
+        ],
+        "altText": "Think of a teammate who has missed a pass. You can help them see the next play, or keep shouting about the missed pass while the game continues. Choose the kind of teammate you would want beside you."
+      }
+    },
+    {
+      "id": "P05-05",
+      "type": "contrast",
+      "narration": "Attack: You always ruin introductions. Support: That introduction took effort. Let us take the next question one piece at a time. The second statement still acknowledges the difficulty. Now consider a short check. Which response offers usable support? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Keep useful information",
+      "segments": [
+        {
+          "id": "P05-05-S01",
+          "text": "Attack: You always ruin introductions."
+        },
+        {
+          "id": "P05-05-S02",
+          "text": "Support: That introduction took effort."
+        },
+        {
+          "id": "P05-05-S03",
+          "text": "Let us take the next question one piece at a time."
+        },
+        {
+          "id": "P05-05-S04",
+          "text": "The second statement still acknowledges the difficulty."
+        },
+        {
+          "id": "P05-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P05-05-S06",
+          "text": "Which response offers usable support?"
+        },
+        {
+          "id": "P05-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "Which response offers usable support?",
+        "labels": [
+          "You always ruin this.",
+          "Pretend nothing was difficult.",
+          "That took effort; take the next question one piece at a time."
+        ],
+        "altText": "Three options: You always ruin this. / Pretend nothing was difficult. / That took effort; take the next question one piece at a time."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "Which response offers usable support?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "You always ruin this.",
+            "feedback": "Consider the distinction again. It acknowledges difficulty and gives a practical next step without attacking the person."
+          },
+          {
+            "id": "B",
+            "text": "Pretend nothing was difficult.",
+            "feedback": "Consider the distinction again. It acknowledges difficulty and gives a practical next step without attacking the person."
+          },
+          {
+            "id": "C",
+            "text": "That took effort; take the next question one piece at a time.",
+            "feedback": "Yes. It acknowledges difficulty and gives a practical next step without attacking the person."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P05-06",
+      "type": "reflection",
+      "narration": "Write an internal sentence you use after difficulty. Read it as though it were spoken to a friend. Keep any useful information and replace the personal attack with a task-specific next step.",
+      "learningPurpose": "Keep useful information",
+      "segments": [
+        {
+          "id": "P05-06-S01",
+          "text": "Write an internal sentence you use after difficulty."
+        },
+        {
+          "id": "P05-06-S02",
+          "text": "Read it as though it were spoken to a friend."
+        },
+        {
+          "id": "P05-06-S03",
+          "text": "Keep any useful information and replace the personal attack with a task-specific next step."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write an internal sentence you use after difficulty. Read it as though it were spoken to a friend. Keep any useful information and replace the personal attack with a task-specific next step.",
+        "questions": [
+          "What information was hidden inside the criticism?",
+          "What response would help the next moment?",
+          "Which supportive sentence feels believable?"
+        ]
+      }
+    },
+    {
+      "id": "P05-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Answer this prepared question: What is one thing you did today? A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Keep useful information",
+      "segments": [
+        {
+          "id": "P05-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P05-07-S02",
+          "text": "Answer this prepared question: What is one thing you did today?"
+        },
+        {
+          "id": "P05-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P05-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P05-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Answer this prepared question: What is one thing you did today?",
+        "reflectionQuestions": [
+          "What information was hidden inside the criticism?",
+          "What response would help the next moment?",
+          "Which supportive sentence feels believable?"
+        ]
+      }
+    },
+    {
+      "id": "P05-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Before answering the next question, use a believable supportive sentence if useful. Then answer: What is one thing you would like to do next? Do not create an awkward moment on purpose. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Keep useful information",
+      "segments": [
+        {
+          "id": "P05-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P05-08-S02",
+          "text": "Before answering the next question, use a believable supportive sentence if useful."
+        },
+        {
+          "id": "P05-08-S03",
+          "text": "Then answer: What is one thing you would like to do next?"
+        },
+        {
+          "id": "P05-08-S04",
+          "text": "Do not create an awkward moment on purpose."
+        },
+        {
+          "id": "P05-08-S05",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P05-08-S06",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Before answering the next question, use a believable supportive sentence if useful. Then answer: What is one thing you would like to do next? Do not create an awkward moment on purpose.",
+        "reflectionQuestions": [
+          "What information was hidden inside the criticism?",
+          "What response would help the next moment?",
+          "Which supportive sentence feels believable?"
+        ]
+      }
+    },
+    {
+      "id": "P05-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose a supportive next step",
+      "segments": [
+        {
+          "id": "P05-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P05-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P05-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P05-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "After a difficult answer, your internal voice says: Why are you still doing this? You know better. The next answer begins with an argument already taking place inside you.",
+        "partnerPrompts": [
+          "What was one useful thing you did today?",
+          "What took more effort than expected?",
+          "What would you like to do next?"
+        ]
+      }
+    },
+    {
+      "id": "P05-10",
+      "type": "review",
+      "narration": "Support does not require positive self-talk you do not believe. A factual sentence such as I can take a moment is enough. If an attacking thought returns, you do not need to punish yourself for having it. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose a supportive next step",
+      "segments": [
+        {
+          "id": "P05-10-S01",
+          "text": "Support does not require positive self-talk you do not believe."
+        },
+        {
+          "id": "P05-10-S02",
+          "text": "A factual sentence such as I can take a moment is enough."
+        },
+        {
+          "id": "P05-10-S03",
+          "text": "If an attacking thought returns, you do not need to punish yourself for having it."
+        },
+        {
+          "id": "P05-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P05-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What information was hidden inside the criticism?",
+          "What response would help the next moment?",
+          "Which supportive sentence feels believable?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P05-11",
+      "type": "transfer",
+      "narration": "Keep one believable supportive phrase available for your next conversation. Use it as help, not as a compulsory ritual. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose a supportive next step",
+      "segments": [
+        {
+          "id": "P05-11-S01",
+          "text": "Keep one believable supportive phrase available for your next conversation."
+        },
+        {
+          "id": "P05-11-S02",
+          "text": "Use it as help, not as a compulsory ritual."
+        },
+        {
+          "id": "P05-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P05-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P05-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Keep one believable supportive phrase available for your next conversation. Use it as help, not as a compulsory ritual.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P05-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose a supportive next step",
+      "segments": [
+        {
+          "id": "P05-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P05-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P05-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P05-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P05-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Which supportive sentence feels believable?"
+      }
+    }
+  ]
+}

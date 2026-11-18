@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "tools": 40,
+  "psychologicalTools": 30,
+  "bodyTools": 10,
+  "practiceCards": 40,
+  "activities": 90,
+  "sectionsChecked": 440,
+  "segmentsChecked": 2791,
+  "checks": [
+    "Exact narration preservation",
+    "Exact segment preservation",
+    "Deeper explanations preserved",
+    "Tool/card/activity reference integrity",
+    "JSON parses"
+  ],
+  "errors": []
+}

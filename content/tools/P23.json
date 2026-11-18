@@ -1,0 +1,539 @@
+{
+  "id": "P23",
+  "title": "Stay With What You Wanted to Say",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Identify the meaning you wanted to share",
+    "Separate wording from intention",
+    "Preserve the point with flexible wording"
+  ],
+  "deeperExplanation": {
+    "question": "What if the exact word matters?",
+    "answer": "Names, technical terms and particular requests sometimes need precise wording. You can take time, clarify the term or use another channel alongside speaking. Preserving meaning includes preserving a necessary word when you choose to. It does not require forcing the sound with increasing pressure. A short explanation such as this is the name I mean can keep the purpose available while you find a usable way to communicate it."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P23-focused-v1",
+  "sections": [
+    {
+      "id": "P23-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Stay With What You Wanted to Say. You begin explaining a preference, then a word feels difficult. You replace the point with something easier and leave the conversation thinking: that was not really what I wanted to say.\n\nIn this session, we will identify the meaning you wanted to share, separate wording from intention, and preserve the point with flexible wording. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Identify the meaning you wanted to share",
+      "segments": [
+        {
+          "id": "P23-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P23-01-S02",
+          "text": "Today we are exploring Stay With What You Wanted to Say."
+        },
+        {
+          "id": "P23-01-S03",
+          "text": "You begin explaining a preference, then a word feels difficult."
+        },
+        {
+          "id": "P23-01-S04",
+          "text": "You replace the point with something easier and leave the conversation thinking: that was not really what I wanted to say."
+        },
+        {
+          "id": "P23-01-S05",
+          "text": "In this session, we will identify the meaning you wanted to share, separate wording from intention, and preserve the point with flexible wording."
+        },
+        {
+          "id": "P23-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P23-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P23-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Identify the meaning you wanted to share",
+          "Separate wording from intention",
+          "Preserve the point with flexible wording"
+        ],
+        "altText": "This session explores: Identify the meaning you wanted to share; Separate wording from intention; Preserve the point with flexible wording."
+      }
+    },
+    {
+      "id": "P23-02",
+      "type": "explain",
+      "narration": "This tool keeps the intended meaning available. You can pause, use a helpful body tool, ask for time or explain differently while preserving the point. The goal is not loyalty to a particular word at any cost. It is the freedom to express the meaning you chose rather than automatically surrendering it when difficulty appears.",
+      "learningPurpose": "Identify the meaning you wanted to share",
+      "segments": [
+        {
+          "id": "P23-02-S01",
+          "text": "This tool keeps the intended meaning available."
+        },
+        {
+          "id": "P23-02-S02",
+          "text": "You can pause, use a helpful body tool, ask for time or explain differently while preserving the point."
+        },
+        {
+          "id": "P23-02-S03",
+          "text": "The goal is not loyalty to a particular word at any cost."
+        },
+        {
+          "id": "P23-02-S04",
+          "text": "It is the freedom to express the meaning you chose rather than automatically surrendering it when difficulty appears."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What was the parcel inside the wording?"
+      }
+    },
+    {
+      "id": "P23-03",
+      "type": "explain",
+      "narration": "You begin explaining a preference, then a word feels difficult. You replace the point with something easier and leave the conversation thinking: that was not really what I wanted to say.\n\nSometimes a synonym genuinely improves clarity. Sometimes it is a hurried escape that changes the message. Notice the difference through your intention. Ask whether the listener received what mattered. You can choose a shorter or different sentence and still stay with the message.\n\nWhat if the exact word matters?\n\nNames, technical terms and particular requests sometimes need precise wording. You can take time, clarify the term or use another channel alongside speaking. Preserving meaning includes preserving a necessary word when you choose to. It does not require forcing the sound with increasing pressure. A short explanation such as this is the name I mean can keep the purpose available while you find a usable way to communicate it.",
+      "learningPurpose": "Identify the meaning you wanted to share",
+      "segments": [
+        {
+          "id": "P23-03-S01",
+          "text": "You begin explaining a preference, then a word feels difficult."
+        },
+        {
+          "id": "P23-03-S02",
+          "text": "You replace the point with something easier and leave the conversation thinking: that was not really what I wanted to say."
+        },
+        {
+          "id": "P23-03-S03",
+          "text": "Sometimes a synonym genuinely improves clarity."
+        },
+        {
+          "id": "P23-03-S04",
+          "text": "Sometimes it is a hurried escape that changes the message."
+        },
+        {
+          "id": "P23-03-S05",
+          "text": "Notice the difference through your intention."
+        },
+        {
+          "id": "P23-03-S06",
+          "text": "Ask whether the listener received what mattered."
+        },
+        {
+          "id": "P23-03-S07",
+          "text": "You can choose a shorter or different sentence and still stay with the message."
+        },
+        {
+          "id": "P23-03-S08",
+          "text": "What if the exact word matters?"
+        },
+        {
+          "id": "P23-03-S09",
+          "text": "Names, technical terms and particular requests sometimes need precise wording."
+        },
+        {
+          "id": "P23-03-S10",
+          "text": "You can take time, clarify the term or use another channel alongside speaking."
+        },
+        {
+          "id": "P23-03-S11",
+          "text": "Preserving meaning includes preserving a necessary word when you choose to."
+        },
+        {
+          "id": "P23-03-S12",
+          "text": "It does not require forcing the sound with increasing pressure."
+        },
+        {
+          "id": "P23-03-S13",
+          "text": "A short explanation such as this is the name I mean can keep the purpose available while you find a usable way to communicate it."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Intended meaning",
+          "Flexible wording",
+          "Message shared"
+        ],
+        "altText": "Three parts to distinguish: Intended meaning, Flexible wording, Message shared. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Did a change of words preserve or change it?"
+      }
+    },
+    {
+      "id": "P23-04",
+      "type": "visual",
+      "narration": "Think of a parcel you want to deliver. The wrapping can change. What matters is whether the thing inside reaches its destination.",
+      "learningPurpose": "Identify the meaning you wanted to share",
+      "segments": [
+        {
+          "id": "P23-04-S01",
+          "text": "Think of a parcel you want to deliver."
+        },
+        {
+          "id": "P23-04-S02",
+          "text": "The wrapping can change."
+        },
+        {
+          "id": "P23-04-S03",
+          "text": "What matters is whether the thing inside reaches its destination."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Parcel",
+        "labels": [
+          "Wording can change",
+          "Meaning stays available"
+        ],
+        "altText": "Think of a parcel you want to deliver. The wrapping can change. What matters is whether the thing inside reaches its destination."
+      }
+    },
+    {
+      "id": "P23-05",
+      "type": "contrast",
+      "narration": "Lost meaning: I agree, when you actually had a concern. Preserved meaning: I need a moment. My concern is the deadline. You can take space and keep the point. Now consider a short check. What counts as staying with your message? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Separate wording from intention",
+      "segments": [
+        {
+          "id": "P23-05-S01",
+          "text": "Lost meaning: I agree, when you actually had a concern."
+        },
+        {
+          "id": "P23-05-S02",
+          "text": "Preserved meaning: I need a moment."
+        },
+        {
+          "id": "P23-05-S03",
+          "text": "My concern is the deadline."
+        },
+        {
+          "id": "P23-05-S04",
+          "text": "You can take space and keep the point."
+        },
+        {
+          "id": "P23-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P23-05-S06",
+          "text": "What counts as staying with your message?"
+        },
+        {
+          "id": "P23-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What counts as staying with your message?",
+        "labels": [
+          "Expressing the intended meaning even if the wording changes.",
+          "Forcing one exact word at any cost.",
+          "Agreeing when you meant to raise a concern."
+        ],
+        "altText": "Three options: Expressing the intended meaning even if the wording changes. / Forcing one exact word at any cost. / Agreeing when you meant to raise a concern."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What counts as staying with your message?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Expressing the intended meaning even if the wording changes.",
+            "feedback": "Yes. The tool protects meaning, not a particular sound or sentence. Pauses, clarification and different wording can still preserve your point."
+          },
+          {
+            "id": "B",
+            "text": "Forcing one exact word at any cost.",
+            "feedback": "Consider the distinction again. The tool protects meaning, not a particular sound or sentence. Pauses, clarification and different wording can still preserve your point."
+          },
+          {
+            "id": "C",
+            "text": "Agreeing when you meant to raise a concern.",
+            "feedback": "Consider the distinction again. The tool protects meaning, not a particular sound or sentence. Pauses, clarification and different wording can still preserve your point."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P23-06",
+      "type": "reflection",
+      "narration": "Write one message you have recently abandoned. Underline the meaning that matters. Create two ways to express it, including one plain short version. Neither has to avoid a specific sound.",
+      "learningPurpose": "Separate wording from intention",
+      "segments": [
+        {
+          "id": "P23-06-S01",
+          "text": "Write one message you have recently abandoned."
+        },
+        {
+          "id": "P23-06-S02",
+          "text": "Underline the meaning that matters."
+        },
+        {
+          "id": "P23-06-S03",
+          "text": "Create two ways to express it, including one plain short version."
+        },
+        {
+          "id": "P23-06-S04",
+          "text": "Neither has to avoid a specific sound."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write one message you have recently abandoned. Underline the meaning that matters. Create two ways to express it, including one plain short version. Neither has to avoid a specific sound.",
+        "questions": [
+          "What was the parcel inside the wording?",
+          "Did a change of words preserve or change it?",
+          "What helped you keep the point available?"
+        ]
+      }
+    },
+    {
+      "id": "P23-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. State one real preference or concern in your own words. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Separate wording from intention",
+      "segments": [
+        {
+          "id": "P23-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P23-07-S02",
+          "text": "State one real preference or concern in your own words."
+        },
+        {
+          "id": "P23-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P23-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P23-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "State one real preference or concern in your own words.",
+        "reflectionQuestions": [
+          "What was the parcel inside the wording?",
+          "Did a change of words preserve or change it?",
+          "What helped you keep the point available?"
+        ]
+      }
+    },
+    {
+      "id": "P23-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Express the same intended meaning again with a different plain wording if useful. Preserve the point rather than force one exact sound or agree when you do not mean it. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Separate wording from intention",
+      "segments": [
+        {
+          "id": "P23-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P23-08-S02",
+          "text": "Express the same intended meaning again with a different plain wording if useful."
+        },
+        {
+          "id": "P23-08-S03",
+          "text": "Preserve the point rather than force one exact sound or agree when you do not mean it."
+        },
+        {
+          "id": "P23-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P23-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Express the same intended meaning again with a different plain wording if useful. Preserve the point rather than force one exact sound or agree when you do not mean it.",
+        "reflectionQuestions": [
+          "What was the parcel inside the wording?",
+          "Did a change of words preserve or change it?",
+          "What helped you keep the point available?"
+        ]
+      }
+    },
+    {
+      "id": "P23-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Preserve the point with flexible wording",
+      "segments": [
+        {
+          "id": "P23-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P23-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P23-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P23-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You begin explaining a preference, then a word feels difficult. You replace the point with something easier and leave the conversation thinking: that was not really what I wanted to say.",
+        "partnerPrompts": [
+          "Which option would you prefer?",
+          "What concern would you like us to consider?",
+          "What would you ask us to change?"
+        ]
+      }
+    },
+    {
+      "id": "P23-10",
+      "type": "review",
+      "narration": "Staying with meaning does not mean forcing through pain or refusing to stop. A pause, another time or another communication channel may serve the meaning. The decision belongs to you. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Preserve the point with flexible wording",
+      "segments": [
+        {
+          "id": "P23-10-S01",
+          "text": "Staying with meaning does not mean forcing through pain or refusing to stop."
+        },
+        {
+          "id": "P23-10-S02",
+          "text": "A pause, another time or another communication channel may serve the meaning."
+        },
+        {
+          "id": "P23-10-S03",
+          "text": "The decision belongs to you."
+        },
+        {
+          "id": "P23-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P23-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What was the parcel inside the wording?",
+          "Did a change of words preserve or change it?",
+          "What helped you keep the point available?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P23-11",
+      "type": "transfer",
+      "narration": "Choose one ordinary point you want to express. After the exchange, note whether the intended meaning was shared. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Preserve the point with flexible wording",
+      "segments": [
+        {
+          "id": "P23-11-S01",
+          "text": "Choose one ordinary point you want to express."
+        },
+        {
+          "id": "P23-11-S02",
+          "text": "After the exchange, note whether the intended meaning was shared."
+        },
+        {
+          "id": "P23-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P23-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P23-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Choose one ordinary point you want to express. After the exchange, note whether the intended meaning was shared.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P23-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Preserve the point with flexible wording",
+      "segments": [
+        {
+          "id": "P23-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P23-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P23-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P23-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P23-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What helped you keep the point available?"
+      }
+    }
+  ]
+}

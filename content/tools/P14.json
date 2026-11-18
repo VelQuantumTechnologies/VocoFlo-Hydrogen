@@ -1,0 +1,551 @@
+{
+  "id": "P14",
+  "title": "Feel the Emotion and Choose Your Response",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice sensation, story and impulse",
+    "Allow more than one feeling",
+    "Choose an action without obeying every impulse"
+  ],
+  "deeperExplanation": {
+    "question": "How long should I stay with the sensation?",
+    "answer": "Long enough to notice something useful can be brief. This is not an endurance exercise. You can notice a warm face or tight stomach, recognise the accompanying story, then orient outward and choose an action. If inward attention makes you more distressed or disconnected, return to the room, move or pause. The aim is a usable relationship with experience, not maximum intensity or a perfectly completed emotional process."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P14-focused-v1",
+  "sections": [
+    {
+      "id": "P14-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Feel the Emotion and Choose Your Response. Before speaking, you notice a tight stomach and a wish to avoid the moment. You tell yourself you must feel positive first, then become frustrated because the fear has not gone.\n\nIn this session, we will notice sensation, story and impulse, allow more than one feeling, and choose an action without obeying every impulse. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice sensation, story and impulse",
+      "segments": [
+        {
+          "id": "P14-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P14-01-S02",
+          "text": "Today we are exploring Feel the Emotion and Choose Your Response."
+        },
+        {
+          "id": "P14-01-S03",
+          "text": "Before speaking, you notice a tight stomach and a wish to avoid the moment."
+        },
+        {
+          "id": "P14-01-S04",
+          "text": "You tell yourself you must feel positive first, then become frustrated because the fear has not gone."
+        },
+        {
+          "id": "P14-01-S05",
+          "text": "In this session, we will notice sensation, story and impulse, allow more than one feeling, and choose an action without obeying every impulse."
+        },
+        {
+          "id": "P14-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P14-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P14-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice sensation, story and impulse",
+          "Allow more than one feeling",
+          "Choose an action without obeying every impulse"
+        ],
+        "altText": "This session explores: Notice sensation, story and impulse; Allow more than one feeling; Choose an action without obeying every impulse."
+      }
+    },
+    {
+      "id": "P14-02",
+      "type": "explain",
+      "narration": "An emotion can be acknowledged without being replaced immediately. Begin with what you notice: warmth, pressure, heaviness, restlessness or an urge to move. You may name the emotion if the name helps, but you do not have to identify it perfectly. Then notice the story that may be arriving with it. A sensation, a story and an action are related, but they are not the same thing.",
+      "learningPurpose": "Notice sensation, story and impulse",
+      "segments": [
+        {
+          "id": "P14-02-S01",
+          "text": "An emotion can be acknowledged without being replaced immediately."
+        },
+        {
+          "id": "P14-02-S02",
+          "text": "Begin with what you notice: warmth, pressure, heaviness, restlessness or an urge to move."
+        },
+        {
+          "id": "P14-02-S03",
+          "text": "You may name the emotion if the name helps, but you do not have to identify it perfectly."
+        },
+        {
+          "id": "P14-02-S04",
+          "text": "Then notice the story that may be arriving with it."
+        },
+        {
+          "id": "P14-02-S05",
+          "text": "A sensation, a story and an action are related, but they are not the same thing."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What was directly felt?"
+      }
+    },
+    {
+      "id": "P14-03",
+      "type": "explain",
+      "narration": "Before speaking, you notice a tight stomach and a wish to avoid the moment. You tell yourself you must feel positive first, then become frustrated because the fear has not gone.\n\nTwo experiences can coexist. You can feel afraid and want to speak. You can feel disappointed and still be interested in the next question. Choosing a constructive action does not require winning an argument against the feeling. You are making room for your experience while also keeping your purpose available.\n\nHow long should I stay with the sensation?\n\nLong enough to notice something useful can be brief. This is not an endurance exercise. You can notice a warm face or tight stomach, recognise the accompanying story, then orient outward and choose an action. If inward attention makes you more distressed or disconnected, return to the room, move or pause. The aim is a usable relationship with experience, not maximum intensity or a perfectly completed emotional process.",
+      "learningPurpose": "Notice sensation, story and impulse",
+      "segments": [
+        {
+          "id": "P14-03-S01",
+          "text": "Before speaking, you notice a tight stomach and a wish to avoid the moment."
+        },
+        {
+          "id": "P14-03-S02",
+          "text": "You tell yourself you must feel positive first, then become frustrated because the fear has not gone."
+        },
+        {
+          "id": "P14-03-S03",
+          "text": "Two experiences can coexist."
+        },
+        {
+          "id": "P14-03-S04",
+          "text": "You can feel afraid and want to speak."
+        },
+        {
+          "id": "P14-03-S05",
+          "text": "You can feel disappointed and still be interested in the next question."
+        },
+        {
+          "id": "P14-03-S06",
+          "text": "Choosing a constructive action does not require winning an argument against the feeling."
+        },
+        {
+          "id": "P14-03-S07",
+          "text": "You are making room for your experience while also keeping your purpose available."
+        },
+        {
+          "id": "P14-03-S08",
+          "text": "How long should I stay with the sensation?"
+        },
+        {
+          "id": "P14-03-S09",
+          "text": "Long enough to notice something useful can be brief."
+        },
+        {
+          "id": "P14-03-S10",
+          "text": "This is not an endurance exercise."
+        },
+        {
+          "id": "P14-03-S11",
+          "text": "You can notice a warm face or tight stomach, recognise the accompanying story, then orient outward and choose an action."
+        },
+        {
+          "id": "P14-03-S12",
+          "text": "If inward attention makes you more distressed or disconnected, return to the room, move or pause."
+        },
+        {
+          "id": "P14-03-S13",
+          "text": "The aim is a usable relationship with experience, not maximum intensity or a perfectly completed emotional process."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Sensation",
+          "Interpretation",
+          "Chosen response"
+        ],
+        "altText": "Three parts to distinguish: Sensation, Interpretation, Chosen response. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What interpretation arrived?"
+      }
+    },
+    {
+      "id": "P14-04",
+      "type": "visual",
+      "narration": "Imagine carrying a bag while walking somewhere important. You can notice its weight and adjust how you carry it. You do not always need to put it down before taking another step.",
+      "learningPurpose": "Notice sensation, story and impulse",
+      "segments": [
+        {
+          "id": "P14-04-S01",
+          "text": "Imagine carrying a bag while walking somewhere important."
+        },
+        {
+          "id": "P14-04-S02",
+          "text": "You can notice its weight and adjust how you carry it."
+        },
+        {
+          "id": "P14-04-S03",
+          "text": "You do not always need to put it down before taking another step."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Carried bag",
+        "labels": [
+          "Feeling is present",
+          "Action remains available"
+        ],
+        "altText": "Imagine carrying a bag while walking somewhere important. You can notice its weight and adjust how you carry it. You do not always need to put it down before taking another step."
+      }
+    },
+    {
+      "id": "P14-05",
+      "type": "contrast",
+      "narration": "Emotional demand: I must stop feeling embarrassed before I continue. Choice: My cheeks feel warm, and I still want to explain the point. The feeling is included in the moment. Now consider a short check. What does feeling anger without acting it mean? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Allow more than one feeling",
+      "segments": [
+        {
+          "id": "P14-05-S01",
+          "text": "Emotional demand: I must stop feeling embarrassed before I continue."
+        },
+        {
+          "id": "P14-05-S02",
+          "text": "Choice: My cheeks feel warm, and I still want to explain the point."
+        },
+        {
+          "id": "P14-05-S03",
+          "text": "The feeling is included in the moment."
+        },
+        {
+          "id": "P14-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P14-05-S05",
+          "text": "What does feeling anger without acting it mean?"
+        },
+        {
+          "id": "P14-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What does feeling anger without acting it mean?",
+        "labels": [
+          "Notice the sensation and choose a response rather than automatically following the urge.",
+          "Pretend you are calm.",
+          "Stay with the feeling until it must vanish."
+        ],
+        "altText": "Three options: Notice the sensation and choose a response rather than automatically following the urge. / Pretend you are calm. / Stay with the feeling until it must vanish."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What does feeling anger without acting it mean?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Notice the sensation and choose a response rather than automatically following the urge.",
+            "feedback": "Yes. Feeling and action are different. You can recognise anger and still choose a constructive response; disappearance is not the task."
+          },
+          {
+            "id": "B",
+            "text": "Pretend you are calm.",
+            "feedback": "Consider the distinction again. Feeling and action are different. You can recognise anger and still choose a constructive response; disappearance is not the task."
+          },
+          {
+            "id": "C",
+            "text": "Stay with the feeling until it must vanish.",
+            "feedback": "Consider the distinction again. Feeling and action are different. You can recognise anger and still choose a constructive response; disappearance is not the task."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P14-06",
+      "type": "reflection",
+      "narration": "Orient to the room first. Use a mild recent feeling and notice one bodily feature for a few breaths without trying to change it. Then look outward again. Write the sensation, any accompanying story and one small action you would choose. If inward attention intensifies discomfort, use the room and the fictional example instead.",
+      "learningPurpose": "Allow more than one feeling",
+      "segments": [
+        {
+          "id": "P14-06-S01",
+          "text": "Orient to the room first."
+        },
+        {
+          "id": "P14-06-S02",
+          "text": "Use a mild recent feeling and notice one bodily feature for a few breaths without trying to change it."
+        },
+        {
+          "id": "P14-06-S03",
+          "text": "Then look outward again."
+        },
+        {
+          "id": "P14-06-S04",
+          "text": "Write the sensation, any accompanying story and one small action you would choose."
+        },
+        {
+          "id": "P14-06-S05",
+          "text": "If inward attention intensifies discomfort, use the room and the fictional example instead."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Orient to the room first. Use a mild recent feeling and notice one bodily feature for a few breaths without trying to change it. Then look outward again. Write the sensation, any accompanying story and one small action you would choose. If inward attention intensifies discomfort, use the room and the fictional example instead.",
+        "questions": [
+          "What was directly felt?",
+          "What interpretation arrived?",
+          "What could you choose while both were present?"
+        ]
+      }
+    },
+    {
+      "id": "P14-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Give a short message on a mild everyday topic. Afterwards notice one sensation or feeling if it is available. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Allow more than one feeling",
+      "segments": [
+        {
+          "id": "P14-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P14-07-S02",
+          "text": "Give a short message on a mild everyday topic."
+        },
+        {
+          "id": "P14-07-S03",
+          "text": "Afterwards notice one sensation or feeling if it is available."
+        },
+        {
+          "id": "P14-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P14-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P14-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Give a short message on a mild everyday topic. Afterwards notice one sensation or feeling if it is available.",
+        "reflectionQuestions": [
+          "What was directly felt?",
+          "What interpretation arrived?",
+          "What could you choose while both were present?"
+        ]
+      }
+    },
+    {
+      "id": "P14-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Continue the message with the feeling allowed to be present. If body attention is unhelpful, orient to the room and the meaning instead. No requirement to find an emotion. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Allow more than one feeling",
+      "segments": [
+        {
+          "id": "P14-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P14-08-S02",
+          "text": "Continue the message with the feeling allowed to be present."
+        },
+        {
+          "id": "P14-08-S03",
+          "text": "If body attention is unhelpful, orient to the room and the meaning instead."
+        },
+        {
+          "id": "P14-08-S04",
+          "text": "No requirement to find an emotion."
+        },
+        {
+          "id": "P14-08-S05",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P14-08-S06",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Continue the message with the feeling allowed to be present. If body attention is unhelpful, orient to the room and the meaning instead. No requirement to find an emotion.",
+        "reflectionQuestions": [
+          "What was directly felt?",
+          "What interpretation arrived?",
+          "What could you choose while both were present?"
+        ]
+      }
+    },
+    {
+      "id": "P14-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose an action without obeying every impulse",
+      "segments": [
+        {
+          "id": "P14-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P14-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P14-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P14-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "Before speaking, you notice a tight stomach and a wish to avoid the moment. You tell yourself you must feel positive first, then become frustrated because the fear has not gone.",
+        "partnerPrompts": [
+          "What matters to you about learning to speak?",
+          "What feeling is present as you answer? You may keep this private.",
+          "What is one thing you still want to say?"
+        ]
+      }
+    },
+    {
+      "id": "P14-10",
+      "type": "review",
+      "narration": "Feeling a sensation is not a guaranteed way to make it disappear or discover its original cause. You can notice briefly and return to life. Strong feelings also permit a break or support. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose an action without obeying every impulse",
+      "segments": [
+        {
+          "id": "P14-10-S01",
+          "text": "Feeling a sensation is not a guaranteed way to make it disappear or discover its original cause."
+        },
+        {
+          "id": "P14-10-S02",
+          "text": "You can notice briefly and return to life."
+        },
+        {
+          "id": "P14-10-S03",
+          "text": "Strong feelings also permit a break or support."
+        },
+        {
+          "id": "P14-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P14-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What was directly felt?",
+          "What interpretation arrived?",
+          "What could you choose while both were present?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P14-11",
+      "type": "transfer",
+      "narration": "Use sensation, story, choice once during a manageable moment. Keep the observation brief and choose a small constructive action. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose an action without obeying every impulse",
+      "segments": [
+        {
+          "id": "P14-11-S01",
+          "text": "Use sensation, story, choice once during a manageable moment."
+        },
+        {
+          "id": "P14-11-S02",
+          "text": "Keep the observation brief and choose a small constructive action."
+        },
+        {
+          "id": "P14-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P14-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P14-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Use sensation, story, choice once during a manageable moment. Keep the observation brief and choose a small constructive action.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P14-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose an action without obeying every impulse",
+      "segments": [
+        {
+          "id": "P14-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P14-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P14-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P14-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P14-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What could you choose while both were present?"
+      }
+    }
+  ]
+}

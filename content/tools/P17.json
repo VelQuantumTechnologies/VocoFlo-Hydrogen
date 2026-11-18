@@ -1,0 +1,543 @@
+{
+  "id": "P17",
+  "title": "Understand Your Pattern Without Overanalysing",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Make a bounded observation",
+    "Choose one experiment",
+    "Stop reviewing when the task is done"
+  ],
+  "deeperExplanation": {
+    "question": "What if I still want the exact cause?",
+    "answer": "You can remain curious about causes without requiring a final explanation before living. A working pattern can guide an experiment even while the larger explanation is incomplete. Keep the question narrow enough to test: what happens when I take time for the first point? That gives you an experience to compare. Why does everything happen can remain an open question rather than a task that occupies every evening."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P17-focused-v1",
+  "sections": [
+    {
+      "id": "P17-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Understand Your Pattern Without Overanalysing. You finish a conversation and spend the evening analysing every pause. You hope that if you find the exact explanation, you can prevent all future difficulty. The analysis never seems complete.\n\nIn this session, we will make a bounded observation, choose one experiment, and stop reviewing when the task is done. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Make a bounded observation",
+      "segments": [
+        {
+          "id": "P17-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P17-01-S02",
+          "text": "Today we are exploring Understand Your Pattern Without Overanalysing."
+        },
+        {
+          "id": "P17-01-S03",
+          "text": "You finish a conversation and spend the evening analysing every pause."
+        },
+        {
+          "id": "P17-01-S04",
+          "text": "You hope that if you find the exact explanation, you can prevent all future difficulty."
+        },
+        {
+          "id": "P17-01-S05",
+          "text": "The analysis never seems complete."
+        },
+        {
+          "id": "P17-01-S06",
+          "text": "In this session, we will make a bounded observation, choose one experiment, and stop reviewing when the task is done."
+        },
+        {
+          "id": "P17-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P17-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P17-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Make a bounded observation",
+          "Choose one experiment",
+          "Stop reviewing when the task is done"
+        ],
+        "altText": "This session explores: Make a bounded observation; Choose one experiment; Stop reviewing when the task is done."
+      }
+    },
+    {
+      "id": "P17-02",
+      "type": "explain",
+      "narration": "Useful observation is bounded and connected to a decision. Overanalysis keeps asking for certainty after there is enough information to take a small step. Today we will use a short map: situation, what I noticed, what I did and what I might try next. You can stop after those four parts. A complete explanation of your entire speech history is not required.",
+      "learningPurpose": "Make a bounded observation",
+      "segments": [
+        {
+          "id": "P17-02-S01",
+          "text": "Useful observation is bounded and connected to a decision."
+        },
+        {
+          "id": "P17-02-S02",
+          "text": "Overanalysis keeps asking for certainty after there is enough information to take a small step."
+        },
+        {
+          "id": "P17-02-S03",
+          "text": "Today we will use a short map: situation, what I noticed, what I did and what I might try next."
+        },
+        {
+          "id": "P17-02-S04",
+          "text": "You can stop after those four parts."
+        },
+        {
+          "id": "P17-02-S05",
+          "text": "A complete explanation of your entire speech history is not required."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Did the observation lead to a choice?"
+      }
+    },
+    {
+      "id": "P17-03",
+      "type": "explain",
+      "narration": "You finish a conversation and spend the evening analysing every pause. You hope that if you find the exact explanation, you can prevent all future difficulty. The analysis never seems complete.\n\nPatterns become more useful when described across several moments. One difficult word does not establish a cause. You might notice that rushing, listener pressure or checking often accompanies effort. Treat that as a working observation you can explore, not an identity or a verdict. Your own experience is important without needing to become a universal theory.\n\nWhat if I still want the exact cause?\n\nYou can remain curious about causes without requiring a final explanation before living. A working pattern can guide an experiment even while the larger explanation is incomplete. Keep the question narrow enough to test: what happens when I take time for the first point? That gives you an experience to compare. Why does everything happen can remain an open question rather than a task that occupies every evening.",
+      "learningPurpose": "Make a bounded observation",
+      "segments": [
+        {
+          "id": "P17-03-S01",
+          "text": "You finish a conversation and spend the evening analysing every pause."
+        },
+        {
+          "id": "P17-03-S02",
+          "text": "You hope that if you find the exact explanation, you can prevent all future difficulty."
+        },
+        {
+          "id": "P17-03-S03",
+          "text": "The analysis never seems complete."
+        },
+        {
+          "id": "P17-03-S04",
+          "text": "Patterns become more useful when described across several moments."
+        },
+        {
+          "id": "P17-03-S05",
+          "text": "One difficult word does not establish a cause."
+        },
+        {
+          "id": "P17-03-S06",
+          "text": "You might notice that rushing, listener pressure or checking often accompanies effort."
+        },
+        {
+          "id": "P17-03-S07",
+          "text": "Treat that as a working observation you can explore, not an identity or a verdict."
+        },
+        {
+          "id": "P17-03-S08",
+          "text": "Your own experience is important without needing to become a universal theory."
+        },
+        {
+          "id": "P17-03-S09",
+          "text": "What if I still want the exact cause?"
+        },
+        {
+          "id": "P17-03-S10",
+          "text": "You can remain curious about causes without requiring a final explanation before living."
+        },
+        {
+          "id": "P17-03-S11",
+          "text": "A working pattern can guide an experiment even while the larger explanation is incomplete."
+        },
+        {
+          "id": "P17-03-S12",
+          "text": "Keep the question narrow enough to test: what happens when I take time for the first point?"
+        },
+        {
+          "id": "P17-03-S13",
+          "text": "That gives you an experience to compare."
+        },
+        {
+          "id": "P17-03-S14",
+          "text": "Why does everything happen can remain an open question rather than a task that occupies every evening."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Situation",
+          "Observation",
+          "Next experiment"
+        ],
+        "altText": "Three parts to distinguish: Situation, Observation, Next experiment. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "When did analysis stop adding useful information?"
+      }
+    },
+    {
+      "id": "P17-04",
+      "type": "visual",
+      "narration": "A map helps you choose a route. Drawing every leaf on every tree can prevent you from leaving the desk.",
+      "learningPurpose": "Make a bounded observation",
+      "segments": [
+        {
+          "id": "P17-04-S01",
+          "text": "A map helps you choose a route."
+        },
+        {
+          "id": "P17-04-S02",
+          "text": "Drawing every leaf on every tree can prevent you from leaving the desk."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Working map",
+        "labels": [
+          "Endless detail",
+          "A usable next step"
+        ],
+        "altText": "A map helps you choose a route. Drawing every leaf on every tree can prevent you from leaving the desk."
+      }
+    },
+    {
+      "id": "P17-05",
+      "type": "contrast",
+      "narration": "Open-ended investigation: Why am I like this, and what does every detail prove? Bounded observation: I hurried when the meeting was ending; next time I can ask whether we have time. Now consider a short check. When can a useful review stop? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Choose one experiment",
+      "segments": [
+        {
+          "id": "P17-05-S01",
+          "text": "Open-ended investigation: Why am I like this, and what does every detail prove?"
+        },
+        {
+          "id": "P17-05-S02",
+          "text": "Bounded observation: I hurried when the meeting was ending; next time I can ask whether we have time."
+        },
+        {
+          "id": "P17-05-S03",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P17-05-S04",
+          "text": "When can a useful review stop?"
+        },
+        {
+          "id": "P17-05-S05",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "When can a useful review stop?",
+        "labels": [
+          "After you have one observation and a practical next experiment.",
+          "Only when you know the exact cause.",
+          "After replaying until no uncertainty remains."
+        ],
+        "altText": "Three options: After you have one observation and a practical next experiment. / Only when you know the exact cause. / After replaying until no uncertainty remains."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "When can a useful review stop?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "After you have one observation and a practical next experiment.",
+            "feedback": "Yes. A small decision can be useful even with unanswered questions. The review does not need to explain your whole history."
+          },
+          {
+            "id": "B",
+            "text": "Only when you know the exact cause.",
+            "feedback": "Consider the distinction again. A small decision can be useful even with unanswered questions. The review does not need to explain your whole history."
+          },
+          {
+            "id": "C",
+            "text": "After replaying until no uncertainty remains.",
+            "feedback": "Consider the distinction again. A small decision can be useful even with unanswered questions. The review does not need to explain your whole history."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P17-06",
+      "type": "reflection",
+      "narration": "Use one recent ordinary event. Spend a short period filling in the four-part map. Choose only one observation and one experiment. When new possible explanations appear, place them in a later notes area rather than reopening the event now.",
+      "learningPurpose": "Choose one experiment",
+      "segments": [
+        {
+          "id": "P17-06-S01",
+          "text": "Use one recent ordinary event."
+        },
+        {
+          "id": "P17-06-S02",
+          "text": "Spend a short period filling in the four-part map."
+        },
+        {
+          "id": "P17-06-S03",
+          "text": "Choose only one observation and one experiment."
+        },
+        {
+          "id": "P17-06-S04",
+          "text": "When new possible explanations appear, place them in a later notes area rather than reopening the event now."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Use one recent ordinary event. Spend a short period filling in the four-part map. Choose only one observation and one experiment. When new possible explanations appear, place them in a later notes area rather than reopening the event now.",
+        "questions": [
+          "Did the observation lead to a choice?",
+          "When did analysis stop adding useful information?",
+          "What one pattern is worth exploring?"
+        ]
+      }
+    },
+    {
+      "id": "P17-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Explain a routine process for up to a minute. Afterwards write one line each for situation, observation, action and next experiment. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Choose one experiment",
+      "segments": [
+        {
+          "id": "P17-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P17-07-S02",
+          "text": "Explain a routine process for up to a minute."
+        },
+        {
+          "id": "P17-07-S03",
+          "text": "Afterwards write one line each for situation, observation, action and next experiment."
+        },
+        {
+          "id": "P17-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P17-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P17-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Explain a routine process for up to a minute. Afterwards write one line each for situation, observation, action and next experiment.",
+        "reflectionQuestions": [
+          "Did the observation lead to a choice?",
+          "When did analysis stop adding useful information?",
+          "What one pattern is worth exploring?"
+        ]
+      }
+    },
+    {
+      "id": "P17-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Try the same process with only the one experiment you chose. Make another short map, then stop the review rather than search for a complete cause. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Choose one experiment",
+      "segments": [
+        {
+          "id": "P17-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P17-08-S02",
+          "text": "Try the same process with only the one experiment you chose."
+        },
+        {
+          "id": "P17-08-S03",
+          "text": "Make another short map, then stop the review rather than search for a complete cause."
+        },
+        {
+          "id": "P17-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P17-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Try the same process with only the one experiment you chose. Make another short map, then stop the review rather than search for a complete cause.",
+        "reflectionQuestions": [
+          "Did the observation lead to a choice?",
+          "When did analysis stop adding useful information?",
+          "What one pattern is worth exploring?"
+        ]
+      }
+    },
+    {
+      "id": "P17-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Stop reviewing when the task is done",
+      "segments": [
+        {
+          "id": "P17-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P17-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P17-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P17-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You finish a conversation and spend the evening analysing every pause. You hope that if you find the exact explanation, you can prevent all future difficulty. The analysis never seems complete.",
+        "partnerPrompts": [
+          "Explain a task you do regularly.",
+          "What one part would you like to explore differently?",
+          "Explain it again with that one choice."
+        ]
+      }
+    },
+    {
+      "id": "P17-10",
+      "type": "review",
+      "narration": "Stopping analysis is not refusing to learn. You are giving learning a usable boundary. If you need professional input or a practical change, bounded notes can make that conversation clearer. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Stop reviewing when the task is done",
+      "segments": [
+        {
+          "id": "P17-10-S01",
+          "text": "Stopping analysis is not refusing to learn."
+        },
+        {
+          "id": "P17-10-S02",
+          "text": "You are giving learning a usable boundary."
+        },
+        {
+          "id": "P17-10-S03",
+          "text": "If you need professional input or a practical change, bounded notes can make that conversation clearer."
+        },
+        {
+          "id": "P17-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P17-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "Did the observation lead to a choice?",
+          "When did analysis stop adding useful information?",
+          "What one pattern is worth exploring?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P17-11",
+      "type": "transfer",
+      "narration": "Keep one short map after a meaningful practice. Close it after choosing the next experiment. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Stop reviewing when the task is done",
+      "segments": [
+        {
+          "id": "P17-11-S01",
+          "text": "Keep one short map after a meaningful practice."
+        },
+        {
+          "id": "P17-11-S02",
+          "text": "Close it after choosing the next experiment."
+        },
+        {
+          "id": "P17-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P17-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P17-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Keep one short map after a meaningful practice. Close it after choosing the next experiment.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P17-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Stop reviewing when the task is done",
+      "segments": [
+        {
+          "id": "P17-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P17-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P17-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P17-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P17-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What one pattern is worth exploring?"
+      }
+    }
+  ]
+}

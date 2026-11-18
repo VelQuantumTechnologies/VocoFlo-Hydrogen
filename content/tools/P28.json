@@ -1,0 +1,531 @@
+{
+  "id": "P28",
+  "title": "Find Your Reason to Speak and Take a Step",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Find a personal reason to speak",
+    "Locate practical friction",
+    "Choose a willing next step"
+  ],
+  "deeperExplanation": {
+    "question": "What if my reason is strong but I still put it off?",
+    "answer": "Look at the point where action becomes difficult. You may be tired, uncertain about the first step or facing an unnecessarily large task. Make the action concrete and small, or change the arrangement that creates friction. A clear reason does not remove every obstacle. It helps you decide which obstacle is worth working with. You can take a useful step without judging the entire depth of your desire."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P28-focused-v1",
+  "sections": [
+    {
+      "id": "P28-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Find Your Reason to Speak and Take a Step. You want to contribute, but the conversation also brings fear and effort. You wait to feel motivated enough, then the opportunity passes and the wish remains.\n\nIn this session, we will find a personal reason to speak, locate practical friction, and choose a willing next step. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Find a personal reason to speak",
+      "segments": [
+        {
+          "id": "P28-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P28-01-S02",
+          "text": "Today we are exploring Find Your Reason to Speak and Take a Step."
+        },
+        {
+          "id": "P28-01-S03",
+          "text": "You want to contribute, but the conversation also brings fear and effort."
+        },
+        {
+          "id": "P28-01-S04",
+          "text": "You wait to feel motivated enough, then the opportunity passes and the wish remains."
+        },
+        {
+          "id": "P28-01-S05",
+          "text": "In this session, we will find a personal reason to speak, locate practical friction, and choose a willing next step."
+        },
+        {
+          "id": "P28-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P28-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P28-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Find a personal reason to speak",
+          "Locate practical friction",
+          "Choose a willing next step"
+        ],
+        "altText": "This session explores: Find a personal reason to speak; Locate practical friction; Choose a willing next step."
+      }
+    },
+    {
+      "id": "P28-02",
+      "type": "explain",
+      "narration": "A reason to speak connects practice to something in your life: sharing an idea, building a relationship, asking for help or making a choice known. It does not need to be grand. We will identify what matters and choose an action small enough to take with the feelings present today.",
+      "learningPurpose": "Find a personal reason to speak",
+      "segments": [
+        {
+          "id": "P28-02-S01",
+          "text": "A reason to speak connects practice to something in your life: sharing an idea, building a relationship, asking for help or making a choice known."
+        },
+        {
+          "id": "P28-02-S02",
+          "text": "It does not need to be grand."
+        },
+        {
+          "id": "P28-02-S03",
+          "text": "We will identify what matters and choose an action small enough to take with the feelings present today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What matters beyond sounding good?"
+      }
+    },
+    {
+      "id": "P28-03",
+      "type": "explain",
+      "narration": "You want to contribute, but the conversation also brings fear and effort. You wait to feel motivated enough, then the opportunity passes and the wish remains.\n\nDesire gives direction, while action also depends on energy, opportunity, preparation and friction. If you do not act, do not conclude your desire was false. Look at where the task became difficult. Was it beginning, choosing words, asking for attention or dealing with uncertainty? A practical entry point may help more than demanding stronger motivation.\n\nWhat if my reason is strong but I still put it off?\n\nLook at the point where action becomes difficult. You may be tired, uncertain about the first step or facing an unnecessarily large task. Make the action concrete and small, or change the arrangement that creates friction. A clear reason does not remove every obstacle. It helps you decide which obstacle is worth working with. You can take a useful step without judging the entire depth of your desire.",
+      "learningPurpose": "Find a personal reason to speak",
+      "segments": [
+        {
+          "id": "P28-03-S01",
+          "text": "You want to contribute, but the conversation also brings fear and effort."
+        },
+        {
+          "id": "P28-03-S02",
+          "text": "You wait to feel motivated enough, then the opportunity passes and the wish remains."
+        },
+        {
+          "id": "P28-03-S03",
+          "text": "Desire gives direction, while action also depends on energy, opportunity, preparation and friction."
+        },
+        {
+          "id": "P28-03-S04",
+          "text": "If you do not act, do not conclude your desire was false."
+        },
+        {
+          "id": "P28-03-S05",
+          "text": "Look at where the task became difficult."
+        },
+        {
+          "id": "P28-03-S06",
+          "text": "Was it beginning, choosing words, asking for attention or dealing with uncertainty?"
+        },
+        {
+          "id": "P28-03-S07",
+          "text": "A practical entry point may help more than demanding stronger motivation."
+        },
+        {
+          "id": "P28-03-S08",
+          "text": "What if my reason is strong but I still put it off?"
+        },
+        {
+          "id": "P28-03-S09",
+          "text": "Look at the point where action becomes difficult."
+        },
+        {
+          "id": "P28-03-S10",
+          "text": "You may be tired, uncertain about the first step or facing an unnecessarily large task."
+        },
+        {
+          "id": "P28-03-S11",
+          "text": "Make the action concrete and small, or change the arrangement that creates friction."
+        },
+        {
+          "id": "P28-03-S12",
+          "text": "A clear reason does not remove every obstacle."
+        },
+        {
+          "id": "P28-03-S13",
+          "text": "It helps you decide which obstacle is worth working with."
+        },
+        {
+          "id": "P28-03-S14",
+          "text": "You can take a useful step without judging the entire depth of your desire."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "What matters",
+          "Present friction",
+          "Small next action"
+        ],
+        "altText": "Three parts to distinguish: What matters, Present friction, Small next action. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Where did the action become difficult?"
+      }
+    },
+    {
+      "id": "P28-04",
+      "type": "visual",
+      "narration": "A destination makes a journey meaningful, but you still need to choose the next step and notice a stone in your shoe. Purpose and practical adjustments work together.",
+      "learningPurpose": "Find a personal reason to speak",
+      "segments": [
+        {
+          "id": "P28-04-S01",
+          "text": "A destination makes a journey meaningful, but you still need to choose the next step and notice a stone in your shoe."
+        },
+        {
+          "id": "P28-04-S02",
+          "text": "Purpose and practical adjustments work together."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Destination and next step",
+        "labels": [
+          "What matters",
+          "A practical next step"
+        ],
+        "altText": "A destination makes a journey meaningful, but you still need to choose the next step and notice a stone in your shoe. Purpose and practical adjustments work together."
+      }
+    },
+    {
+      "id": "P28-05",
+      "type": "contrast",
+      "narration": "Vague demand: I should become a confident speaker. Personal direction: I want my team to hear the idea I have been developing. Next action: share the first useful point at tomorrow’s check-in. Now consider a short check. If the reason matters but action is hard, what can you examine? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Locate practical friction",
+      "segments": [
+        {
+          "id": "P28-05-S01",
+          "text": "Vague demand: I should become a confident speaker."
+        },
+        {
+          "id": "P28-05-S02",
+          "text": "Personal direction: I want my team to hear the idea I have been developing."
+        },
+        {
+          "id": "P28-05-S03",
+          "text": "Next action: share the first useful point at tomorrow’s check-in."
+        },
+        {
+          "id": "P28-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P28-05-S05",
+          "text": "If the reason matters but action is hard, what can you examine?"
+        },
+        {
+          "id": "P28-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "If the reason matters but action is hard, what can you examine?",
+        "labels": [
+          "Whether you deserve the goal.",
+          "Whether all fear can be removed first.",
+          "The actual obstacle and a smaller concrete next step."
+        ],
+        "altText": "Three options: Whether you deserve the goal. / Whether all fear can be removed first. / The actual obstacle and a smaller concrete next step."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "If the reason matters but action is hard, what can you examine?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Whether you deserve the goal.",
+            "feedback": "Consider the distinction again. A meaningful reason and practical friction can coexist. Difficulty does not measure the depth of your desire."
+          },
+          {
+            "id": "B",
+            "text": "Whether all fear can be removed first.",
+            "feedback": "Consider the distinction again. A meaningful reason and practical friction can coexist. Difficulty does not measure the depth of your desire."
+          },
+          {
+            "id": "C",
+            "text": "The actual obstacle and a smaller concrete next step.",
+            "feedback": "Yes. A meaningful reason and practical friction can coexist. Difficulty does not measure the depth of your desire."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P28-06",
+      "type": "reflection",
+      "narration": "Choose one area where speaking matters. Complete: I want to say __ because __. Then make the action smaller until it is something you are willing to attempt. Name one likely obstacle and a practical response.",
+      "learningPurpose": "Locate practical friction",
+      "segments": [
+        {
+          "id": "P28-06-S01",
+          "text": "Choose one area where speaking matters."
+        },
+        {
+          "id": "P28-06-S02",
+          "text": "Complete: I want to say __ because __."
+        },
+        {
+          "id": "P28-06-S03",
+          "text": "Then make the action smaller until it is something you are willing to attempt."
+        },
+        {
+          "id": "P28-06-S04",
+          "text": "Name one likely obstacle and a practical response."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Choose one area where speaking matters. Complete: I want to say __ because __. Then make the action smaller until it is something you are willing to attempt. Name one likely obstacle and a practical response.",
+        "questions": [
+          "What matters beyond sounding good?",
+          "Where did the action become difficult?",
+          "What is a willing next step?"
+        ]
+      }
+    },
+    {
+      "id": "P28-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Say one short message connected to something you genuinely want to communicate. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Locate practical friction",
+      "segments": [
+        {
+          "id": "P28-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P28-07-S02",
+          "text": "Say one short message connected to something you genuinely want to communicate."
+        },
+        {
+          "id": "P28-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P28-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P28-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Say one short message connected to something you genuinely want to communicate.",
+        "reflectionQuestions": [
+          "What matters beyond sounding good?",
+          "Where did the action become difficult?",
+          "What is a willing next step?"
+        ]
+      }
+    },
+    {
+      "id": "P28-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Make the message or first action smaller if needed, then share one concrete detail. Notice practical friction without judging the depth of your desire. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Locate practical friction",
+      "segments": [
+        {
+          "id": "P28-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P28-08-S02",
+          "text": "Make the message or first action smaller if needed, then share one concrete detail."
+        },
+        {
+          "id": "P28-08-S03",
+          "text": "Notice practical friction without judging the depth of your desire."
+        },
+        {
+          "id": "P28-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P28-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Make the message or first action smaller if needed, then share one concrete detail. Notice practical friction without judging the depth of your desire.",
+        "reflectionQuestions": [
+          "What matters beyond sounding good?",
+          "Where did the action become difficult?",
+          "What is a willing next step?"
+        ]
+      }
+    },
+    {
+      "id": "P28-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose a willing next step",
+      "segments": [
+        {
+          "id": "P28-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P28-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P28-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P28-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You want to contribute, but the conversation also brings fear and effort. You wait to feel motivated enough, then the opportunity passes and the wish remains.",
+        "partnerPrompts": [
+          "What do you want me to understand?",
+          "Why does this matter to you?",
+          "What is the next step you would like us to take?"
+        ]
+      }
+    },
+    {
+      "id": "P28-10",
+      "type": "review",
+      "narration": "A strong reason does not require pushing through every state of exhaustion or distress. You can adjust timing and scope while keeping the direction. Action can be small and still meaningful. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose a willing next step",
+      "segments": [
+        {
+          "id": "P28-10-S01",
+          "text": "A strong reason does not require pushing through every state of exhaustion or distress."
+        },
+        {
+          "id": "P28-10-S02",
+          "text": "You can adjust timing and scope while keeping the direction."
+        },
+        {
+          "id": "P28-10-S03",
+          "text": "Action can be small and still meaningful."
+        },
+        {
+          "id": "P28-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P28-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What matters beyond sounding good?",
+          "Where did the action become difficult?",
+          "What is a willing next step?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P28-11",
+      "type": "transfer",
+      "narration": "Choose a real situation and make one specific contribution or request. Note the friction you met and what you want to try next. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose a willing next step",
+      "segments": [
+        {
+          "id": "P28-11-S01",
+          "text": "Choose a real situation and make one specific contribution or request."
+        },
+        {
+          "id": "P28-11-S02",
+          "text": "Note the friction you met and what you want to try next."
+        },
+        {
+          "id": "P28-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P28-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P28-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Choose a real situation and make one specific contribution or request. Note the friction you met and what you want to try next.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P28-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose a willing next step",
+      "segments": [
+        {
+          "id": "P28-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P28-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P28-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P28-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P28-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What is a willing next step?"
+      }
+    }
+  ]
+}

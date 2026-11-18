@@ -1,0 +1,547 @@
+{
+  "id": "P22",
+  "title": "Understand Avoidance and Safety Habits",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice what a habit does for you",
+    "Explore its benefit and cost",
+    "Choose a small voluntary variation"
+  ],
+  "deeperExplanation": {
+    "question": "Is choosing another word always avoidance?",
+    "answer": "No. People change wording for clarity, accuracy, politeness and ordinary preference. The same action can serve different purposes. Ask whether you chose the wording you wanted or felt compelled to escape something at the cost of your meaning. You do not need to classify every synonym in real time. A few bounded reflections can help you recognise a pattern without turning normal language into another thing to inspect."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P22-focused-v1",
+  "sections": [
+    {
+      "id": "P22-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Understand Avoidance and Safety Habits. You know the word you want, but choose another because it seems safer. Or you always start with a filler, rehearse a greeting or wait for someone else to order. The habit helps in the moment but may limit what you choose later.\n\nIn this session, we will notice what a habit does for you, explore its benefit and cost, and choose a small voluntary variation. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice what a habit does for you",
+      "segments": [
+        {
+          "id": "P22-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P22-01-S02",
+          "text": "Today we are exploring Understand Avoidance and Safety Habits."
+        },
+        {
+          "id": "P22-01-S03",
+          "text": "You know the word you want, but choose another because it seems safer."
+        },
+        {
+          "id": "P22-01-S04",
+          "text": "Or you always start with a filler, rehearse a greeting or wait for someone else to order."
+        },
+        {
+          "id": "P22-01-S05",
+          "text": "The habit helps in the moment but may limit what you choose later."
+        },
+        {
+          "id": "P22-01-S06",
+          "text": "In this session, we will notice what a habit does for you, explore its benefit and cost, and choose a small voluntary variation."
+        },
+        {
+          "id": "P22-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P22-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P22-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice what a habit does for you",
+          "Explore its benefit and cost",
+          "Choose a small voluntary variation"
+        ],
+        "altText": "This session explores: Notice what a habit does for you; Explore its benefit and cost; Choose a small voluntary variation."
+      }
+    },
+    {
+      "id": "P22-02",
+      "type": "explain",
+      "narration": "Avoidance means moving away from a speaking experience you want or need. A safety habit is something you do to feel protected while participating. A behaviour cannot be classified just by looking at it: a pause can be natural, a useful tool or a way to postpone a feared word. We will ask what the action is doing for you.",
+      "learningPurpose": "Notice what a habit does for you",
+      "segments": [
+        {
+          "id": "P22-02-S01",
+          "text": "Avoidance means moving away from a speaking experience you want or need."
+        },
+        {
+          "id": "P22-02-S02",
+          "text": "A safety habit is something you do to feel protected while participating."
+        },
+        {
+          "id": "P22-02-S03",
+          "text": "A behaviour cannot be classified just by looking at it: a pause can be natural, a useful tool or a way to postpone a feared word."
+        },
+        {
+          "id": "P22-02-S04",
+          "text": "We will ask what the action is doing for you."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What function did the habit serve?"
+      }
+    },
+    {
+      "id": "P22-03",
+      "type": "explain",
+      "narration": "You know the word you want, but choose another because it seems safer. Or you always start with a filler, rehearse a greeting or wait for someone else to order. The habit helps in the moment but may limit what you choose later.\n\nThese habits often developed for understandable reasons. Blaming them is not useful. Instead, notice their immediate benefit and longer-term cost. A support remains helpful when you can choose it flexibly. If it begins to decide every situation, you may want to explore a small alternative in a setting you choose.\n\nIs choosing another word always avoidance?\n\nNo. People change wording for clarity, accuracy, politeness and ordinary preference. The same action can serve different purposes. Ask whether you chose the wording you wanted or felt compelled to escape something at the cost of your meaning. You do not need to classify every synonym in real time. A few bounded reflections can help you recognise a pattern without turning normal language into another thing to inspect.",
+      "learningPurpose": "Notice what a habit does for you",
+      "segments": [
+        {
+          "id": "P22-03-S01",
+          "text": "You know the word you want, but choose another because it seems safer."
+        },
+        {
+          "id": "P22-03-S02",
+          "text": "Or you always start with a filler, rehearse a greeting or wait for someone else to order."
+        },
+        {
+          "id": "P22-03-S03",
+          "text": "The habit helps in the moment but may limit what you choose later."
+        },
+        {
+          "id": "P22-03-S04",
+          "text": "These habits often developed for understandable reasons."
+        },
+        {
+          "id": "P22-03-S05",
+          "text": "Blaming them is not useful."
+        },
+        {
+          "id": "P22-03-S06",
+          "text": "Instead, notice their immediate benefit and longer-term cost."
+        },
+        {
+          "id": "P22-03-S07",
+          "text": "A support remains helpful when you can choose it flexibly."
+        },
+        {
+          "id": "P22-03-S08",
+          "text": "If it begins to decide every situation, you may want to explore a small alternative in a setting you choose."
+        },
+        {
+          "id": "P22-03-S09",
+          "text": "Is choosing another word always avoidance?"
+        },
+        {
+          "id": "P22-03-S10",
+          "text": "No."
+        },
+        {
+          "id": "P22-03-S11",
+          "text": "People change wording for clarity, accuracy, politeness and ordinary preference."
+        },
+        {
+          "id": "P22-03-S12",
+          "text": "The same action can serve different purposes."
+        },
+        {
+          "id": "P22-03-S13",
+          "text": "Ask whether you chose the wording you wanted or felt compelled to escape something at the cost of your meaning."
+        },
+        {
+          "id": "P22-03-S14",
+          "text": "You do not need to classify every synonym in real time."
+        },
+        {
+          "id": "P22-03-S15",
+          "text": "A few bounded reflections can help you recognise a pattern without turning normal language into another thing to inspect."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Habit",
+          "Immediate protection",
+          "Benefit and cost"
+        ],
+        "altText": "Three parts to distinguish: Habit, Immediate protection, Benefit and cost. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did it cost?"
+      }
+    },
+    {
+      "id": "P22-04",
+      "type": "visual",
+      "narration": "A handrail helps on a difficult staircase. If you begin believing you cannot take any step without that exact rail, it may limit where you go. You can practise flexibility without throwing away every support.",
+      "learningPurpose": "Notice what a habit does for you",
+      "segments": [
+        {
+          "id": "P22-04-S01",
+          "text": "A handrail helps on a difficult staircase."
+        },
+        {
+          "id": "P22-04-S02",
+          "text": "If you begin believing you cannot take any step without that exact rail, it may limit where you go."
+        },
+        {
+          "id": "P22-04-S03",
+          "text": "You can practise flexibility without throwing away every support."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Handrail",
+        "labels": [
+          "Support available",
+          "Voluntary variation"
+        ],
+        "altText": "A handrail helps on a difficult staircase. If you begin believing you cannot take any step without that exact rail, it may limit where you go. You can practise flexibility without throwing away every support."
+      }
+    },
+    {
+      "id": "P22-05",
+      "type": "contrast",
+      "narration": "Rigid habit: I cannot say my name without this extra phrase. Flexible support: I may use a phrase, and I can also explore another opening privately. The difference is the freedom to choose. Now consider a short check. How do we understand a speaking habit? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Explore its benefit and cost",
+      "segments": [
+        {
+          "id": "P22-05-S01",
+          "text": "Rigid habit: I cannot say my name without this extra phrase."
+        },
+        {
+          "id": "P22-05-S02",
+          "text": "Flexible support: I may use a phrase, and I can also explore another opening privately."
+        },
+        {
+          "id": "P22-05-S03",
+          "text": "The difference is the freedom to choose."
+        },
+        {
+          "id": "P22-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P22-05-S05",
+          "text": "How do we understand a speaking habit?"
+        },
+        {
+          "id": "P22-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "How do we understand a speaking habit?",
+        "labels": [
+          "By labelling every pause avoidance.",
+          "By removing all supports at once.",
+          "By considering its purpose, benefit, cost and flexibility in that situation."
+        ],
+        "altText": "Three options: By labelling every pause avoidance. / By removing all supports at once. / By considering its purpose, benefit, cost and flexibility in that situation."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "How do we understand a speaking habit?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "By labelling every pause avoidance.",
+            "feedback": "Consider the distinction again. The same visible behaviour can serve different purposes. A small voluntary variation gives information without requiring abrupt removal."
+          },
+          {
+            "id": "B",
+            "text": "By removing all supports at once.",
+            "feedback": "Consider the distinction again. The same visible behaviour can serve different purposes. A small voluntary variation gives information without requiring abrupt removal."
+          },
+          {
+            "id": "C",
+            "text": "By considering its purpose, benefit, cost and flexibility in that situation.",
+            "feedback": "Yes. The same visible behaviour can serve different purposes. A small voluntary variation gives information without requiring abrupt removal."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P22-06",
+      "type": "reflection",
+      "narration": "Pick one habit. Write what it helps you avoid, what it gives you immediately and what it sometimes costs. Choose a small variation rather than removing it in your hardest situation.",
+      "learningPurpose": "Explore its benefit and cost",
+      "segments": [
+        {
+          "id": "P22-06-S01",
+          "text": "Pick one habit."
+        },
+        {
+          "id": "P22-06-S02",
+          "text": "Write what it helps you avoid, what it gives you immediately and what it sometimes costs."
+        },
+        {
+          "id": "P22-06-S03",
+          "text": "Choose a small variation rather than removing it in your hardest situation."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Pick one habit. Write what it helps you avoid, what it gives you immediately and what it sometimes costs. Choose a small variation rather than removing it in your hardest situation.",
+        "questions": [
+          "What function did the habit serve?",
+          "What did it cost?",
+          "What small alternative are you willing to explore?"
+        ]
+      }
+    },
+    {
+      "id": "P22-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Make a familiar request using your usual support if you want. Afterwards note what the support did for you. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Explore its benefit and cost",
+      "segments": [
+        {
+          "id": "P22-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P22-07-S02",
+          "text": "Make a familiar request using your usual support if you want."
+        },
+        {
+          "id": "P22-07-S03",
+          "text": "Afterwards note what the support did for you."
+        },
+        {
+          "id": "P22-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P22-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P22-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Make a familiar request using your usual support if you want. Afterwards note what the support did for you.",
+        "reflectionQuestions": [
+          "What function did the habit serve?",
+          "What did it cost?",
+          "What small alternative are you willing to explore?"
+        ]
+      }
+    },
+    {
+      "id": "P22-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Try one small voluntary variation in the same request. You can keep the support or stop the comparison; removal is not the success condition. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Explore its benefit and cost",
+      "segments": [
+        {
+          "id": "P22-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P22-08-S02",
+          "text": "Try one small voluntary variation in the same request."
+        },
+        {
+          "id": "P22-08-S03",
+          "text": "You can keep the support or stop the comparison; removal is not the success condition."
+        },
+        {
+          "id": "P22-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P22-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Try one small voluntary variation in the same request. You can keep the support or stop the comparison; removal is not the success condition.",
+        "reflectionQuestions": [
+          "What function did the habit serve?",
+          "What did it cost?",
+          "What small alternative are you willing to explore?"
+        ]
+      }
+    },
+    {
+      "id": "P22-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose a small voluntary variation",
+      "segments": [
+        {
+          "id": "P22-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P22-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P22-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P22-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You know the word you want, but choose another because it seems safer. Or you always start with a filler, rehearse a greeting or wait for someone else to order. The habit helps in the moment but may limit what you choose later.",
+        "partnerPrompts": [
+          "Ask me for an item you would normally rename.",
+          "Say the request in the wording you actually prefer.",
+          "What would you ask if I needed clarification?"
+        ]
+      }
+    },
+    {
+      "id": "P22-10",
+      "type": "review",
+      "narration": "You do not have to remove every habit, use every feared word or expose yourself publicly. The aim is greater choice over time. Ordinary language variation is not automatically avoidance. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose a small voluntary variation",
+      "segments": [
+        {
+          "id": "P22-10-S01",
+          "text": "You do not have to remove every habit, use every feared word or expose yourself publicly."
+        },
+        {
+          "id": "P22-10-S02",
+          "text": "The aim is greater choice over time."
+        },
+        {
+          "id": "P22-10-S03",
+          "text": "Ordinary language variation is not automatically avoidance."
+        },
+        {
+          "id": "P22-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P22-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What function did the habit serve?",
+          "What did it cost?",
+          "What small alternative are you willing to explore?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P22-11",
+      "type": "transfer",
+      "narration": "Notice one habit in a real exchange and decide consciously whether to use it. A deliberate choice is useful information. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose a small voluntary variation",
+      "segments": [
+        {
+          "id": "P22-11-S01",
+          "text": "Notice one habit in a real exchange and decide consciously whether to use it."
+        },
+        {
+          "id": "P22-11-S02",
+          "text": "A deliberate choice is useful information."
+        },
+        {
+          "id": "P22-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P22-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P22-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Notice one habit in a real exchange and decide consciously whether to use it. A deliberate choice is useful information.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P22-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose a small voluntary variation",
+      "segments": [
+        {
+          "id": "P22-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P22-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P22-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P22-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P22-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What small alternative are you willing to explore?"
+      }
+    }
+  ]
+}

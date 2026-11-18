@@ -1,0 +1,543 @@
+{
+  "id": "P18",
+  "title": "First Sentence Only",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Separate the opening from the whole answer",
+    "Choose one useful first sentence",
+    "Let the next sentence develop"
+  ],
+  "deeperExplanation": {
+    "question": "What if my first sentence is not the best one?",
+    "answer": "It needs to be useful enough to begin, not the best possible sentence. A listener can ask a follow-up, and you can clarify what you mean. If you are introducing a project, a plain sentence about its purpose is often sufficient. Trying to discover the ideal opening can keep you at the doorway. Starting with a real meaning lets the conversation help shape the next part."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P18-focused-v1",
+  "sections": [
+    {
+      "id": "P18-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring First Sentence Only. Before answering, you try to organise the entire explanation, choose perfect wording and protect every possible difficult word. The answer feels too large to begin.\n\nIn this session, we will separate the opening from the whole answer, choose one useful first sentence, and let the next sentence develop. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Separate the opening from the whole answer",
+      "segments": [
+        {
+          "id": "P18-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P18-01-S02",
+          "text": "Today we are exploring First Sentence Only."
+        },
+        {
+          "id": "P18-01-S03",
+          "text": "Before answering, you try to organise the entire explanation, choose perfect wording and protect every possible difficult word."
+        },
+        {
+          "id": "P18-01-S04",
+          "text": "The answer feels too large to begin."
+        },
+        {
+          "id": "P18-01-S05",
+          "text": "In this session, we will separate the opening from the whole answer, choose one useful first sentence, and let the next sentence develop."
+        },
+        {
+          "id": "P18-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P18-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P18-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Separate the opening from the whole answer",
+          "Choose one useful first sentence",
+          "Let the next sentence develop"
+        ],
+        "altText": "This session explores: Separate the opening from the whole answer; Choose one useful first sentence; Let the next sentence develop."
+      }
+    },
+    {
+      "id": "P18-02",
+      "type": "explain",
+      "narration": "First Sentence Only reduces the immediate task. Decide what the first sentence needs to do, say it, and let the next sentence be shaped by what follows. You are not abandoning the message. You are allowing it to unfold in manageable pieces. The first sentence may state the main point, answer a small part or ask for clarification.",
+      "learningPurpose": "Separate the opening from the whole answer",
+      "segments": [
+        {
+          "id": "P18-02-S01",
+          "text": "First Sentence Only reduces the immediate task."
+        },
+        {
+          "id": "P18-02-S02",
+          "text": "Decide what the first sentence needs to do, say it, and let the next sentence be shaped by what follows."
+        },
+        {
+          "id": "P18-02-S03",
+          "text": "You are not abandoning the message."
+        },
+        {
+          "id": "P18-02-S04",
+          "text": "You are allowing it to unfold in manageable pieces."
+        },
+        {
+          "id": "P18-02-S05",
+          "text": "The first sentence may state the main point, answer a small part or ask for clarification."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did the first sentence need to do?"
+      }
+    },
+    {
+      "id": "P18-03",
+      "type": "explain",
+      "narration": "Before answering, you try to organise the entire explanation, choose perfect wording and protect every possible difficult word. The answer feels too large to begin.\n\nIt is possible to know your direction without preparing every word. Think of the listener’s question and choose a starting meaning. If you need a pause afterwards, you can take one. If the listener asks a question, the next sentence may change. This flexibility is part of conversation, not a failure of preparation.\n\nWhat if my first sentence is not the best one?\n\nIt needs to be useful enough to begin, not the best possible sentence. A listener can ask a follow-up, and you can clarify what you mean. If you are introducing a project, a plain sentence about its purpose is often sufficient. Trying to discover the ideal opening can keep you at the doorway. Starting with a real meaning lets the conversation help shape the next part.",
+      "learningPurpose": "Separate the opening from the whole answer",
+      "segments": [
+        {
+          "id": "P18-03-S01",
+          "text": "Before answering, you try to organise the entire explanation, choose perfect wording and protect every possible difficult word."
+        },
+        {
+          "id": "P18-03-S02",
+          "text": "The answer feels too large to begin."
+        },
+        {
+          "id": "P18-03-S03",
+          "text": "It is possible to know your direction without preparing every word."
+        },
+        {
+          "id": "P18-03-S04",
+          "text": "Think of the listener’s question and choose a starting meaning."
+        },
+        {
+          "id": "P18-03-S05",
+          "text": "If you need a pause afterwards, you can take one."
+        },
+        {
+          "id": "P18-03-S06",
+          "text": "If the listener asks a question, the next sentence may change."
+        },
+        {
+          "id": "P18-03-S07",
+          "text": "This flexibility is part of conversation, not a failure of preparation."
+        },
+        {
+          "id": "P18-03-S08",
+          "text": "What if my first sentence is not the best one?"
+        },
+        {
+          "id": "P18-03-S09",
+          "text": "It needs to be useful enough to begin, not the best possible sentence."
+        },
+        {
+          "id": "P18-03-S10",
+          "text": "A listener can ask a follow-up, and you can clarify what you mean."
+        },
+        {
+          "id": "P18-03-S11",
+          "text": "If you are introducing a project, a plain sentence about its purpose is often sufficient."
+        },
+        {
+          "id": "P18-03-S12",
+          "text": "Trying to discover the ideal opening can keep you at the doorway."
+        },
+        {
+          "id": "P18-03-S13",
+          "text": "Starting with a real meaning lets the conversation help shape the next part."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Whole answer",
+          "First useful sentence",
+          "Next piece"
+        ],
+        "altText": "Three parts to distinguish: Whole answer, First useful sentence, Next piece. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Did you try to prepare the whole answer?"
+      }
+    },
+    {
+      "id": "P18-04",
+      "type": "visual",
+      "narration": "You can open a door without seeing the whole corridor. The next part becomes available once you step through.",
+      "learningPurpose": "Separate the opening from the whole answer",
+      "segments": [
+        {
+          "id": "P18-04-S01",
+          "text": "You can open a door without seeing the whole corridor."
+        },
+        {
+          "id": "P18-04-S02",
+          "text": "The next part becomes available once you step through."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Open door",
+        "labels": [
+          "One starting point",
+          "Next piece becomes available"
+        ],
+        "altText": "You can open a door without seeing the whole corridor. The next part becomes available once you step through."
+      }
+    },
+    {
+      "id": "P18-05",
+      "type": "contrast",
+      "narration": "Large task: Explain my entire career clearly right now. First sentence: I build tools that help people practise communication. That gives both people somewhere to begin. Now consider a short check. What must be ready before beginning? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Choose one useful first sentence",
+      "segments": [
+        {
+          "id": "P18-05-S01",
+          "text": "Large task: Explain my entire career clearly right now."
+        },
+        {
+          "id": "P18-05-S02",
+          "text": "First sentence: I build tools that help people practise communication."
+        },
+        {
+          "id": "P18-05-S03",
+          "text": "That gives both people somewhere to begin."
+        },
+        {
+          "id": "P18-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P18-05-S05",
+          "text": "What must be ready before beginning?"
+        },
+        {
+          "id": "P18-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What must be ready before beginning?",
+        "labels": [
+          "Every possible follow-up.",
+          "One useful starting point can be enough.",
+          "An exact memorised paragraph."
+        ],
+        "altText": "Three options: Every possible follow-up. / One useful starting point can be enough. / An exact memorised paragraph."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What must be ready before beginning?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Every possible follow-up.",
+            "feedback": "Consider the distinction again. A first sentence can begin the exchange. You can discover the next piece from what follows rather than holding the entire answer."
+          },
+          {
+            "id": "B",
+            "text": "One useful starting point can be enough.",
+            "feedback": "Yes. A first sentence can begin the exchange. You can discover the next piece from what follows rather than holding the entire answer."
+          },
+          {
+            "id": "C",
+            "text": "An exact memorised paragraph.",
+            "feedback": "Consider the distinction again. A first sentence can begin the exchange. You can discover the next piece from what follows rather than holding the entire answer."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P18-06",
+      "type": "reflection",
+      "narration": "Write three possible first sentences for a familiar question. Choose the plainest useful one. Put the others aside. Say it, pause and decide what is needed next. No need to repeat the opening until it is perfect.",
+      "learningPurpose": "Choose one useful first sentence",
+      "segments": [
+        {
+          "id": "P18-06-S01",
+          "text": "Write three possible first sentences for a familiar question."
+        },
+        {
+          "id": "P18-06-S02",
+          "text": "Choose the plainest useful one."
+        },
+        {
+          "id": "P18-06-S03",
+          "text": "Put the others aside."
+        },
+        {
+          "id": "P18-06-S04",
+          "text": "Say it, pause and decide what is needed next."
+        },
+        {
+          "id": "P18-06-S05",
+          "text": "No need to repeat the opening until it is perfect."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write three possible first sentences for a familiar question. Choose the plainest useful one. Put the others aside. Say it, pause and decide what is needed next. No need to repeat the opening until it is perfect.",
+        "questions": [
+          "What did the first sentence need to do?",
+          "Did you try to prepare the whole answer?",
+          "How did the next sentence emerge?"
+        ]
+      }
+    },
+    {
+      "id": "P18-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Choose a familiar update and say one useful first sentence. You do not need to prepare the full answer. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Choose one useful first sentence",
+      "segments": [
+        {
+          "id": "P18-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P18-07-S02",
+          "text": "Choose a familiar update and say one useful first sentence."
+        },
+        {
+          "id": "P18-07-S03",
+          "text": "You do not need to prepare the full answer."
+        },
+        {
+          "id": "P18-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P18-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P18-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Choose a familiar update and say one useful first sentence. You do not need to prepare the full answer.",
+        "reflectionQuestions": [
+          "What did the first sentence need to do?",
+          "Did you try to prepare the whole answer?",
+          "How did the next sentence emerge?"
+        ]
+      }
+    },
+    {
+      "id": "P18-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Start another update from one useful sentence, then add the next piece when it becomes available. A pause or clarification remains allowed. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Choose one useful first sentence",
+      "segments": [
+        {
+          "id": "P18-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P18-08-S02",
+          "text": "Start another update from one useful sentence, then add the next piece when it becomes available."
+        },
+        {
+          "id": "P18-08-S03",
+          "text": "A pause or clarification remains allowed."
+        },
+        {
+          "id": "P18-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P18-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Start another update from one useful sentence, then add the next piece when it becomes available. A pause or clarification remains allowed.",
+        "reflectionQuestions": [
+          "What did the first sentence need to do?",
+          "Did you try to prepare the whole answer?",
+          "How did the next sentence emerge?"
+        ]
+      }
+    },
+    {
+      "id": "P18-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Let the next sentence develop",
+      "segments": [
+        {
+          "id": "P18-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P18-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P18-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P18-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "Before answering, you try to organise the entire explanation, choose perfect wording and protect every possible difficult word. The answer feels too large to begin.",
+        "partnerPrompts": [
+          "What are you working on these days?",
+          "What do you enjoy about it?",
+          "What would you like to learn next?"
+        ]
+      }
+    },
+    {
+      "id": "P18-10",
+      "type": "review",
+      "narration": "This tool is not a rule against preparation. A presentation can need an outline. We are reducing unnecessary full-answer rehearsal in moments where one sentence is enough to start. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Let the next sentence develop",
+      "segments": [
+        {
+          "id": "P18-10-S01",
+          "text": "This tool is not a rule against preparation."
+        },
+        {
+          "id": "P18-10-S02",
+          "text": "A presentation can need an outline."
+        },
+        {
+          "id": "P18-10-S03",
+          "text": "We are reducing unnecessary full-answer rehearsal in moments where one sentence is enough to start."
+        },
+        {
+          "id": "P18-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P18-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did the first sentence need to do?",
+          "Did you try to prepare the whole answer?",
+          "How did the next sentence emerge?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P18-11",
+      "type": "transfer",
+      "narration": "Use a first-sentence intention before one everyday answer. Notice what became possible after you began. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Let the next sentence develop",
+      "segments": [
+        {
+          "id": "P18-11-S01",
+          "text": "Use a first-sentence intention before one everyday answer."
+        },
+        {
+          "id": "P18-11-S02",
+          "text": "Notice what became possible after you began."
+        },
+        {
+          "id": "P18-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P18-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P18-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Use a first-sentence intention before one everyday answer. Notice what became possible after you began.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P18-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Let the next sentence develop",
+      "segments": [
+        {
+          "id": "P18-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P18-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P18-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P18-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P18-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "How did the next sentence emerge?"
+      }
+    }
+  ]
+}

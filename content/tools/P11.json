@@ -1,0 +1,555 @@
+{
+  "id": "P11",
+  "title": "Listening Without Rehearsing or Comparing",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice rehearsing while listening",
+    "Listen for the other person's meaning",
+    "Respond from what you heard"
+  ],
+  "deeperExplanation": {
+    "question": "How can I listen without losing my own idea?",
+    "answer": "If the idea matters, a small keyword note may help in an appropriate meeting. In other conversations, try letting the exact wording go while keeping the general meaning. You may discover that the other person’s next sentence changes what you want to say. A response that grows from what you heard can be more relevant than the sentence you were protecting. You can share your point when it fits."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P11-focused-v1",
+  "sections": [
+    {
+      "id": "P11-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Listening Without Rehearsing or Comparing. Someone tells you about their weekend. You hear the beginning, then start preparing your answer. You compare your story with theirs and wonder whether your reply will be interesting enough.\n\nIn this session, we will notice rehearsing while listening, listen for the other person's meaning, and respond from what you heard. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice rehearsing while listening",
+      "segments": [
+        {
+          "id": "P11-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P11-01-S02",
+          "text": "Today we are exploring Listening Without Rehearsing or Comparing."
+        },
+        {
+          "id": "P11-01-S03",
+          "text": "Someone tells you about their weekend."
+        },
+        {
+          "id": "P11-01-S04",
+          "text": "You hear the beginning, then start preparing your answer."
+        },
+        {
+          "id": "P11-01-S05",
+          "text": "You compare your story with theirs and wonder whether your reply will be interesting enough."
+        },
+        {
+          "id": "P11-01-S06",
+          "text": "In this session, we will notice rehearsing while listening, listen for the other person's meaning, and respond from what you heard."
+        },
+        {
+          "id": "P11-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P11-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P11-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice rehearsing while listening",
+          "Listen for the other person's meaning",
+          "Respond from what you heard"
+        ],
+        "altText": "This session explores: Notice rehearsing while listening; Listen for the other person's meaning; Respond from what you heard."
+      }
+    },
+    {
+      "id": "P11-02",
+      "type": "explain",
+      "narration": "Listening can become crowded when you are simultaneously rehearsing and comparing. This session gives you a smaller task: understand one part before deciding how to respond. You do not need a finished reply while the other person is still speaking. When their turn ends, a pause, a question or a short reflection can be your response.",
+      "learningPurpose": "Notice rehearsing while listening",
+      "segments": [
+        {
+          "id": "P11-02-S01",
+          "text": "Listening can become crowded when you are simultaneously rehearsing and comparing."
+        },
+        {
+          "id": "P11-02-S02",
+          "text": "This session gives you a smaller task: understand one part before deciding how to respond."
+        },
+        {
+          "id": "P11-02-S03",
+          "text": "You do not need a finished reply while the other person is still speaking."
+        },
+        {
+          "id": "P11-02-S04",
+          "text": "When their turn ends, a pause, a question or a short reflection can be your response."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "When did rehearsal begin?"
+      }
+    },
+    {
+      "id": "P11-03",
+      "type": "explain",
+      "narration": "Someone tells you about their weekend. You hear the beginning, then start preparing your answer. You compare your story with theirs and wonder whether your reply will be interesting enough.\n\nThere is a difference between noticing an idea for later and repeatedly running it through your mind so you will not lose it. If you are rehearsing, see whether you can let the wording go and listen again. You may remember the meaning when it is your turn. If not, you can ask about what you did hear. You are participating, not competing in a story contest.\n\nHow can I listen without losing my own idea?\n\nIf the idea matters, a small keyword note may help in an appropriate meeting. In other conversations, try letting the exact wording go while keeping the general meaning. You may discover that the other person’s next sentence changes what you want to say. A response that grows from what you heard can be more relevant than the sentence you were protecting. You can share your point when it fits.",
+      "learningPurpose": "Notice rehearsing while listening",
+      "segments": [
+        {
+          "id": "P11-03-S01",
+          "text": "Someone tells you about their weekend."
+        },
+        {
+          "id": "P11-03-S02",
+          "text": "You hear the beginning, then start preparing your answer."
+        },
+        {
+          "id": "P11-03-S03",
+          "text": "You compare your story with theirs and wonder whether your reply will be interesting enough."
+        },
+        {
+          "id": "P11-03-S04",
+          "text": "There is a difference between noticing an idea for later and repeatedly running it through your mind so you will not lose it."
+        },
+        {
+          "id": "P11-03-S05",
+          "text": "If you are rehearsing, see whether you can let the wording go and listen again."
+        },
+        {
+          "id": "P11-03-S06",
+          "text": "You may remember the meaning when it is your turn."
+        },
+        {
+          "id": "P11-03-S07",
+          "text": "If not, you can ask about what you did hear."
+        },
+        {
+          "id": "P11-03-S08",
+          "text": "You are participating, not competing in a story contest."
+        },
+        {
+          "id": "P11-03-S09",
+          "text": "How can I listen without losing my own idea?"
+        },
+        {
+          "id": "P11-03-S10",
+          "text": "If the idea matters, a small keyword note may help in an appropriate meeting."
+        },
+        {
+          "id": "P11-03-S11",
+          "text": "In other conversations, try letting the exact wording go while keeping the general meaning."
+        },
+        {
+          "id": "P11-03-S12",
+          "text": "You may discover that the other person’s next sentence changes what you want to say."
+        },
+        {
+          "id": "P11-03-S13",
+          "text": "A response that grows from what you heard can be more relevant than the sentence you were protecting."
+        },
+        {
+          "id": "P11-03-S14",
+          "text": "You can share your point when it fits."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Rehearsed reply",
+          "What was said",
+          "Response to meaning"
+        ],
+        "altText": "Three parts to distinguish: Rehearsed reply, What was said, Response to meaning. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What became clearer when you listened?"
+      }
+    },
+    {
+      "id": "P11-04",
+      "type": "visual",
+      "narration": "Imagine two radios playing at once. Lowering your private broadcast lets you hear more of the station you chose to listen to.",
+      "learningPurpose": "Notice rehearsing while listening",
+      "segments": [
+        {
+          "id": "P11-04-S01",
+          "text": "Imagine two radios playing at once."
+        },
+        {
+          "id": "P11-04-S02",
+          "text": "Lowering your private broadcast lets you hear more of the station you chose to listen to."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Two radios",
+        "labels": [
+          "Two broadcasts",
+          "Hear their message"
+        ],
+        "altText": "Imagine two radios playing at once. Lowering your private broadcast lets you hear more of the station you chose to listen to."
+      }
+    },
+    {
+      "id": "P11-05",
+      "type": "contrast",
+      "narration": "Rehearsing: When they finish I will tell my better story. Listening: They sounded excited about the trip. I am curious what made it special. A follow-up grows from their words. Now consider a short check. Which reply begins from listening? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Listen for the other person's meaning",
+      "segments": [
+        {
+          "id": "P11-05-S01",
+          "text": "Rehearsing: When they finish I will tell my better story."
+        },
+        {
+          "id": "P11-05-S02",
+          "text": "Listening: They sounded excited about the trip."
+        },
+        {
+          "id": "P11-05-S03",
+          "text": "I am curious what made it special."
+        },
+        {
+          "id": "P11-05-S04",
+          "text": "A follow-up grows from their words."
+        },
+        {
+          "id": "P11-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P11-05-S06",
+          "text": "Which reply begins from listening?"
+        },
+        {
+          "id": "P11-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "Which reply begins from listening?",
+        "labels": [
+          "Respond to the detail the person actually shared.",
+          "Recite an answer prepared before the question ended.",
+          "Compare how fluent both speakers sound."
+        ],
+        "altText": "Three options: Respond to the detail the person actually shared. / Recite an answer prepared before the question ended. / Compare how fluent both speakers sound."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "Which reply begins from listening?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Respond to the detail the person actually shared.",
+            "feedback": "Yes. Listening makes the actual message available. Preparation can be useful, but it need not replace hearing the person."
+          },
+          {
+            "id": "B",
+            "text": "Recite an answer prepared before the question ended.",
+            "feedback": "Consider the distinction again. Listening makes the actual message available. Preparation can be useful, but it need not replace hearing the person."
+          },
+          {
+            "id": "C",
+            "text": "Compare how fluent both speakers sound.",
+            "feedback": "Consider the distinction again. Listening makes the actual message available. Preparation can be useful, but it need not replace hearing the person."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P11-06",
+      "type": "reflection",
+      "narration": "Use a 30-second prepared story. Listen once without composing an answer. Say the main idea in your own words, then ask one follow-up. You do not need to repeat every detail or prove perfect memory.",
+      "learningPurpose": "Listen for the other person's meaning",
+      "segments": [
+        {
+          "id": "P11-06-S01",
+          "text": "Use a 30-second prepared story."
+        },
+        {
+          "id": "P11-06-S02",
+          "text": "Listen once without composing an answer."
+        },
+        {
+          "id": "P11-06-S03",
+          "text": "Say the main idea in your own words, then ask one follow-up."
+        },
+        {
+          "id": "P11-06-S04",
+          "text": "You do not need to repeat every detail or prove perfect memory."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Use a 30-second prepared story. Listen once without composing an answer. Say the main idea in your own words, then ask one follow-up. You do not need to repeat every detail or prove perfect memory.",
+        "questions": [
+          "When did rehearsal begin?",
+          "What became clearer when you listened?",
+          "Did you allow a pause before replying?"
+        ]
+      }
+    },
+    {
+      "id": "P11-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Listen to this prepared message: My train was late, so I called a friend and we changed our lunch plan. Afterwards describe one detail you heard. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Listen for the other person's meaning",
+      "segments": [
+        {
+          "id": "P11-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P11-07-S02",
+          "text": "Listen to this prepared message: My train was late, so I called a friend and we changed our lunch plan."
+        },
+        {
+          "id": "P11-07-S03",
+          "text": "Afterwards describe one detail you heard."
+        },
+        {
+          "id": "P11-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P11-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P11-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Listen to this prepared message: My train was late, so I called a friend and we changed our lunch plan. Afterwards describe one detail you heard.",
+        "reflectionQuestions": [
+          "When did rehearsal begin?",
+          "What became clearer when you listened?",
+          "Did you allow a pause before replying?"
+        ]
+      }
+    },
+    {
+      "id": "P11-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Listen again for what mattered to the speaker, rather than planning a perfect answer. Give one relevant reply or question. There is no fluency comparison. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Listen for the other person's meaning",
+      "segments": [
+        {
+          "id": "P11-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P11-08-S02",
+          "text": "Listen again for what mattered to the speaker, rather than planning a perfect answer."
+        },
+        {
+          "id": "P11-08-S03",
+          "text": "Give one relevant reply or question."
+        },
+        {
+          "id": "P11-08-S04",
+          "text": "There is no fluency comparison."
+        },
+        {
+          "id": "P11-08-S05",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P11-08-S06",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Listen again for what mattered to the speaker, rather than planning a perfect answer. Give one relevant reply or question. There is no fluency comparison.",
+        "reflectionQuestions": [
+          "When did rehearsal begin?",
+          "What became clearer when you listened?",
+          "Did you allow a pause before replying?"
+        ]
+      }
+    },
+    {
+      "id": "P11-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Respond from what you heard",
+      "segments": [
+        {
+          "id": "P11-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P11-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P11-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P11-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "Someone tells you about their weekend. You hear the beginning, then start preparing your answer. You compare your story with theirs and wonder whether your reply will be interesting enough.",
+        "partnerPrompts": [
+          "I finally finished a project that took longer than I expected. Reflect the main point.",
+          "The hardest part was asking for help. Ask one genuine follow-up.",
+          "I feel relieved now. Share something relevant without taking over the story."
+        ]
+      }
+    },
+    {
+      "id": "P11-10",
+      "type": "review",
+      "narration": "Listening does not mean never sharing about yourself. A conversation is an exchange. Nor does understanding mean agreement. You can understand someone and have a different view. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Respond from what you heard",
+      "segments": [
+        {
+          "id": "P11-10-S01",
+          "text": "Listening does not mean never sharing about yourself."
+        },
+        {
+          "id": "P11-10-S02",
+          "text": "A conversation is an exchange."
+        },
+        {
+          "id": "P11-10-S03",
+          "text": "Nor does understanding mean agreement."
+        },
+        {
+          "id": "P11-10-S04",
+          "text": "You can understand someone and have a different view."
+        },
+        {
+          "id": "P11-10-S05",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P11-10-S06",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "When did rehearsal begin?",
+          "What became clearer when you listened?",
+          "Did you allow a pause before replying?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P11-11",
+      "type": "transfer",
+      "narration": "In one conversation, let the other person finish, reflect one point and then respond. Afterwards note whether you understood something you might usually miss. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Respond from what you heard",
+      "segments": [
+        {
+          "id": "P11-11-S01",
+          "text": "In one conversation, let the other person finish, reflect one point and then respond."
+        },
+        {
+          "id": "P11-11-S02",
+          "text": "Afterwards note whether you understood something you might usually miss."
+        },
+        {
+          "id": "P11-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P11-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P11-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "In one conversation, let the other person finish, reflect one point and then respond. Afterwards note whether you understood something you might usually miss.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P11-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Respond from what you heard",
+      "segments": [
+        {
+          "id": "P11-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P11-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P11-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P11-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P11-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Did you allow a pause before replying?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "P16",
+  "title": "Guilt, Expectations, and Speaking Needs",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Separate agreements from assumptions",
+    "Name a reasonable speaking need",
+    "Make a respectful request"
+  ],
+  "deeperExplanation": {
+    "question": "How do I know whether guilt asks for action?",
+    "answer": "Look for a specific agreement, a harm you caused or a practical need you can respond to. If you missed an agreed call, you can acknowledge it and arrange another time. If you simply imagine that a listener must be annoyed, check the assumption before taking responsibility for their entire emotional state. Caring and boundaries can coexist. A clear request often gives both people better information."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P16-focused-v1",
+  "sections": [
+    {
+      "id": "P16-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Guilt, Expectations, and Speaking Needs. You need another moment to finish, but worry you are wasting the listener’s time. You apologise repeatedly and abandon the point, then feel frustrated that you did not say what mattered.\n\nIn this session, we will separate agreements from assumptions, name a reasonable speaking need, and make a respectful request. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Separate agreements from assumptions",
+      "segments": [
+        {
+          "id": "P16-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P16-01-S02",
+          "text": "Today we are exploring Guilt, Expectations, and Speaking Needs."
+        },
+        {
+          "id": "P16-01-S03",
+          "text": "You need another moment to finish, but worry you are wasting the listener’s time."
+        },
+        {
+          "id": "P16-01-S04",
+          "text": "You apologise repeatedly and abandon the point, then feel frustrated that you did not say what mattered."
+        },
+        {
+          "id": "P16-01-S05",
+          "text": "In this session, we will separate agreements from assumptions, name a reasonable speaking need, and make a respectful request."
+        },
+        {
+          "id": "P16-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P16-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P16-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Separate agreements from assumptions",
+          "Name a reasonable speaking need",
+          "Make a respectful request"
+        ],
+        "altText": "This session explores: Separate agreements from assumptions; Name a reasonable speaking need; Make a respectful request."
+      }
+    },
+    {
+      "id": "P16-02",
+      "type": "explain",
+      "narration": "Guilt can appear when you believe you have failed a responsibility. The useful question is what responsibility actually belongs to you in this conversation. You can care about the listener’s time and also have a speaking need. We will distinguish a stated expectation, a reasonable shared need and an expectation you have imagined without checking.",
+      "learningPurpose": "Separate agreements from assumptions",
+      "segments": [
+        {
+          "id": "P16-02-S01",
+          "text": "Guilt can appear when you believe you have failed a responsibility."
+        },
+        {
+          "id": "P16-02-S02",
+          "text": "The useful question is what responsibility actually belongs to you in this conversation."
+        },
+        {
+          "id": "P16-02-S03",
+          "text": "You can care about the listener’s time and also have a speaking need."
+        },
+        {
+          "id": "P16-02-S04",
+          "text": "We will distinguish a stated expectation, a reasonable shared need and an expectation you have imagined without checking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What expectation was stated?"
+      }
+    },
+    {
+      "id": "P16-03",
+      "type": "explain",
+      "narration": "You need another moment to finish, but worry you are wasting the listener’s time. You apologise repeatedly and abandon the point, then feel frustrated that you did not say what mattered.\n\nBeing considerate does not require removing every inconvenience from another person’s experience. Conversation is shared. You can speak respectfully, give relevant information and ask for space. The other person can tell you about their time limits. A boundary can be warm: I want to answer properly; do we have a minute, or shall we return to this later?\n\nHow do I know whether guilt asks for action?\n\nLook for a specific agreement, a harm you caused or a practical need you can respond to. If you missed an agreed call, you can acknowledge it and arrange another time. If you simply imagine that a listener must be annoyed, check the assumption before taking responsibility for their entire emotional state. Caring and boundaries can coexist. A clear request often gives both people better information.",
+      "learningPurpose": "Separate agreements from assumptions",
+      "segments": [
+        {
+          "id": "P16-03-S01",
+          "text": "You need another moment to finish, but worry you are wasting the listener’s time."
+        },
+        {
+          "id": "P16-03-S02",
+          "text": "You apologise repeatedly and abandon the point, then feel frustrated that you did not say what mattered."
+        },
+        {
+          "id": "P16-03-S03",
+          "text": "Being considerate does not require removing every inconvenience from another person’s experience."
+        },
+        {
+          "id": "P16-03-S04",
+          "text": "Conversation is shared."
+        },
+        {
+          "id": "P16-03-S05",
+          "text": "You can speak respectfully, give relevant information and ask for space."
+        },
+        {
+          "id": "P16-03-S06",
+          "text": "The other person can tell you about their time limits."
+        },
+        {
+          "id": "P16-03-S07",
+          "text": "A boundary can be warm: I want to answer properly; do we have a minute, or shall we return to this later?"
+        },
+        {
+          "id": "P16-03-S08",
+          "text": "How do I know whether guilt asks for action?"
+        },
+        {
+          "id": "P16-03-S09",
+          "text": "Look for a specific agreement, a harm you caused or a practical need you can respond to."
+        },
+        {
+          "id": "P16-03-S10",
+          "text": "If you missed an agreed call, you can acknowledge it and arrange another time."
+        },
+        {
+          "id": "P16-03-S11",
+          "text": "If you simply imagine that a listener must be annoyed, check the assumption before taking responsibility for their entire emotional state."
+        },
+        {
+          "id": "P16-03-S12",
+          "text": "Caring and boundaries can coexist."
+        },
+        {
+          "id": "P16-03-S13",
+          "text": "A clear request often gives both people better information."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "What was said",
+          "What I inferred",
+          "What I need"
+        ],
+        "altText": "Three parts to distinguish: What was said, What I inferred, What I need. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did you assume?"
+      }
+    },
+    {
+      "id": "P16-04",
+      "type": "visual",
+      "narration": "A shared table has room for more than one plate. Making space for your need does not automatically take away the other person’s place.",
+      "learningPurpose": "Separate agreements from assumptions",
+      "segments": [
+        {
+          "id": "P16-04-S01",
+          "text": "A shared table has room for more than one plate."
+        },
+        {
+          "id": "P16-04-S02",
+          "text": "Making space for your need does not automatically take away the other person’s place."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Shared table",
+        "labels": [
+          "Care for the listener",
+          "Room for your need"
+        ],
+        "altText": "A shared table has room for more than one plate. Making space for your need does not automatically take away the other person’s place."
+      }
+    },
+    {
+      "id": "P16-05",
+      "type": "contrast",
+      "narration": "Assumption: They are quiet, so they must be annoyed with me. Clarification: Do you have time for the short version now? The clarification gives both people a voice. Now consider a short check. What is known when a listener has not said they are annoyed? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Name a reasonable speaking need",
+      "segments": [
+        {
+          "id": "P16-05-S01",
+          "text": "Assumption: They are quiet, so they must be annoyed with me."
+        },
+        {
+          "id": "P16-05-S02",
+          "text": "Clarification: Do you have time for the short version now?"
+        },
+        {
+          "id": "P16-05-S03",
+          "text": "The clarification gives both people a voice."
+        },
+        {
+          "id": "P16-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P16-05-S05",
+          "text": "What is known when a listener has not said they are annoyed?"
+        },
+        {
+          "id": "P16-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is known when a listener has not said they are annoyed?",
+        "labels": [
+          "They are definitely hiding annoyance.",
+          "You owe them an apology for every pause.",
+          "Their reaction is uncertain; you can check availability or state a need."
+        ],
+        "altText": "Three options: They are definitely hiding annoyance. / You owe them an apology for every pause. / Their reaction is uncertain; you can check availability or state a need."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is known when a listener has not said they are annoyed?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "They are definitely hiding annoyance.",
+            "feedback": "Consider the distinction again. An unspoken expectation is not an established agreement. A clear request gives both people more information."
+          },
+          {
+            "id": "B",
+            "text": "You owe them an apology for every pause.",
+            "feedback": "Consider the distinction again. An unspoken expectation is not an established agreement. A clear request gives both people more information."
+          },
+          {
+            "id": "C",
+            "text": "Their reaction is uncertain; you can check availability or state a need.",
+            "feedback": "Yes. An unspoken expectation is not an established agreement. A clear request gives both people more information."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P16-06",
+      "type": "reflection",
+      "narration": "Describe a speaking situation where you feel guilty. Write what was actually said, what you inferred and what you reasonably need. Compose one respectful request that does not require the listener to reassure you repeatedly.",
+      "learningPurpose": "Name a reasonable speaking need",
+      "segments": [
+        {
+          "id": "P16-06-S01",
+          "text": "Describe a speaking situation where you feel guilty."
+        },
+        {
+          "id": "P16-06-S02",
+          "text": "Write what was actually said, what you inferred and what you reasonably need."
+        },
+        {
+          "id": "P16-06-S03",
+          "text": "Compose one respectful request that does not require the listener to reassure you repeatedly."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Describe a speaking situation where you feel guilty. Write what was actually said, what you inferred and what you reasonably need. Compose one respectful request that does not require the listener to reassure you repeatedly.",
+        "questions": [
+          "What expectation was stated?",
+          "What did you assume?",
+          "What need could you express respectfully?"
+        ]
+      }
+    },
+    {
+      "id": "P16-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Describe a situation in which you need a little speaking time. Separate what was said from what you inferred. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Name a reasonable speaking need",
+      "segments": [
+        {
+          "id": "P16-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P16-07-S02",
+          "text": "Describe a situation in which you need a little speaking time."
+        },
+        {
+          "id": "P16-07-S03",
+          "text": "Separate what was said from what you inferred."
+        },
+        {
+          "id": "P16-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P16-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P16-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Describe a situation in which you need a little speaking time. Separate what was said from what you inferred.",
+        "reflectionQuestions": [
+          "What expectation was stated?",
+          "What did you assume?",
+          "What need could you express respectfully?"
+        ]
+      }
+    },
+    {
+      "id": "P16-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Practise one respectful request, such as: I would like a moment to finish this point. Ask about timing if needed and allow the listener a real choice. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Name a reasonable speaking need",
+      "segments": [
+        {
+          "id": "P16-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P16-08-S02",
+          "text": "Practise one respectful request, such as: I would like a moment to finish this point."
+        },
+        {
+          "id": "P16-08-S03",
+          "text": "Ask about timing if needed and allow the listener a real choice."
+        },
+        {
+          "id": "P16-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P16-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Practise one respectful request, such as: I would like a moment to finish this point. Ask about timing if needed and allow the listener a real choice.",
+        "reflectionQuestions": [
+          "What expectation was stated?",
+          "What did you assume?",
+          "What need could you express respectfully?"
+        ]
+      }
+    },
+    {
+      "id": "P16-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Make a respectful request",
+      "segments": [
+        {
+          "id": "P16-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P16-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P16-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P16-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You need another moment to finish, but worry you are wasting the listener’s time. You apologise repeatedly and abandon the point, then feel frustrated that you did not say what mattered.",
+        "partnerPrompts": [
+          "You have a point to explain but I may be busy. Ask about timing.",
+          "You need a moment to finish. Tell me that directly.",
+          "We can talk later. Suggest a practical next time."
+        ]
+      }
+    },
+    {
+      "id": "P16-10",
+      "type": "review",
+      "narration": "You do not need to conclude that every guilty feeling is wrong. If you did harm or broke an agreement, you can repair it. Here we are checking whether the assumed obligation is real and proportionate. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Make a respectful request",
+      "segments": [
+        {
+          "id": "P16-10-S01",
+          "text": "You do not need to conclude that every guilty feeling is wrong."
+        },
+        {
+          "id": "P16-10-S02",
+          "text": "If you did harm or broke an agreement, you can repair it."
+        },
+        {
+          "id": "P16-10-S03",
+          "text": "Here we are checking whether the assumed obligation is real and proportionate."
+        },
+        {
+          "id": "P16-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P16-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What expectation was stated?",
+          "What did you assume?",
+          "What need could you express respectfully?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P16-11",
+      "type": "transfer",
+      "narration": "Try one clear speaking-needs request. Afterwards record what the other person actually said rather than completing their thoughts for them. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Make a respectful request",
+      "segments": [
+        {
+          "id": "P16-11-S01",
+          "text": "Try one clear speaking-needs request."
+        },
+        {
+          "id": "P16-11-S02",
+          "text": "Afterwards record what the other person actually said rather than completing their thoughts for them."
+        },
+        {
+          "id": "P16-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P16-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P16-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Try one clear speaking-needs request. Afterwards record what the other person actually said rather than completing their thoughts for them.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P16-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Make a respectful request",
+      "segments": [
+        {
+          "id": "P16-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P16-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P16-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P16-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P16-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What need could you express respectfully?"
+      }
+    }
+  ]
+}

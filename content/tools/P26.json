@@ -1,0 +1,547 @@
+{
+  "id": "P26",
+  "title": "Experiment Without Grading Yourself",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Choose an experiment question",
+    "Observe one change",
+    "Leave an uncertain result open"
+  ],
+  "deeperExplanation": {
+    "question": "What if I cannot tell whether the tool helped?",
+    "answer": "Unclear is an acceptable result. You may need a simpler comparison, another setting or more time. You can also decide the experiment is not relevant to your current goal. Write what you do know, including whether the task itself became crowded. A useful experiment does not always end in a clear improvement. It helps you make a more informed choice about what to explore next."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P26-focused-v1",
+  "sections": [
+    {
+      "id": "P26-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Experiment Without Grading Yourself. You try a tool once and immediately ask whether you did it correctly. The practice becomes another performance, and the interesting details disappear behind a pass or fail.\n\nIn this session, we will choose an experiment question, observe one change, and leave an uncertain result open. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Choose an experiment question",
+      "segments": [
+        {
+          "id": "P26-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P26-01-S02",
+          "text": "Today we are exploring Experiment Without Grading Yourself."
+        },
+        {
+          "id": "P26-01-S03",
+          "text": "You try a tool once and immediately ask whether you did it correctly."
+        },
+        {
+          "id": "P26-01-S04",
+          "text": "The practice becomes another performance, and the interesting details disappear behind a pass or fail."
+        },
+        {
+          "id": "P26-01-S05",
+          "text": "In this session, we will choose an experiment question, observe one change, and leave an uncertain result open."
+        },
+        {
+          "id": "P26-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P26-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P26-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Choose an experiment question",
+          "Observe one change",
+          "Leave an uncertain result open"
+        ],
+        "altText": "This session explores: Choose an experiment question; Observe one change; Leave an uncertain result open."
+      }
+    },
+    {
+      "id": "P26-02",
+      "type": "explain",
+      "narration": "An experiment begins with a question. A grade begins with a standard you must meet. Today we will choose one variable, try it and describe what happened. The result can be helpful, neutral, uncomfortable or unclear. Each gives information about how to proceed. You are not the result of the experiment.",
+      "learningPurpose": "Choose an experiment question",
+      "segments": [
+        {
+          "id": "P26-02-S01",
+          "text": "An experiment begins with a question."
+        },
+        {
+          "id": "P26-02-S02",
+          "text": "A grade begins with a standard you must meet."
+        },
+        {
+          "id": "P26-02-S03",
+          "text": "Today we will choose one variable, try it and describe what happened."
+        },
+        {
+          "id": "P26-02-S04",
+          "text": "The result can be helpful, neutral, uncomfortable or unclear."
+        },
+        {
+          "id": "P26-02-S05",
+          "text": "Each gives information about how to proceed."
+        },
+        {
+          "id": "P26-02-S06",
+          "text": "You are not the result of the experiment."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What variable did you change?"
+      }
+    },
+    {
+      "id": "P26-03",
+      "type": "explain",
+      "narration": "You try a tool once and immediately ask whether you did it correctly. The practice becomes another performance, and the interesting details disappear behind a pass or fail.\n\nWhen you change several things at once, it becomes difficult to understand the experience. Choose one small difference such as a little more space before answering or one meaning chunk at a time. Compare similar prompts. Keep the observation about effort, connection, willingness or communication rather than turning the recording into a total score.\n\nWhat if I cannot tell whether the tool helped?\n\nUnclear is an acceptable result. You may need a simpler comparison, another setting or more time. You can also decide the experiment is not relevant to your current goal. Write what you do know, including whether the task itself became crowded. A useful experiment does not always end in a clear improvement. It helps you make a more informed choice about what to explore next.",
+      "learningPurpose": "Choose an experiment question",
+      "segments": [
+        {
+          "id": "P26-03-S01",
+          "text": "You try a tool once and immediately ask whether you did it correctly."
+        },
+        {
+          "id": "P26-03-S02",
+          "text": "The practice becomes another performance, and the interesting details disappear behind a pass or fail."
+        },
+        {
+          "id": "P26-03-S03",
+          "text": "When you change several things at once, it becomes difficult to understand the experience."
+        },
+        {
+          "id": "P26-03-S04",
+          "text": "Choose one small difference such as a little more space before answering or one meaning chunk at a time."
+        },
+        {
+          "id": "P26-03-S05",
+          "text": "Compare similar prompts."
+        },
+        {
+          "id": "P26-03-S06",
+          "text": "Keep the observation about effort, connection, willingness or communication rather than turning the recording into a total score."
+        },
+        {
+          "id": "P26-03-S07",
+          "text": "What if I cannot tell whether the tool helped?"
+        },
+        {
+          "id": "P26-03-S08",
+          "text": "Unclear is an acceptable result."
+        },
+        {
+          "id": "P26-03-S09",
+          "text": "You may need a simpler comparison, another setting or more time."
+        },
+        {
+          "id": "P26-03-S10",
+          "text": "You can also decide the experiment is not relevant to your current goal."
+        },
+        {
+          "id": "P26-03-S11",
+          "text": "Write what you do know, including whether the task itself became crowded."
+        },
+        {
+          "id": "P26-03-S12",
+          "text": "A useful experiment does not always end in a clear improvement."
+        },
+        {
+          "id": "P26-03-S13",
+          "text": "It helps you make a more informed choice about what to explore next."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Question",
+          "One changed variable",
+          "Observation"
+        ],
+        "altText": "Three parts to distinguish: Question, One changed variable, Observation. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did you actually notice?"
+      }
+    },
+    {
+      "id": "P26-04",
+      "type": "visual",
+      "narration": "A scientist does not throw away a whole laboratory because one experiment is inconclusive. They ask what the experiment actually showed and choose the next question.",
+      "learningPurpose": "Choose an experiment question",
+      "segments": [
+        {
+          "id": "P26-04-S01",
+          "text": "A scientist does not throw away a whole laboratory because one experiment is inconclusive."
+        },
+        {
+          "id": "P26-04-S02",
+          "text": "They ask what the experiment actually showed and choose the next question."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Experiment notebook",
+        "labels": [
+          "One experiment",
+          "Information to use"
+        ],
+        "altText": "A scientist does not throw away a whole laboratory because one experiment is inconclusive. They ask what the experiment actually showed and choose the next question."
+      }
+    },
+    {
+      "id": "P26-05",
+      "type": "contrast",
+      "narration": "Grade: I still repeated a word, so I failed. Observation: I paused before the answer and felt less rushed, while the word was still difficult. The observation contains more useful information. Now consider a short check. Which statement reports an experiment? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Observe one change",
+      "segments": [
+        {
+          "id": "P26-05-S01",
+          "text": "Grade: I still repeated a word, so I failed."
+        },
+        {
+          "id": "P26-05-S02",
+          "text": "Observation: I paused before the answer and felt less rushed, while the word was still difficult."
+        },
+        {
+          "id": "P26-05-S03",
+          "text": "The observation contains more useful information."
+        },
+        {
+          "id": "P26-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P26-05-S05",
+          "text": "Which statement reports an experiment?"
+        },
+        {
+          "id": "P26-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "Which statement reports an experiment?",
+        "labels": [
+          "I took a pause and felt less rushed; a word still took effort.",
+          "I repeated a word, so I failed.",
+          "This must work every time."
+        ],
+        "altText": "Three options: I took a pause and felt less rushed; a word still took effort. / I repeated a word, so I failed. / This must work every time."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "Which statement reports an experiment?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I took a pause and felt less rushed; a word still took effort.",
+            "feedback": "Yes. It describes both an observation and continuing difficulty. An experiment gathers information rather than awarding a personal grade."
+          },
+          {
+            "id": "B",
+            "text": "I repeated a word, so I failed.",
+            "feedback": "Consider the distinction again. It describes both an observation and continuing difficulty. An experiment gathers information rather than awarding a personal grade."
+          },
+          {
+            "id": "C",
+            "text": "This must work every time.",
+            "feedback": "Consider the distinction again. It describes both an observation and continuing difficulty. An experiment gathers information rather than awarding a personal grade."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "P26-06",
+      "type": "reflection",
+      "narration": "Write one question beginning What happens if I. Choose one behaviour and one observation you care about. Set a clear stopping point for the experiment. Avoid a question that secretly demands a particular result.",
+      "learningPurpose": "Observe one change",
+      "segments": [
+        {
+          "id": "P26-06-S01",
+          "text": "Write one question beginning What happens if I."
+        },
+        {
+          "id": "P26-06-S02",
+          "text": "Choose one behaviour and one observation you care about."
+        },
+        {
+          "id": "P26-06-S03",
+          "text": "Set a clear stopping point for the experiment."
+        },
+        {
+          "id": "P26-06-S04",
+          "text": "Avoid a question that secretly demands a particular result."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write one question beginning What happens if I. Choose one behaviour and one observation you care about. Set a clear stopping point for the experiment. Avoid a question that secretly demands a particular result.",
+        "questions": [
+          "What variable did you change?",
+          "What did you actually notice?",
+          "Can you leave part of the result uncertain?"
+        ]
+      }
+    },
+    {
+      "id": "P26-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Describe an object near you with one experiment question in mind. Choose one feature of your approach to explore. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Observe one change",
+      "segments": [
+        {
+          "id": "P26-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P26-07-S02",
+          "text": "Describe an object near you with one experiment question in mind."
+        },
+        {
+          "id": "P26-07-S03",
+          "text": "Choose one feature of your approach to explore."
+        },
+        {
+          "id": "P26-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P26-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P26-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Describe an object near you with one experiment question in mind. Choose one feature of your approach to explore.",
+        "reflectionQuestions": [
+          "What variable did you change?",
+          "What did you actually notice?",
+          "Can you leave part of the result uncertain?"
+        ]
+      }
+    },
+    {
+      "id": "P26-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Describe it again with that one chosen difference. Save an observation, not a personal grade. Do not add speed, shouting or a cleverness test. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Observe one change",
+      "segments": [
+        {
+          "id": "P26-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P26-08-S02",
+          "text": "Describe it again with that one chosen difference."
+        },
+        {
+          "id": "P26-08-S03",
+          "text": "Save an observation, not a personal grade."
+        },
+        {
+          "id": "P26-08-S04",
+          "text": "Do not add speed, shouting or a cleverness test."
+        },
+        {
+          "id": "P26-08-S05",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P26-08-S06",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Describe it again with that one chosen difference. Save an observation, not a personal grade. Do not add speed, shouting or a cleverness test.",
+        "reflectionQuestions": [
+          "What variable did you change?",
+          "What did you actually notice?",
+          "Can you leave part of the result uncertain?"
+        ]
+      }
+    },
+    {
+      "id": "P26-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Leave an uncertain result open",
+      "segments": [
+        {
+          "id": "P26-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P26-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P26-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P26-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You try a tool once and immediately ask whether you did it correctly. The practice becomes another performance, and the interesting details disappear behind a pass or fail.",
+        "partnerPrompts": [
+          "Describe an object near you.",
+          "Describe it again with one chosen change.",
+          "What would you keep, change or leave uncertain?"
+        ]
+      }
+    },
+    {
+      "id": "P26-10",
+      "type": "review",
+      "narration": "Observation can itself become a score if you constantly check while speaking. Try first, then reflect. You can also decide an experiment is not useful and move on. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Leave an uncertain result open",
+      "segments": [
+        {
+          "id": "P26-10-S01",
+          "text": "Observation can itself become a score if you constantly check while speaking."
+        },
+        {
+          "id": "P26-10-S02",
+          "text": "Try first, then reflect."
+        },
+        {
+          "id": "P26-10-S03",
+          "text": "You can also decide an experiment is not useful and move on."
+        },
+        {
+          "id": "P26-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P26-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What variable did you change?",
+          "What did you actually notice?",
+          "Can you leave part of the result uncertain?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P26-11",
+      "type": "transfer",
+      "narration": "Run one small comparison in private practice. Save the question, observation and next choice in three lines. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Leave an uncertain result open",
+      "segments": [
+        {
+          "id": "P26-11-S01",
+          "text": "Run one small comparison in private practice."
+        },
+        {
+          "id": "P26-11-S02",
+          "text": "Save the question, observation and next choice in three lines."
+        },
+        {
+          "id": "P26-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P26-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P26-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Run one small comparison in private practice. Save the question, observation and next choice in three lines.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P26-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Leave an uncertain result open",
+      "segments": [
+        {
+          "id": "P26-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P26-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P26-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P26-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P26-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Can you leave part of the result uncertain?"
+      }
+    }
+  ]
+}

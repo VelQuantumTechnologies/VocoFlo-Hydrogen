@@ -1,0 +1,539 @@
+{
+  "id": "P15",
+  "title": "Make Room for Disappointment and Frustration",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Acknowledge disappointment",
+    "Avoid an identity verdict",
+    "Choose a small next action"
+  ],
+  "deeperExplanation": {
+    "question": "Should I change the story to something positive?",
+    "answer": "You can examine an interpretation without replacing it with a cheerful story. If the facts are that one conversation was difficult, that is enough to begin. What did you want, what happened, and what would support your next choice? An honest specific account can leave more room than either everything is terrible or everything is wonderful. Your disappointment can be acknowledged without becoming the only source of direction."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P15-focused-v1",
+  "sections": [
+    {
+      "id": "P15-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Make Room for Disappointment and Frustration. You have practised all week, then a conversation feels difficult. Frustration says the effort was pointless. You want to abandon practice or work harder immediately to erase the experience.\n\nIn this session, we will acknowledge disappointment, avoid an identity verdict, and choose a small next action. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Acknowledge disappointment",
+      "segments": [
+        {
+          "id": "P15-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P15-01-S02",
+          "text": "Today we are exploring Make Room for Disappointment and Frustration."
+        },
+        {
+          "id": "P15-01-S03",
+          "text": "You have practised all week, then a conversation feels difficult."
+        },
+        {
+          "id": "P15-01-S04",
+          "text": "Frustration says the effort was pointless."
+        },
+        {
+          "id": "P15-01-S05",
+          "text": "You want to abandon practice or work harder immediately to erase the experience."
+        },
+        {
+          "id": "P15-01-S06",
+          "text": "In this session, we will acknowledge disappointment, avoid an identity verdict, and choose a small next action."
+        },
+        {
+          "id": "P15-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P15-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P15-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Acknowledge disappointment",
+          "Avoid an identity verdict",
+          "Choose a small next action"
+        ],
+        "altText": "This session explores: Acknowledge disappointment; Avoid an identity verdict; Choose a small next action."
+      }
+    },
+    {
+      "id": "P15-02",
+      "type": "explain",
+      "narration": "Disappointment often appears where something matters. You hoped for an easier moment and did not get it. We can acknowledge that honestly without using one conversation to judge the whole journey. First name what you wanted. Then describe what happened. Finally choose what would support the next step, including rest when appropriate.",
+      "learningPurpose": "Acknowledge disappointment",
+      "segments": [
+        {
+          "id": "P15-02-S01",
+          "text": "Disappointment often appears where something matters."
+        },
+        {
+          "id": "P15-02-S02",
+          "text": "You hoped for an easier moment and did not get it."
+        },
+        {
+          "id": "P15-02-S03",
+          "text": "We can acknowledge that honestly without using one conversation to judge the whole journey."
+        },
+        {
+          "id": "P15-02-S04",
+          "text": "First name what you wanted."
+        },
+        {
+          "id": "P15-02-S05",
+          "text": "Then describe what happened."
+        },
+        {
+          "id": "P15-02-S06",
+          "text": "Finally choose what would support the next step, including rest when appropriate."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What mattered underneath the disappointment?"
+      }
+    },
+    {
+      "id": "P15-03",
+      "type": "explain",
+      "narration": "You have practised all week, then a conversation feels difficult. Frustration says the effort was pointless. You want to abandon practice or work harder immediately to erase the experience.\n\nFrustration can contain useful information about a goal, a mismatch or a practical obstacle. It can also invite a global conclusion such as nothing works. Separate the information from the conclusion. A difficult day can help you adjust a practice, choose a smaller task or ask a better question without becoming proof that every effort was wasted.\n\nShould I change the story to something positive?\n\nYou can examine an interpretation without replacing it with a cheerful story. If the facts are that one conversation was difficult, that is enough to begin. What did you want, what happened, and what would support your next choice? An honest specific account can leave more room than either everything is terrible or everything is wonderful. Your disappointment can be acknowledged without becoming the only source of direction.",
+      "learningPurpose": "Acknowledge disappointment",
+      "segments": [
+        {
+          "id": "P15-03-S01",
+          "text": "You have practised all week, then a conversation feels difficult."
+        },
+        {
+          "id": "P15-03-S02",
+          "text": "Frustration says the effort was pointless."
+        },
+        {
+          "id": "P15-03-S03",
+          "text": "You want to abandon practice or work harder immediately to erase the experience."
+        },
+        {
+          "id": "P15-03-S04",
+          "text": "Frustration can contain useful information about a goal, a mismatch or a practical obstacle."
+        },
+        {
+          "id": "P15-03-S05",
+          "text": "It can also invite a global conclusion such as nothing works."
+        },
+        {
+          "id": "P15-03-S06",
+          "text": "Separate the information from the conclusion."
+        },
+        {
+          "id": "P15-03-S07",
+          "text": "A difficult day can help you adjust a practice, choose a smaller task or ask a better question without becoming proof that every effort was wasted."
+        },
+        {
+          "id": "P15-03-S08",
+          "text": "Should I change the story to something positive?"
+        },
+        {
+          "id": "P15-03-S09",
+          "text": "You can examine an interpretation without replacing it with a cheerful story."
+        },
+        {
+          "id": "P15-03-S10",
+          "text": "If the facts are that one conversation was difficult, that is enough to begin."
+        },
+        {
+          "id": "P15-03-S11",
+          "text": "What did you want, what happened, and what would support your next choice?"
+        },
+        {
+          "id": "P15-03-S12",
+          "text": "An honest specific account can leave more room than either everything is terrible or everything is wonderful."
+        },
+        {
+          "id": "P15-03-S13",
+          "text": "Your disappointment can be acknowledged without becoming the only source of direction."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Difficult attempt",
+          "Disappointment",
+          "Next possible action"
+        ],
+        "altText": "Three parts to distinguish: Difficult attempt, Disappointment, Next possible action. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What conclusion became larger than the facts?"
+      }
+    },
+    {
+      "id": "P15-04",
+      "type": "visual",
+      "narration": "A rough patch of road tells you something about this part of the journey. It does not show you every kilometre ahead.",
+      "learningPurpose": "Acknowledge disappointment",
+      "segments": [
+        {
+          "id": "P15-04-S01",
+          "text": "A rough patch of road tells you something about this part of the journey."
+        },
+        {
+          "id": "P15-04-S02",
+          "text": "It does not show you every kilometre ahead."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Rough road",
+        "labels": [
+          "This difficult patch",
+          "The journey continues"
+        ],
+        "altText": "A rough patch of road tells you something about this part of the journey. It does not show you every kilometre ahead."
+      }
+    },
+    {
+      "id": "P15-05",
+      "type": "contrast",
+      "narration": "Global conclusion: Today was difficult, so practice is useless. Specific observation: This noisy conversation took more effort than the quiet rehearsal. I want to explore that difference. Now consider a short check. What can coexist after a difficult attempt? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Avoid an identity verdict",
+      "segments": [
+        {
+          "id": "P15-05-S01",
+          "text": "Global conclusion: Today was difficult, so practice is useless."
+        },
+        {
+          "id": "P15-05-S02",
+          "text": "Specific observation: This noisy conversation took more effort than the quiet rehearsal."
+        },
+        {
+          "id": "P15-05-S03",
+          "text": "I want to explore that difference."
+        },
+        {
+          "id": "P15-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P15-05-S05",
+          "text": "What can coexist after a difficult attempt?"
+        },
+        {
+          "id": "P15-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What can coexist after a difficult attempt?",
+        "labels": [
+          "Only positivity if you want to progress.",
+          "Disappointment and a useful next step.",
+          "Frustration and proof you are incapable."
+        ],
+        "altText": "Three options: Only positivity if you want to progress. / Disappointment and a useful next step. / Frustration and proof you are incapable."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What can coexist after a difficult attempt?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Only positivity if you want to progress.",
+            "feedback": "Consider the distinction again. You do not have to remove disappointment before deciding a next step. A feeling is not a final verdict about you."
+          },
+          {
+            "id": "B",
+            "text": "Disappointment and a useful next step.",
+            "feedback": "Yes. You do not have to remove disappointment before deciding a next step. A feeling is not a final verdict about you."
+          },
+          {
+            "id": "C",
+            "text": "Frustration and proof you are incapable.",
+            "feedback": "Consider the distinction again. You do not have to remove disappointment before deciding a next step. A feeling is not a final verdict about you."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P15-06",
+      "type": "reflection",
+      "narration": "Write what you hoped would happen in a recent mild disappointment. Add what actually happened, including the setting. List two possible next actions: one involving practice and one involving recovery or support.",
+      "learningPurpose": "Avoid an identity verdict",
+      "segments": [
+        {
+          "id": "P15-06-S01",
+          "text": "Write what you hoped would happen in a recent mild disappointment."
+        },
+        {
+          "id": "P15-06-S02",
+          "text": "Add what actually happened, including the setting."
+        },
+        {
+          "id": "P15-06-S03",
+          "text": "List two possible next actions: one involving practice and one involving recovery or support."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write what you hoped would happen in a recent mild disappointment. Add what actually happened, including the setting. List two possible next actions: one involving practice and one involving recovery or support.",
+        "questions": [
+          "What mattered underneath the disappointment?",
+          "What conclusion became larger than the facts?",
+          "What response would support the next day?"
+        ]
+      }
+    },
+    {
+      "id": "P15-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Describe one ordinary plan. Afterwards acknowledge any disappointment about the attempt without adding a verdict about yourself. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Avoid an identity verdict",
+      "segments": [
+        {
+          "id": "P15-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P15-07-S02",
+          "text": "Describe one ordinary plan."
+        },
+        {
+          "id": "P15-07-S03",
+          "text": "Afterwards acknowledge any disappointment about the attempt without adding a verdict about yourself."
+        },
+        {
+          "id": "P15-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P15-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P15-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Describe one ordinary plan. Afterwards acknowledge any disappointment about the attempt without adding a verdict about yourself.",
+        "reflectionQuestions": [
+          "What mattered underneath the disappointment?",
+          "What conclusion became larger than the facts?",
+          "What response would support the next day?"
+        ]
+      }
+    },
+    {
+      "id": "P15-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Say one useful next detail or request. A constructive next step and frustration can coexist; you need not manufacture a positive feeling. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Avoid an identity verdict",
+      "segments": [
+        {
+          "id": "P15-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P15-08-S02",
+          "text": "Say one useful next detail or request."
+        },
+        {
+          "id": "P15-08-S03",
+          "text": "A constructive next step and frustration can coexist; you need not manufacture a positive feeling."
+        },
+        {
+          "id": "P15-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P15-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Say one useful next detail or request. A constructive next step and frustration can coexist; you need not manufacture a positive feeling.",
+        "reflectionQuestions": [
+          "What mattered underneath the disappointment?",
+          "What conclusion became larger than the facts?",
+          "What response would support the next day?"
+        ]
+      }
+    },
+    {
+      "id": "P15-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Choose a small next action",
+      "segments": [
+        {
+          "id": "P15-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P15-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P15-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P15-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You have practised all week, then a conversation feels difficult. Frustration says the effort was pointless. You want to abandon practice or work harder immediately to erase the experience.",
+        "partnerPrompts": [
+          "What did you hope would happen?",
+          "What happened instead?",
+          "What is a useful next step you can choose?"
+        ]
+      }
+    },
+    {
+      "id": "P15-10",
+      "type": "review",
+      "narration": "Acceptance is not pretending to enjoy disappointment. You may dislike it and still avoid attacking yourself. Nor do you have to turn every difficult moment into a lesson immediately. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Choose a small next action",
+      "segments": [
+        {
+          "id": "P15-10-S01",
+          "text": "Acceptance is not pretending to enjoy disappointment."
+        },
+        {
+          "id": "P15-10-S02",
+          "text": "You may dislike it and still avoid attacking yourself."
+        },
+        {
+          "id": "P15-10-S03",
+          "text": "Nor do you have to turn every difficult moment into a lesson immediately."
+        },
+        {
+          "id": "P15-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P15-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What mattered underneath the disappointment?",
+          "What conclusion became larger than the facts?",
+          "What response would support the next day?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P15-11",
+      "type": "transfer",
+      "narration": "After your next frustrating speaking experience, allow a short acknowledgement before deciding whether to practise, rest or move on. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Choose a small next action",
+      "segments": [
+        {
+          "id": "P15-11-S01",
+          "text": "After your next frustrating speaking experience, allow a short acknowledgement before deciding whether to practise, rest or move on."
+        },
+        {
+          "id": "P15-11-S02",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P15-11-S03",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P15-11-S04",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "After your next frustrating speaking experience, allow a short acknowledgement before deciding whether to practise, rest or move on.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P15-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Choose a small next action",
+      "segments": [
+        {
+          "id": "P15-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P15-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P15-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P15-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P15-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What response would support the next day?"
+      }
+    }
+  ]
+}

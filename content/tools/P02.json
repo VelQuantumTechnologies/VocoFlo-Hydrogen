@@ -1,0 +1,539 @@
+{
+  "id": "P02",
+  "title": "A Little Shameless",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Recognise the wish to hide",
+    "Separate permission from rudeness",
+    "Try a respectful small request"
+  ],
+  "deeperExplanation": {
+    "question": "What if being seen still feels embarrassing?",
+    "answer": "That is a meaningful part of the experiment. Permission does not have to remove embarrassment. You are checking whether you can make a small contribution while the feeling is present, and whether the feared need to hide has to decide everything. Choose a setting and action you are willing to try. If the step is too large, make it smaller. You do not have to demonstrate your progress to an audience."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P02-focused-v1",
+  "sections": [
+    {
+      "id": "P02-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring A Little Shameless. You know what you want to say, but another demand arrives first: make sure nobody sees you struggle. You postpone the question, soften your opinion or wait for a safer moment that never arrives.\n\nIn this session, we will recognise the wish to hide, separate permission from rudeness, and try a respectful small request. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Recognise the wish to hide",
+      "segments": [
+        {
+          "id": "P02-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P02-01-S02",
+          "text": "Today we are exploring A Little Shameless."
+        },
+        {
+          "id": "P02-01-S03",
+          "text": "You know what you want to say, but another demand arrives first: make sure nobody sees you struggle."
+        },
+        {
+          "id": "P02-01-S04",
+          "text": "You postpone the question, soften your opinion or wait for a safer moment that never arrives."
+        },
+        {
+          "id": "P02-01-S05",
+          "text": "In this session, we will recognise the wish to hide, separate permission from rudeness, and try a respectful small request."
+        },
+        {
+          "id": "P02-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P02-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P02-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Recognise the wish to hide",
+          "Separate permission from rudeness",
+          "Try a respectful small request"
+        ],
+        "altText": "This session explores: Recognise the wish to hide; Separate permission from rudeness; Try a respectful small request."
+      }
+    },
+    {
+      "id": "P02-02",
+      "type": "explain",
+      "narration": "A little shameless is permission to be seen while you are still learning. Here it means that an imperfect word does not have to be hidden before you can participate. It does not ask you to be rude, ignore the listener or perform boldness. A shy person may need a stronger phrase because be confident has become one more difficult instruction. We will use the phrase only if it helps you move.",
+      "learningPurpose": "Recognise the wish to hide",
+      "segments": [
+        {
+          "id": "P02-02-S01",
+          "text": "A little shameless is permission to be seen while you are still learning."
+        },
+        {
+          "id": "P02-02-S02",
+          "text": "Here it means that an imperfect word does not have to be hidden before you can participate."
+        },
+        {
+          "id": "P02-02-S03",
+          "text": "It does not ask you to be rude, ignore the listener or perform boldness."
+        },
+        {
+          "id": "P02-02-S04",
+          "text": "A shy person may need a stronger phrase because be confident has become one more difficult instruction."
+        },
+        {
+          "id": "P02-02-S05",
+          "text": "We will use the phrase only if it helps you move."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What were you trying to hide?"
+      }
+    },
+    {
+      "id": "P02-03",
+      "type": "explain",
+      "narration": "You know what you want to say, but another demand arrives first: make sure nobody sees you struggle. You postpone the question, soften your opinion or wait for a safer moment that never arrives.\n\nEmbarrassment is a feeling, and concealment is an action you may take around it. You may not choose whether embarrassment appears today. You can experiment with whether it chooses every action afterwards. A small visible contribution is enough. You do not need to make a dramatic disclosure, deliberately stammer in public or seek a difficult audience.\n\nWhat if being seen still feels embarrassing?\n\nThat is a meaningful part of the experiment. Permission does not have to remove embarrassment. You are checking whether you can make a small contribution while the feeling is present, and whether the feared need to hide has to decide everything. Choose a setting and action you are willing to try. If the step is too large, make it smaller. You do not have to demonstrate your progress to an audience.",
+      "learningPurpose": "Recognise the wish to hide",
+      "segments": [
+        {
+          "id": "P02-03-S01",
+          "text": "You know what you want to say, but another demand arrives first: make sure nobody sees you struggle."
+        },
+        {
+          "id": "P02-03-S02",
+          "text": "You postpone the question, soften your opinion or wait for a safer moment that never arrives."
+        },
+        {
+          "id": "P02-03-S03",
+          "text": "Embarrassment is a feeling, and concealment is an action you may take around it."
+        },
+        {
+          "id": "P02-03-S04",
+          "text": "You may not choose whether embarrassment appears today."
+        },
+        {
+          "id": "P02-03-S05",
+          "text": "You can experiment with whether it chooses every action afterwards."
+        },
+        {
+          "id": "P02-03-S06",
+          "text": "A small visible contribution is enough."
+        },
+        {
+          "id": "P02-03-S07",
+          "text": "You do not need to make a dramatic disclosure, deliberately stammer in public or seek a difficult audience."
+        },
+        {
+          "id": "P02-03-S08",
+          "text": "What if being seen still feels embarrassing?"
+        },
+        {
+          "id": "P02-03-S09",
+          "text": "That is a meaningful part of the experiment."
+        },
+        {
+          "id": "P02-03-S10",
+          "text": "Permission does not have to remove embarrassment."
+        },
+        {
+          "id": "P02-03-S11",
+          "text": "You are checking whether you can make a small contribution while the feeling is present, and whether the feared need to hide has to decide everything."
+        },
+        {
+          "id": "P02-03-S12",
+          "text": "Choose a setting and action you are willing to try."
+        },
+        {
+          "id": "P02-03-S13",
+          "text": "If the step is too large, make it smaller."
+        },
+        {
+          "id": "P02-03-S14",
+          "text": "You do not have to demonstrate your progress to an audience."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Wish to hide",
+          "Permission to participate",
+          "Respectful request"
+        ],
+        "altText": "Three parts to distinguish: Wish to hide, Permission to participate, Respectful request. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Which phrase gave you useful permission?"
+      }
+    },
+    {
+      "id": "P02-04",
+      "type": "visual",
+      "narration": "Imagine opening a window that has been kept shut for years. You do not have to remove the wall. A little opening lets you discover what the room feels like with air in it.",
+      "learningPurpose": "Recognise the wish to hide",
+      "segments": [
+        {
+          "id": "P02-04-S01",
+          "text": "Imagine opening a window that has been kept shut for years."
+        },
+        {
+          "id": "P02-04-S02",
+          "text": "You do not have to remove the wall."
+        },
+        {
+          "id": "P02-04-S03",
+          "text": "A little opening lets you discover what the room feels like with air in it."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Window",
+        "labels": [
+          "Kept shut",
+          "A small opening"
+        ],
+        "altText": "Imagine opening a window that has been kept shut for years. You do not have to remove the wall. A little opening lets you discover what the room feels like with air in it."
+      }
+    },
+    {
+      "id": "P02-05",
+      "type": "contrast",
+      "narration": "Hidden rule: I can ask when I am sure it will come out well. Working permission: I can ask an ordinary question and allow an ordinary human moment. Now consider a short check. What does a little shameless mean here? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Separate permission from rudeness",
+      "segments": [
+        {
+          "id": "P02-05-S01",
+          "text": "Hidden rule: I can ask when I am sure it will come out well."
+        },
+        {
+          "id": "P02-05-S02",
+          "text": "Working permission: I can ask an ordinary question and allow an ordinary human moment."
+        },
+        {
+          "id": "P02-05-S03",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P02-05-S04",
+          "text": "What does a little shameless mean here?"
+        },
+        {
+          "id": "P02-05-S05",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What does a little shameless mean here?",
+        "labels": [
+          "Ignore the listener's needs.",
+          "Make yourself sound fearless.",
+          "Allow yourself to participate without hiding every imperfection."
+        ],
+        "altText": "Three options: Ignore the listener's needs. / Make yourself sound fearless. / Allow yourself to participate without hiding every imperfection."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What does a little shameless mean here?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ignore the listener's needs.",
+            "feedback": "Consider the distinction again. Permission makes room for an ordinary imperfect contribution. It does not require disrespect or a performance of boldness."
+          },
+          {
+            "id": "B",
+            "text": "Make yourself sound fearless.",
+            "feedback": "Consider the distinction again. Permission makes room for an ordinary imperfect contribution. It does not require disrespect or a performance of boldness."
+          },
+          {
+            "id": "C",
+            "text": "Allow yourself to participate without hiding every imperfection.",
+            "feedback": "Yes. Permission makes room for an ordinary imperfect contribution. It does not require disrespect or a performance of boldness."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P02-06",
+      "type": "reflection",
+      "narration": "Complete: If someone noticed a difficult word, I fear they would think __. Then complete: Even with that possibility, I would like to __. Choose an action small enough that you are willing, not an action that proves courage to anybody.",
+      "learningPurpose": "Separate permission from rudeness",
+      "segments": [
+        {
+          "id": "P02-06-S01",
+          "text": "Complete: If someone noticed a difficult word, I fear they would think __."
+        },
+        {
+          "id": "P02-06-S02",
+          "text": "Then complete: Even with that possibility, I would like to __."
+        },
+        {
+          "id": "P02-06-S03",
+          "text": "Choose an action small enough that you are willing, not an action that proves courage to anybody."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Complete: If someone noticed a difficult word, I fear they would think __. Then complete: Even with that possibility, I would like to __. Choose an action small enough that you are willing, not an action that proves courage to anybody.",
+        "questions": [
+          "What were you trying to hide?",
+          "Which phrase gave you useful permission?",
+          "What is a respectful small action you are willing to try?"
+        ]
+      }
+    },
+    {
+      "id": "P02-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Ask what time a meeting starts in your usual respectful wording. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Separate permission from rudeness",
+      "segments": [
+        {
+          "id": "P02-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P02-07-S02",
+          "text": "Ask what time a meeting starts in your usual respectful wording."
+        },
+        {
+          "id": "P02-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P02-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P02-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Ask what time a meeting starts in your usual respectful wording.",
+        "reflectionQuestions": [
+          "What were you trying to hide?",
+          "Which phrase gave you useful permission?",
+          "What is a respectful small action you are willing to try?"
+        ]
+      }
+    },
+    {
+      "id": "P02-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Ask a second ordinary question about the meeting. Allow yourself to be heard without first hiding every imperfection. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Separate permission from rudeness",
+      "segments": [
+        {
+          "id": "P02-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P02-08-S02",
+          "text": "Ask a second ordinary question about the meeting."
+        },
+        {
+          "id": "P02-08-S03",
+          "text": "Allow yourself to be heard without first hiding every imperfection."
+        },
+        {
+          "id": "P02-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P02-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Ask a second ordinary question about the meeting. Allow yourself to be heard without first hiding every imperfection.",
+        "reflectionQuestions": [
+          "What were you trying to hide?",
+          "Which phrase gave you useful permission?",
+          "What is a respectful small action you are willing to try?"
+        ]
+      }
+    },
+    {
+      "id": "P02-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Try a respectful small request",
+      "segments": [
+        {
+          "id": "P02-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P02-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P02-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P02-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You know what you want to say, but another demand arrives first: make sure nobody sees you struggle. You postpone the question, soften your opinion or wait for a safer moment that never arrives.",
+        "partnerPrompts": [
+          "Could you ask me what time the meeting starts?",
+          "Now ask me to repeat the location.",
+          "Tell me one preference you have for the meeting."
+        ]
+      }
+    },
+    {
+      "id": "P02-10",
+      "type": "review",
+      "narration": "If shameless feels unkind or artificial, use willing to be seen. The phrase is a handle, not a new identity. Feeling embarrassed afterwards does not erase the contribution you made. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Try a respectful small request",
+      "segments": [
+        {
+          "id": "P02-10-S01",
+          "text": "If shameless feels unkind or artificial, use willing to be seen."
+        },
+        {
+          "id": "P02-10-S02",
+          "text": "The phrase is a handle, not a new identity."
+        },
+        {
+          "id": "P02-10-S03",
+          "text": "Feeling embarrassed afterwards does not erase the contribution you made."
+        },
+        {
+          "id": "P02-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P02-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What were you trying to hide?",
+          "Which phrase gave you useful permission?",
+          "What is a respectful small action you are willing to try?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P02-11",
+      "type": "transfer",
+      "narration": "Try one low-pressure request that you have been delaying. Afterwards write: I allowed myself to __. Leave out a score for bravery. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Try a respectful small request",
+      "segments": [
+        {
+          "id": "P02-11-S01",
+          "text": "Try one low-pressure request that you have been delaying."
+        },
+        {
+          "id": "P02-11-S02",
+          "text": "Afterwards write: I allowed myself to __."
+        },
+        {
+          "id": "P02-11-S03",
+          "text": "Leave out a score for bravery."
+        },
+        {
+          "id": "P02-11-S04",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P02-11-S05",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P02-11-S06",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Try one low-pressure request that you have been delaying. Afterwards write: I allowed myself to __. Leave out a score for bravery.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P02-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Try a respectful small request",
+      "segments": [
+        {
+          "id": "P02-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P02-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P02-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P02-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P02-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What is a respectful small action you are willing to try?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": "B04",
+  "title": "Light Articulation",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice contact and extra pressure",
+    "Explore a smaller comfortable effort",
+    "Keep words clear in a short phrase"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B04-focused-v1",
+  "sections": [
+    {
+      "id": "B04-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Light Articulation. You prepare to say a name and notice your lips or jaw pressing harder than the sound seems to need.\n\nWe will notice contact and extra pressure, explore a smaller comfortable effort, and keep words clear in a short phrase. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Notice contact and extra pressure",
+      "segments": [
+        {
+          "id": "B04-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B04-01-S02",
+          "text": "Today we are exploring Light Articulation."
+        },
+        {
+          "id": "B04-01-S03",
+          "text": "You prepare to say a name and notice your lips or jaw pressing harder than the sound seems to need."
+        },
+        {
+          "id": "B04-01-S04",
+          "text": "We will notice contact and extra pressure, explore a smaller comfortable effort, and keep words clear in a short phrase."
+        },
+        {
+          "id": "B04-01-S05",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B04-01-S06",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B04-01-S07",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B04-01-S08",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B04-01-S09",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Notice contact and extra pressure",
+          "Explore a smaller comfortable effort",
+          "Keep words clear in a short phrase"
+        ],
+        "altText": "Comfortable contact -> Ordinary release -> Clear message"
+      }
+    },
+    {
+      "id": "B04-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Articulation means the movements and contacts that shape speech sounds. Contact is not a fault to eliminate. The experiment is whether extra pressing can become smaller while the word stays clear. This differs from voice onset and does not require watching every mouth movement during a conversation.\n\nYour lips, tongue and jaw help shape speech. Today we will compare comfortable contact with extra pressure. Light does not mean barely moving your mouth or whispering. You can form a clear sound while exploring how much effort is actually needed. Use a small difference rather than trying to relax every muscle at once.\n\nNotice the distinction: Light concerns added pressure, not removing the movements that shape a clear sound. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Notice contact and extra pressure",
+      "segments": [
+        {
+          "id": "B04-02-S01",
+          "text": "Articulation means the movements and contacts that shape speech sounds."
+        },
+        {
+          "id": "B04-02-S02",
+          "text": "Contact is not a fault to eliminate."
+        },
+        {
+          "id": "B04-02-S03",
+          "text": "The experiment is whether extra pressing can become smaller while the word stays clear."
+        },
+        {
+          "id": "B04-02-S04",
+          "text": "This differs from voice onset and does not require watching every mouth movement during a conversation."
+        },
+        {
+          "id": "B04-02-S05",
+          "text": "Your lips, tongue and jaw help shape speech."
+        },
+        {
+          "id": "B04-02-S06",
+          "text": "Today we will compare comfortable contact with extra pressure."
+        },
+        {
+          "id": "B04-02-S07",
+          "text": "Light does not mean barely moving your mouth or whispering."
+        },
+        {
+          "id": "B04-02-S08",
+          "text": "You can form a clear sound while exploring how much effort is actually needed."
+        },
+        {
+          "id": "B04-02-S09",
+          "text": "Use a small difference rather than trying to relax every muscle at once."
+        },
+        {
+          "id": "B04-02-S10",
+          "text": "Notice the distinction: Light concerns added pressure, not removing the movements that shape a clear sound."
+        },
+        {
+          "id": "B04-02-S11",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B04-02-S12",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "Comfortable contact",
+          "Ordinary release",
+          "Clear message"
+        ],
+        "altText": "Comfortable contact -> Ordinary release -> Clear message"
+      }
+    },
+    {
+      "id": "B04-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: My name is here on the list. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Contact pressure and intelligibility, not whether you produced the lightest possible movement. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Explore a smaller comfortable effort",
+      "segments": [
+        {
+          "id": "B04-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B04-03-S02",
+          "text": "We will use this message: My name is here on the list."
+        },
+        {
+          "id": "B04-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B04-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B04-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B04-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B04-03-S07",
+          "text": "Contact pressure and intelligibility, not whether you produced the lightest possible movement."
+        },
+        {
+          "id": "B04-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B04-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "Comfortable contact",
+          "Ordinary release",
+          "Clear message"
+        ],
+        "altText": "Close-up demonstration of comfortable lip contact on M/P/B and tongue contact on a familiar sound. Avoid maximal pressing as a learner exercise; teacher shows contrast briefly without strain. Optional lip trill is a variation, not a pass requirement. Comfortable vowel opening and jaw movement remain here."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B04-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Notice lip contact in a comfortable M sound. Next: Try a familiar word with gentle contact and an ordinary release. Then: Use the word in a short message without monitoring every contact.\n\nUse these familiar phrases one at a time: My name is here on the list. Please bring the paper. I would like to make a point. Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Explore a smaller comfortable effort",
+      "segments": [
+        {
+          "id": "B04-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B04-04-S02",
+          "text": "First: Notice lip contact in a comfortable M sound."
+        },
+        {
+          "id": "B04-04-S03",
+          "text": "Next: Try a familiar word with gentle contact and an ordinary release."
+        },
+        {
+          "id": "B04-04-S04",
+          "text": "Then: Use the word in a short message without monitoring every contact."
+        },
+        {
+          "id": "B04-04-S05",
+          "text": "Use these familiar phrases one at a time: My name is here on the list."
+        },
+        {
+          "id": "B04-04-S06",
+          "text": "Please bring the paper."
+        },
+        {
+          "id": "B04-04-S07",
+          "text": "I would like to make a point."
+        },
+        {
+          "id": "B04-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B04-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B04-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B04-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B04-try-1",
+            "instruction": "Notice lip contact in a comfortable M sound.",
+            "phrase": "My name is here on the list.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B04-try-2",
+            "instruction": "Try a familiar word with gentle contact and an ordinary release.",
+            "phrase": "Please bring the paper.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B04-try-3",
+            "instruction": "Use the word in a short message without monitoring every contact.",
+            "phrase": "I would like to make a point.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B04-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. What does light articulation mean? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Contact pressure and intelligibility, not whether you produced the lightest possible movement. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Explore a smaller comfortable effort",
+      "segments": [
+        {
+          "id": "B04-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B04-05-S02",
+          "text": "What does light articulation mean?"
+        },
+        {
+          "id": "B04-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B04-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B04-05-S05",
+          "text": "After the check, notice one observation from your attempt: Contact pressure and intelligibility, not whether you produced the lightest possible movement."
+        },
+        {
+          "id": "B04-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B04-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What does light articulation mean?",
+        "labels": [
+          "Reduce necessary contact until words become unclear.",
+          "Explore comfortable contact with less added pressing.",
+          "Whisper every word."
+        ],
+        "altText": "Comfortable contact -> Ordinary release -> Clear message"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What does light articulation mean?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Reduce necessary contact until words become unclear.",
+            "feedback": "Consider the distinction again. Light concerns added pressure, not removing the movements that shape a clear sound."
+          },
+          {
+            "id": "B",
+            "text": "Explore comfortable contact with less added pressing.",
+            "feedback": "Yes. Light concerns added pressure, not removing the movements that shape a clear sound."
+          },
+          {
+            "id": "C",
+            "text": "Whisper every word.",
+            "feedback": "Consider the distinction again. Light concerns added pressure, not removing the movements that shape a clear sound."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "B04-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Keep words clear in a short phrase",
+      "segments": [
+        {
+          "id": "B04-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B04-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B04-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B04-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B04-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B04-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B04-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Contact pressure and intelligibility, not whether you produced the lightest possible movement.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B04-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Keep words clear in a short phrase",
+      "segments": [
+        {
+          "id": "B04-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B04-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B04-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B04-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B04-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B04-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Contact pressure and intelligibility, not whether you produced the lightest possible movement. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Keep words clear in a short phrase",
+      "segments": [
+        {
+          "id": "B04-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B04-08-S02",
+          "text": "Here is the feature we explored: Contact pressure and intelligibility, not whether you produced the lightest possible movement."
+        },
+        {
+          "id": "B04-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B04-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B04-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B04-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B04-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B04-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B04-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B04-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "Comfortable contact",
+          "Ordinary release",
+          "Clear message"
+        ],
+        "altText": "Comfortable contact -> Ordinary release -> Clear message"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore forming sounds with less unnecessary pressing and gripping.",
+    "teachingScript": "Your lips, tongue and jaw help shape speech. Today we will compare comfortable contact with extra pressure. Light does not mean barely moving your mouth or whispering. You can form a clear sound while exploring how much effort is actually needed. Use a small difference rather than trying to relax every muscle at once.",
+    "demonstrationProduction": "Close-up demonstration of comfortable lip contact on M/P/B and tongue contact on a familiar sound. Avoid maximal pressing as a learner exercise; teacher shows contrast briefly without strain. Optional lip trill is a variation, not a pass requirement. Comfortable vowel opening and jaw movement remain here.",
+    "guidedSteps": [
+      "Notice lip contact in a comfortable M sound.",
+      "Try a familiar word with gentle contact and an ordinary release.",
+      "Use the word in a short message without monitoring every contact."
+    ],
+    "phrases": [
+      "My name is here on the list.",
+      "Please bring the paper.",
+      "I would like to make a point."
+    ],
+    "observation": "Contact pressure and intelligibility, not whether you produced the lightest possible movement.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "sourceRepository": "VelQuantumTechnologies/VocoFlo-TheApp",
+  "sourceCommit": "aefd245e4d049a83f3ff7bc82d1ffbff959e11aa",
+  "date": "2026-11-18",
+  "files": [
+    {
+      "sourcePath": "content/body/sessions/B01.json",
+      "destinationPath": "content/tools/B01.json",
+      "sourceBlobSha": "28391091e429de9d1706a3c509ec67e6ba1a1526",
+      "sourceBytes": 41746
+    },
+    {
+      "sourcePath": "content/body/sessions/B02.json",
+      "destinationPath": "content/tools/B02.json",
+      "sourceBlobSha": "24d7d9cd44ae01626c5453e9fc02eab3c61d80d3",
+      "sourceBytes": 42107
+    },
+    {
+      "sourcePath": "content/body/sessions/B03.json",
+      "destinationPath": "content/tools/B03.json",
+      "sourceBlobSha": "4ce3c591d68eced4886db5567ae07e211c4ee870",
+      "sourceBytes": 41052
+    },
+    {
+      "sourcePath": "content/body/sessions/B04.json",
+      "destinationPath": "content/tools/B04.json",
+      "sourceBlobSha": "0e1cc6ddbf56844dd9fe28c9f62c436795915994",
+      "sourceBytes": 41416
+    },
+    {
+      "sourcePath": "content/body/sessions/B05.json",
+      "destinationPath": "content/tools/B05.json",
+      "sourceBlobSha": "a7f2f52c4d89bd41b8e90e84eac821a60e8d2c60",
+      "sourceBytes": 41123
+    },
+    {
+      "sourcePath": "content/body/sessions/B06.json",
+      "destinationPath": "content/tools/B06.json",
+      "sourceBlobSha": "be04ca079cf9664a0cd524e955270944c77d22cb",
+      "sourceBytes": 41680
+    },
+    {
+      "sourcePath": "content/body/sessions/B07.json",
+      "destinationPath": "content/tools/B07.json",
+      "sourceBlobSha": "7bb107a1fa72d9b3fb26856d75a00b1dabd9139f",
+      "sourceBytes": 41720
+    },
+    {
+      "sourcePath": "content/body/sessions/B08.json",
+      "destinationPath": "content/tools/B08.json",
+      "sourceBlobSha": "06c437e697abe3efee030ab24d6d2675a1c0e083",
+      "sourceBytes": 43451
+    },
+    {
+      "sourcePath": "content/body/sessions/B09.json",
+      "destinationPath": "content/tools/B09.json",
+      "sourceBlobSha": "eb3d3dd039ca392b28c48ac63cb84392deeee210",
+      "sourceBytes": 41464
+    },
+    {
+      "sourcePath": "content/body/sessions/B10.json",
+      "destinationPath": "content/tools/B10.json",
+      "sourceBlobSha": "509b1f80833c871988997458c7f40d2429e6e0ac",
+      "sourceBytes": 42090
+    },
+    {
+      "sourcePath": "content/practice-cards.json",
+      "destinationPath": "content/practice-cards.json",
+      "sourceBlobSha": "ff31f52c1f3606737028a32ff44fc70b837331f1",
+      "sourceBytes": 53033
+    },
+    {
+      "sourcePath": "content/practices/PR001.json",
+      "destinationPath": "content/practices/PR001.json",
+      "sourceBlobSha": "83b1119d0fab26497d230016f61ccfe669c58ab2",
+      "sourceBytes": 928
+    },
+    {
+      "sourcePath": "content/practices/PR002.json",
+      "destinationPath": "content/practices/PR002.json",
+      "sourceBlobSha": "776cdafa6ab1376b8cf6bbe3196f374de90ce7ba",
+      "sourceBytes": 915
+    },
+    {
+      "sourcePath": "content/practices/PR003.json",
+      "destinationPath": "content/practices/PR003.json",
+      "sourceBlobSha": "c0d92f5fdebf4e184ad8b371bd54189013aa6c0d",
+      "sourceBytes": 912
+    },
+    {
+      "sourcePath": "content/practices/PR004.json",
+      "destinationPath": "content/practices/PR004.json",
+      "sourceBlobSha": "c9468e5955862397353f8c66b9b07ff943667735",
+      "sourceBytes": 912
+    },
+    {
+      "sourcePath": "content/practices/PR005.json",
+      "destinationPath": "content/practices/PR005.json",
+      "sourceBlobSha": "a2a461d88533a6ebd85088a7c35e745fe7c61076",
+      "sourceBytes": 900
+    },
+    {
+      "sourcePath": "content/practices/PR006.json",
+      "destinationPath": "content/practices/PR006.json",
+      "sourceBlobSha": "3a42b4af203eaca9b6310c5a374ad691445b19dc",
+      "sourceBytes": 886
+    },
+    {
+      "sourcePath": "content/practices/PR007.json",
+      "destinationPath": "content/practices/PR007.json",
+      "sourceBlobSha": "f5b93d6e79547839f3f382e0b18df709b1fac3e5",
+      "sourceBytes": 906
+    },
+    {
+      "sourcePath": "content/practices/PR008.json",
+      "destinationPath": "content/practices/PR008.json",
+      "sourceBlobSha": "0d7083c1c451dc0e79810d7c396e8d72503c51b7",
+      "sourceBytes": 901
+    },
+    {
+      "sourcePath": "content/practices/PR009.json",
+      "destinationPath": "content/practices/PR009.json",
+      "sourceBlobSha": "1cbd04c1ff1f8fdcfd61d933bca62fbe6a19a263",
+      "sourceBytes": 907
+    },
+    {
+      "sourcePath": "content/practices/PR010.json",
+      "destinationPath": "content/practices/PR010.json",
+      "sourceBlobSha": "a0d60815a59ae84bee7a4d2e102619d592569529",
+      "sourceBytes": 904
+    },
+    {
+      "sourcePath": "content/practices/PR011.json",
+      "destinationPath": "content/practices/PR011.json",
+      "sourceBlobSha": "f5564a77a0373bb90570c1c0500d7f132c0d1394",
+      "sourceBytes": 901
+    },
+    {
+      "sourcePath": "content/practices/PR012.json",
+      "destinationPath": "content/practices/PR012.json",
+      "sourceBlobSha": "29fb60c3ded839283e993c9e01b5bf07173cb8b1",
+      "sourceBytes": 897
+    },
+    {
+      "sourcePath": "content/practices/PR013.json",
+      "destinationPath": "content/practices/PR013.json",
+      "sourceBlobSha": "bd5347df766814064b9c60dd631662caca5d46a7",
+      "sourceBytes": 919
+    },
+    {
+      "sourcePath": "content/practices/PR014.json",
+      "destinationPath": "content/practices/PR014.json",
+      "sourceBlobSha": "67d915fdc7baed5f43b0d3a6e6ccec356941be81",
+      "sourceBytes": 892
+    },
+    {
+      "sourcePath": "content/practices/PR015.json",
+      "destinationPath": "content/practices/PR015.json",
+      "sourceBlobSha": "303439c89be62faa1e00f421583509a6eac0909c",
+      "sourceBytes": 900
+    },
+    {
+      "sourcePath": "content/practices/PR016.json",
+      "destinationPath": "content/practices/PR016.json",
+      "sourceBlobSha": "736e16002829cc38a6a2b4c36da5dedc2403905c",
+      "sourceBytes": 896
+    },
+    {
+      "sourcePath": "content/practices/PR017.json",
+      "destinationPath": "content/practices/PR017.json",
+      "sourceBlobSha": "26437512c13540551174628b8d25b8d20f6e0f4d",
+      "sourceBytes": 907
+    },
+    {
+      "sourcePath": "content/practices/PR018.json",
+      "destinationPath": "content/practices/PR018.json",
+      "sourceBlobSha": "4b49165c21135dd25e1d65ec91ad8b7d650f4cc9",
+      "sourceBytes": 897
+    },
+    {
+      "sourcePath": "content/practices/PR019.json",
+      "destinationPath": "content/practices/PR019.json",
+      "sourceBlobSha": "d80cd948a786692340a2ff3f72a67d0679d6d833",
+      "sourceBytes": 867
+    },
+    {
+      "sourcePath": "content/practices/PR020.json",
+      "destinationPath": "content/practices/PR020.json",
+      "sourceBlobSha": "78855b80af3b7231b8431a2c44c5dc999d2f6970",
+      "sourceBytes": 900
+    },
+    {
+      "sourcePath": "content/practices/PR021.json",
+      "destinationPath": "content/practices/PR021.json",
+      "sourceBlobSha": "cbf4321605ca72d5a775c17e2981f4bb131b2e79",
+      "sourceBytes": 904
+    },
+    {
+      "sourcePath": "content/practices/PR022.json",
+      "destinationPath": "content/practices/PR022.json",
+      "sourceBlobSha": "039147e0f314ac639a704a67550a106d71507e90",
+      "sourceBytes": 888
+    },
+    {
+      "sourcePath": "content/practices/PR023.json",
+      "destinationPath": "content/practices/PR023.json",
+      "sourceBlobSha": "ad58b5413f20607af9621ae167af3121b8a3d5a9",
+      "sourceBytes": 897
+    },
+    {
+      "sourcePath": "content/practices/PR024.json",
+      "destinationPath": "content/practices/PR024.json",
+      "sourceBlobSha": "2f1d844f7de41a9ed7f263e94bf5abded6ad5aa6",
+      "sourceBytes": 876
+    },
+    {
+      "sourcePath": "content/practices/PR025.json",
+      "destinationPath": "content/practices/PR025.json",
+      "sourceBlobSha": "128d71017607362bd5fb8779a6fbbdd946ef5efa",
+      "sourceBytes": 904
+    },
+    {
+      "sourcePath": "content/practices/PR026.json",
+      "destinationPath": "content/practices/PR026.json",
+      "sourceBlobSha": "31a21e455a8c3f7203456f373a764f2f0b60efe5",
+      "sourceBytes": 915
+    },
+    {
+      "sourcePath": "content/practices/PR027.json",
+      "destinationPath": "content/practices/PR027.json",
+      "sourceBlobSha": "df5099e78e1ac51bfff890536546160ed93eff37",
+      "sourceBytes": 901
+    },
+    {
+      "sourcePath": "content/practices/PR028.json",
+      "destinationPath": "content/practices/PR028.json",
+      "sourceBlobSha": "4409438c2ca49a0679a8f3bd805460f9c394a35d",
+      "sourceBytes": 898
+    },
+    {
+      "sourcePath": "content/practices/PR029.json",
+      "destinationPath": "content/practices/PR029.json",
+      "sourceBlobSha": "b0e8e4feda0c2307606ee13e852262258301e6be",
+      "sourceBytes": 922
+    },
+    {
+      "sourcePath": "content/practices/PR030.json",
+      "destinationPath": "content/practices/PR030.json",
+      "sourceBlobSha": "718c4b788a649b938a8e1334eb21230459a4bbb2",
+      "sourceBytes": 932
+    },
+    {
+      "sourcePath": "content/practices/PR031.json",
+      "destinationPath": "content/practices/PR031.json",
+      "sourceBlobSha": "dcc907dd8b544297c993da9f7e8492e43064c114",
+      "sourceBytes": 980
+    },
+    {
+      "sourcePath": "content/practices/PR032.json",
+      "destinationPath": "content/practices/PR032.json",
+      "sourceBlobSha": "5682bc6a84e275f8cc0e2e7fe4f535dd74f482e9",
+      "sourceBytes": 957
+    },
+    {
+      "sourcePath": "content/practices/PR033.json",
+      "destinationPath": "content/practices/PR033.json",
+      "sourceBlobSha": "785439620230f2a053ceb8d5f125b5ae39e37e8e",
+      "sourceBytes": 961
+    },
+    {
+      "sourcePath": "content/practices/PR034.json",
+      "destinationPath": "content/practices/PR034.json",
+      "sourceBlobSha": "3f68cc502efe8f0dee5ed2a36d6abb8f7b9f338c",
+      "sourceBytes": 967
+    },
+    {
+      "sourcePath": "content/practices/PR035.json",
+      "destinationPath": "content/practices/PR035.json",
+      "sourceBlobSha": "0170d66770e779e956dedcd8f5f7834a452c9c84",
+      "sourceBytes": 957
+    },
+    {
+      "sourcePath": "content/practices/PR036.json",
+      "destinationPath": "content/practices/PR036.json",
+      "sourceBlobSha": "333323e548095afeadb32f93ae4ccbf0d47b8760",
+      "sourceBytes": 968
+    },
+    {
+      "sourcePath": "content/practices/PR037.json",
+      "destinationPath": "content/practices/PR037.json",
+      "sourceBlobSha": "d6740875a31fde645a3c8b6b12a4ef9240634f9a",
+      "sourceBytes": 955
+    },
+    {
+      "sourcePath": "content/practices/PR038.json",
+      "destinationPath": "content/practices/PR038.json",
+      "sourceBlobSha": "59cb1c4ec8c60f0e1ccf5003e76e78e854fd97d4",
+      "sourceBytes": 950
+    },
+    {
+      "sourcePath": "content/practices/PR039.json",
+      "destinationPath": "content/practices/PR039.json",
+      "sourceBlobSha": "2b18c49075de958bf9b52b49e226bedd292b114e",
+      "sourceBytes": 954
+    },
+    {
+      "sourcePath": "content/practices/PR040.json",
+      "destinationPath": "content/practices/PR040.json",
+      "sourceBlobSha": "434f78d621856cf8a5ddee64391576e84e7f7963",
+      "sourceBytes": 954
+    },
+    {
+      "sourcePath": "content/practices/PR041.json",
+      "destinationPath": "content/practices/PR041.json",
+      "sourceBlobSha": "aeed1f478b48fbccfa5a2b1971650dc3ceafe1f0",
+      "sourceBytes": 951
+    },
+    {
+      "sourcePath": "content/practices/PR042.json",
+      "destinationPath": "content/practices/PR042.json",
+      "sourceBlobSha": "bc928eed0407bea1a407f6ff627e456e66713337",
+      "sourceBytes": 962
+    },
+    {
+      "sourcePath": "content/practices/PR043.json",
+      "destinationPath": "content/practices/PR043.json",
+      "sourceBlobSha": "41dc6650cf31f1b7cf7b3a90683e55f3e9ee4229",
+      "sourceBytes": 945
+    },
+    {
+      "sourcePath": "content/practices/PR044.json",
+      "destinationPath": "content/practices/PR044.json",
+      "sourceBlobSha": "81dd08de0a3b5514be86cd121cb9d11181fc74bd",
+      "sourceBytes": 963
+    },
+    {
+      "sourcePath": "content/practices/PR045.json",
+      "destinationPath": "content/practices/PR045.json",
+      "sourceBlobSha": "19d0093b57e3e2d9be4b4f18942d157ae1d0452a",
+      "sourceBytes": 944
+    },
+    {
+      "sourcePath": "content/practices/PR046.json",
+      "destinationPath": "content/practices/PR046.json",
+      "sourceBlobSha": "5a57972a8e6a44937dcbdcee80b8259870ff1269",
+      "sourceBytes": 956
+    },
+    {
+      "sourcePath": "content/practices/PR047.json",
+      "destinationPath": "content/practices/PR047.json",
+      "sourceBlobSha": "9168c8df7bf3fa5efbd84c7669438810a7ac0501",
+      "sourceBytes": 966
+    },
+    {
+      "sourcePath": "content/practices/PR048.json",
+      "destinationPath": "content/practices/PR048.json",
+      "sourceBlobSha": "39880cc7d1cac223eede958b58b84a5bb95bffc8",
+      "sourceBytes": 960
+    },
+    {
+      "sourcePath": "content/practices/PR049.json",
+      "destinationPath": "content/practices/PR049.json",
+      "sourceBlobSha": "a210b086c813ea33bcfbcea5a6942c726b96e907",
+      "sourceBytes": 941
+    },
+    {
+      "sourcePath": "content/practices/PR050.json",
+      "destinationPath": "content/practices/PR050.json",
+      "sourceBlobSha": "5a9a3773ce0b155300d12e5f170dd6562d52130b",
+      "sourceBytes": 950
+    },
+    {
+      "sourcePath": "content/practices/PR051.json",
+      "destinationPath": "content/practices/PR051.json",
+      "sourceBlobSha": "c0008bdc3632e09b3773639744d0643f2be622e0",
+      "sourceBytes": 976
+    },
+    {
+      "sourcePath": "content/practices/PR052.json",
+      "destinationPath": "content/practices/PR052.json",
+      "sourceBlobSha": "b1919f99eb5a4eb16d753d94f8973c5708ff254a",
+      "sourceBytes": 949
+    },
+    {
+      "sourcePath": "content/practices/PR053.json",
+      "destinationPath": "content/practices/PR053.json",
+      "sourceBlobSha": "ad53ffb8660b95b3f4a0deb3a3362536393355f3",
+      "sourceBytes": 958
+    },
+    {
+      "sourcePath": "content/practices/PR054.json",
+      "destinationPath": "content/practices/PR054.json",
+      "sourceBlobSha": "0008cf38fb246220de153536f08d21ce37751e00",
+      "sourceBytes": 955
+    },
+    {
+      "sourcePath": "content/practices/PR055.json",
+      "destinationPath": "content/practices/PR055.json",
+      "sourceBlobSha": "27971fb59d576fc5dd19723f10ab30980b351eba",
+      "sourceBytes": 953
+    },
+    {
+      "sourcePath": "content/practices/PR056.json",
+      "destinationPath": "content/practices/PR056.json",
+      "sourceBlobSha": "707e651e7db95664ce2e9c5114d74751b1b218d7",
+      "sourceBytes": 947
+    },
+    {
+      "sourcePath": "content/practices/PR057.json",
+      "destinationPath": "content/practices/PR057.json",
+      "sourceBlobSha": "4720f43756fbf1763d1b276dc4c87a018b5ae3c4",
+      "sourceBytes": 951
+    },
+    {
+      "sourcePath": "content/practices/PR058.json",
+      "destinationPath": "content/practices/PR058.json",
+      "sourceBlobSha": "75bdb01459cf8b3f50b7c53de0f6dcb216c773be",
+      "sourceBytes": 960
+    },
+    {
+      "sourcePath": "content/practices/PR059.json",
+      "destinationPath": "content/practices/PR059.json",
+      "sourceBlobSha": "0564db55804919bb16358c5d09d287fbd6dfb0ba",
+      "sourceBytes": 964
+    },
+    {
+      "sourcePath": "content/practices/PR060.json",
+      "destinationPath": "content/practices/PR060.json",
+      "sourceBlobSha": "28eb72825f9918435ecaad36735a2dfceba702b2",
+      "sourceBytes": 951
+    },
+    {
+      "sourcePath": "content/practices/PR061.json",
+      "destinationPath": "content/practices/PR061.json",
+      "sourceBlobSha": "dbac61d646f77aa8e6f1e62352af6d5843e44e04",
+      "sourceBytes": 1478
+    },
+    {
+      "sourcePath": "content/practices/PR062.json",
+      "destinationPath": "content/practices/PR062.json",
+      "sourceBlobSha": "e55e5295c1dbfa8c4c6d3ab8b98ebbc28fed345d",
+      "sourceBytes": 1438
+    },
+    {
+      "sourcePath": "content/practices/PR063.json",
+      "destinationPath": "content/practices/PR063.json",
+      "sourceBlobSha": "502f6a6e55a8d5316733dcbe2bc12da6ea97bc76",
+      "sourceBytes": 1420
+    },
+    {
+      "sourcePath": "content/practices/PR064.json",
+      "destinationPath": "content/practices/PR064.json",
+      "sourceBlobSha": "bf350e9e987ee6630c8d7111b4edeb13bbb2b5b5",
+      "sourceBytes": 1436
+    },
+    {
+      "sourcePath": "content/practices/PR065.json",
+      "destinationPath": "content/practices/PR065.json",
+      "sourceBlobSha": "aa9d22acc32f065e99ef3e7b8d48c5dc6224972b",
+      "sourceBytes": 1474
+    },
+    {
+      "sourcePath": "content/practices/PR066.json",
+      "destinationPath": "content/practices/PR066.json",
+      "sourceBlobSha": "b8d3976e09d92fa9a64222578d2c9a5848f4a920",
+      "sourceBytes": 1426
+    },
+    {
+      "sourcePath": "content/practices/PR067.json",
+      "destinationPath": "content/practices/PR067.json",
+      "sourceBlobSha": "78ab5c4b54aaab5309309344a6b1acd8fa13f26c",
+      "sourceBytes": 1455
+    },
+    {
+      "sourcePath": "content/practices/PR068.json",
+      "destinationPath": "content/practices/PR068.json",
+      "sourceBlobSha": "40fabb82ff05dc802e68692c25aff0d419ffdf90",
+      "sourceBytes": 1402
+    },
+    {
+      "sourcePath": "content/practices/PR069.json",
+      "destinationPath": "content/practices/PR069.json",
+      "sourceBlobSha": "7601b438e06b945d2cc9f476f33773e7ed15f0cb",
+      "sourceBytes": 1438
+    },
+    {
+      "sourcePath": "content/practices/PR070.json",
+      "destinationPath": "content/practices/PR070.json",
+      "sourceBlobSha": "9fb61a05666426ca9d8eb12224e36d831cfce13a",
+      "sourceBytes": 1427
+    },
+    {
+      "sourcePath": "content/practices/PR071.json",
+      "destinationPath": "content/practices/PR071.json",
+      "sourceBlobSha": "40899dc4d5e3de8a2f0a5405ae24bde1fd16e839",
+      "sourceBytes": 1429
+    },
+    {
+      "sourcePath": "content/practices/PR072.json",
+      "destinationPath": "content/practices/PR072.json",
+      "sourceBlobSha": "4e4003e56edc331f6a66862f773087973f363d2b",
+      "sourceBytes": 1423
+    },
+    {
+      "sourcePath": "content/practices/PR073.json",
+      "destinationPath": "content/practices/PR073.json",
+      "sourceBlobSha": "9c0b5916fdcc36a8b6b331109da02c2b64165596",
+      "sourceBytes": 1421
+    },
+    {
+      "sourcePath": "content/practices/PR074.json",
+      "destinationPath": "content/practices/PR074.json",
+      "sourceBlobSha": "4eced20a1b56e0172398503fc36314e90e23f814",
+      "sourceBytes": 1405
+    },
+    {
+      "sourcePath": "content/practices/PR075.json",
+      "destinationPath": "content/practices/PR075.json",
+      "sourceBlobSha": "948ab23c35caf1cb6da26fdd2b881f4769fda480",
+      "sourceBytes": 1407
+    },
+    {
+      "sourcePath": "content/practices/PR076.json",
+      "destinationPath": "content/practices/PR076.json",
+      "sourceBlobSha": "a579dfa4e2e5a1a30eaa23219c0b34d4059f77d7",
+      "sourceBytes": 1432
+    },
+    {
+      "sourcePath": "content/practices/PR077.json",
+      "destinationPath": "content/practices/PR077.json",
+      "sourceBlobSha": "a6e7c26ec24baad79d56ae48157e43d26447d20b",
+      "sourceBytes": 1435
+    },
+    {
+      "sourcePath": "content/practices/PR078.json",
+      "destinationPath": "content/practices/PR078.json",
+      "sourceBlobSha": "f259b1708b0d4d79907f2f68482420703cbca66a",
+      "sourceBytes": 1460
+    },
+    {
+      "sourcePath": "content/practices/PR079.json",
+      "destinationPath": "content/practices/PR079.json",
+      "sourceBlobSha": "bd45b7495a119d8a4b8e24e494a35ea1a11f7974",
+      "sourceBytes": 1414
+    },
+    {
+      "sourcePath": "content/practices/PR080.json",
+      "destinationPath": "content/practices/PR080.json",
+      "sourceBlobSha": "118f228c141091e2c0a6febfabf60348b693a1b1",
+      "sourceBytes": 1412
+    },
+    {
+      "sourcePath": "content/practices/PR081.json",
+      "destinationPath": "content/practices/PR081.json",
+      "sourceBlobSha": "415955571d2a9f7807104673c2eddfeccba28381",
+      "sourceBytes": 1439
+    },
+    {
+      "sourcePath": "content/practices/PR082.json",
+      "destinationPath": "content/practices/PR082.json",
+      "sourceBlobSha": "4e5ab825f99e92dbbfa9819b6fb39565875370c9",
+      "sourceBytes": 1405
+    },
+    {
+      "sourcePath": "content/practices/PR083.json",
+      "destinationPath": "content/practices/PR083.json",
+      "sourceBlobSha": "eba16a01717aa1300f7d2b8851f54ff22b1381f0",
+      "sourceBytes": 1438
+    },
+    {
+      "sourcePath": "content/practices/PR084.json",
+      "destinationPath": "content/practices/PR084.json",
+      "sourceBlobSha": "1ab42332651a2dff720895e28cd7429706a13e73",
+      "sourceBytes": 1414
+    },
+    {
+      "sourcePath": "content/practices/PR085.json",
+      "destinationPath": "content/practices/PR085.json",
+      "sourceBlobSha": "e03f1bd711aaf0870bead21162cc82533f9f2cfd",
+      "sourceBytes": 1416
+    },
+    {
+      "sourcePath": "content/practices/PR086.json",
+      "destinationPath": "content/practices/PR086.json",
+      "sourceBlobSha": "ec26d5c78c6f37d563cdecefcb08045b8dfdf58b",
+      "sourceBytes": 1428
+    },
+    {
+      "sourcePath": "content/practices/PR087.json",
+      "destinationPath": "content/practices/PR087.json",
+      "sourceBlobSha": "4577650ea32a16db1de19be9d60ed41345e98680",
+      "sourceBytes": 1407
+    },
+    {
+      "sourcePath": "content/practices/PR088.json",
+      "destinationPath": "content/practices/PR088.json",
+      "sourceBlobSha": "499c2ce509635bfa4a9c4c86a325d128a427aa07",
+      "sourceBytes": 1474
+    },
+    {
+      "sourcePath": "content/practices/PR089.json",
+      "destinationPath": "content/practices/PR089.json",
+      "sourceBlobSha": "2de021a9efa29fc00bc69bb3a84307b47acbe86a",
+      "sourceBytes": 1467
+    },
+    {
+      "sourcePath": "content/practices/PR090.json",
+      "destinationPath": "content/practices/PR090.json",
+      "sourceBlobSha": "e2c13481b34e9f3b45ef5929754cd47961823a03",
+      "sourceBytes": 1432
+    },
+    {
+      "sourcePath": "content/practices/manifest.json",
+      "destinationPath": "content/practices/manifest.json",
+      "sourceBlobSha": "4fcef7c0e71047fd6d4d58cfdfccb5286eed99bb",
+      "sourceBytes": 13115
+    },
+    {
+      "sourcePath": "content/psychological/P01-your-identity-with-your-speech.json",
+      "destinationPath": "content/tools/P01.json",
+      "sourceBlobSha": "c9bdc9b29d8c10c72c8b0505431d90b0d3d59951",
+      "sourceBytes": 53325
+    },
+    {
+      "sourcePath": "content/psychological/P02-a-little-shameless.json",
+      "destinationPath": "content/tools/P02.json",
+      "sourceBlobSha": "9bc083565d6a62d9de6fdb81d645e90e67a0750a",
+      "sourceBytes": 44530
+    },
+    {
+      "sourcePath": "content/psychological/P03-drop-performance-mode.json",
+      "destinationPath": "content/tools/P03.json",
+      "sourceBlobSha": "9075259d2a0e0ca244672e99ce67e782ba3f4f4e",
+      "sourceBytes": 44537
+    },
+    {
+      "sourcePath": "content/psychological/P04-the-careless-approach.json",
+      "destinationPath": "content/tools/P04.json",
+      "sourceBlobSha": "92a63ecab5bdf640536f84d437593390a3d9efc4",
+      "sourceBytes": 44049
+    },
+    {
+      "sourcePath": "content/psychological/P05-stop-standing-against-yourself.json",
+      "destinationPath": "content/tools/P05.json",
+      "sourceBlobSha": "6b08b8651a0bc9c80cae8b250ee35122a576b5f5",
+      "sourceBytes": 44542
+    },
+    {
+      "sourcePath": "content/psychological/P06-understand-your-shame.json",
+      "destinationPath": "content/tools/P06.json",
+      "sourceBlobSha": "e744656ec5ff2a818ce535c570dbf28a8c0ac438",
+      "sourceBytes": 45058
+    },
+    {
+      "sourcePath": "content/psychological/P07-your-relationship-with-your-voice.json",
+      "destinationPath": "content/tools/P07.json",
+      "sourceBlobSha": "229472afc9e8b221d0a0f66edbd2c311b695d625",
+      "sourceBytes": 44314
+    },
+    {
+      "sourcePath": "content/psychological/P08-recognise-the-watcher.json",
+      "destinationPath": "content/tools/P08.json",
+      "sourceBlobSha": "087016dcb83ff2a33c2b54ab5a9a51cb6fe7bde1",
+      "sourceBytes": 44546
+    },
+    {
+      "sourcePath": "content/psychological/P09-don-t-feed-every-speech-thought.json",
+      "destinationPath": "content/tools/P09.json",
+      "sourceBlobSha": "d2c36e16026415e7bc0de33d93c31ec9c12d5fb4",
+      "sourceBytes": 44921
+    },
+    {
+      "sourcePath": "content/psychological/P10-return-to-the-conversation.json",
+      "destinationPath": "content/tools/P10.json",
+      "sourceBlobSha": "cf854189b5e60593b3b336e832f9c1e4c1f26d0e",
+      "sourceBytes": 44388
+    },
+    {
+      "sourcePath": "content/psychological/P11-listening-without-rehearsing-or-comparing.json",
+      "destinationPath": "content/tools/P11.json",
+      "sourceBlobSha": "ef3613883bf291525d46a1840fb9c4a6f6dee94a",
+      "sourceBytes": 45112
+    },
+    {
+      "sourcePath": "content/psychological/P12-prediction-is-not-reality.json",
+      "destinationPath": "content/tools/P12.json",
+      "sourceBlobSha": "a14fdd9e17000c7812c02deab05f22cb1e115174",
+      "sourceBytes": 44367
+    },
+    {
+      "sourcePath": "content/psychological/P13-loosen-your-speaking-rules.json",
+      "destinationPath": "content/tools/P13.json",
+      "sourceBlobSha": "ca5a21451b244cbc557bd09b4eae0c2b4d8f30ca",
+      "sourceBytes": 43936
+    },
+    {
+      "sourcePath": "content/psychological/P14-feel-the-emotion-and-choose-your-response.json",
+      "destinationPath": "content/tools/P14.json",
+      "sourceBlobSha": "e40bae3c909b67475fda1d23417f85715a135030",
+      "sourceBytes": 45669
+    },
+    {
+      "sourcePath": "content/psychological/P15-make-room-for-disappointment-and-frustration.json",
+      "destinationPath": "content/tools/P15.json",
+      "sourceBlobSha": "f31215a190c7b1bbc505a02883ea8998bf0fc17a",
+      "sourceBytes": 44463
+    },
+    {
+      "sourcePath": "content/psychological/P16-guilt-expectations-and-speaking-needs.json",
+      "destinationPath": "content/tools/P16.json",
+      "sourceBlobSha": "c4b73eda3c9b0ebb9bfb3ad48cec473c70cab24d",
+      "sourceBytes": 44544
+    },
+    {
+      "sourcePath": "content/psychological/P17-understand-your-pattern-without-overanalysing.json",
+      "destinationPath": "content/tools/P17.json",
+      "sourceBlobSha": "a1a1a2ffa134450eb276e42988b60d6938c28a44",
+      "sourceBytes": 44578
+    },
+    {
+      "sourcePath": "content/psychological/P18-first-sentence-only.json",
+      "destinationPath": "content/tools/P18.json",
+      "sourceBlobSha": "0d6b8a810729d83a8097b3deb1f2056e05bd3507",
+      "sourceBytes": 43926
+    },
+    {
+      "sourcePath": "content/psychological/P19-carry-meaning-in-small-pieces.json",
+      "destinationPath": "content/tools/P19.json",
+      "sourceBlobSha": "4f19bf33cba6cfde08fb684e3091abf4a5ba35bb",
+      "sourceBytes": 44438
+    },
+    {
+      "sourcePath": "content/psychological/P20-prepare-less-allow-more-spontaneity.json",
+      "destinationPath": "content/tools/P20.json",
+      "sourceBlobSha": "3c3b52b4f502b8ec88294e8446dd29f0ffbd37c0",
+      "sourceBytes": 43963
+    },
+    {
+      "sourcePath": "content/psychological/P21-give-yourself-time-and-space.json",
+      "destinationPath": "content/tools/P21.json",
+      "sourceBlobSha": "32a0353f346d0da68f3fc4bfeffde1d90fa20a5d",
+      "sourceBytes": 43953
+    },
+    {
+      "sourcePath": "content/psychological/P22-understand-avoidance-and-safety-habits.json",
+      "destinationPath": "content/tools/P22.json",
+      "sourceBlobSha": "3b3f9ea605d0a4cc6f217132cc20ef3cdfe1ae61",
+      "sourceBytes": 45100
+    },
+    {
+      "sourcePath": "content/psychological/P23-stay-with-what-you-wanted-to-say.json",
+      "destinationPath": "content/tools/P23.json",
+      "sourceBlobSha": "55cd42a90ea7b7bd8029c0fbea5b17d5d7909582",
+      "sourceBytes": 44472
+    },
+    {
+      "sourcePath": "content/psychological/P24-recover-without-repairing-or-replaying.json",
+      "destinationPath": "content/tools/P24.json",
+      "sourceBlobSha": "89120f64242fb82d185dcd9f55db5c7e560bc505",
+      "sourceBytes": 43995
+    },
+    {
+      "sourcePath": "content/psychological/P25-return-after-an-interruption.json",
+      "destinationPath": "content/tools/P25.json",
+      "sourceBlobSha": "698484a57cff5440d5d5971d5a1b6ba222e90af7",
+      "sourceBytes": 43468
+    },
+    {
+      "sourcePath": "content/psychological/P26-experiment-without-grading-yourself.json",
+      "destinationPath": "content/tools/P26.json",
+      "sourceBlobSha": "e0cb6c5bf4e7a0b40f651049f20597b906eb300a",
+      "sourceBytes": 44161
+    },
+    {
+      "sourcePath": "content/psychological/P27-keep-your-supports-light.json",
+      "destinationPath": "content/tools/P27.json",
+      "sourceBlobSha": "b2ccd04f8f4100673ff9f7651bf467a63b693e3c",
+      "sourceBytes": 43942
+    },
+    {
+      "sourcePath": "content/psychological/P28-find-your-reason-to-speak-and-take-a-step.json",
+      "destinationPath": "content/tools/P28.json",
+      "sourceBlobSha": "c45b0d7a2bb9e948347576b1bd9a764a0f4fbc71",
+      "sourceBytes": 44066
+    },
+    {
+      "sourcePath": "content/psychological/P29-disclosure-boundaries-and-listener-reactions.json",
+      "destinationPath": "content/tools/P29.json",
+      "sourceBlobSha": "e33a30b1db438ab92734a69ab59ccaee60a89f02",
+      "sourceBytes": 44084
+    },
+    {
+      "sourcePath": "content/psychological/P30-your-personal-speaking-map-and-continuing-plan.json",
+      "destinationPath": "content/tools/P30.json",
+      "sourceBlobSha": "327d93c2c10bd5257e801d919474cab64cd334c8",
+      "sourceBytes": 44229
+    },
+    {
+      "sourcePath": "content/body/B01.json",
+      "destinationPath": "content/tools/B01.json",
+      "sourceBlobSha": "21fa3c7924b27159554938781f2726ff52978bf7",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B02.json",
+      "destinationPath": "content/tools/B02.json",
+      "sourceBlobSha": "5c42f6a2e1850d219293e7943b13417ae8f7604a",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B03.json",
+      "destinationPath": "content/tools/B03.json",
+      "sourceBlobSha": "727f206fe91e2a1a509d455dfd4ad9f1a9c45a9d",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B04.json",
+      "destinationPath": "content/tools/B04.json",
+      "sourceBlobSha": "bb0dbe721f6c000cdf33ad396cfe4ee2e30898e6",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B05.json",
+      "destinationPath": "content/tools/B05.json",
+      "sourceBlobSha": "c1a4e2b9a6506d1f44cc6be8e84b2c9e6d688bf8",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B06.json",
+      "destinationPath": "content/tools/B06.json",
+      "sourceBlobSha": "a4c3c1f18692a39b621d6afa8550bfe9cbd37368",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B07.json",
+      "destinationPath": "content/tools/B07.json",
+      "sourceBlobSha": "f86ae67b3f2c88b5c7dead15698be69d9a93eb7c",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B08.json",
+      "destinationPath": "content/tools/B08.json",
+      "sourceBlobSha": "eeb4367937c0777823fc855ab33952d7c0f14f2f",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B09.json",
+      "destinationPath": "content/tools/B09.json",
+      "sourceBlobSha": "540fe9a5544578a5ad453e34b3916db9ec95ad57",
+      "purpose": "Supplementary authored physical teaching notes"
+    },
+    {
+      "sourcePath": "content/body/B10.json",
+      "destinationPath": "content/tools/B10.json",
+      "sourceBlobSha": "abec623da933fabb2a0e367c1432aa2bea9f7285",
+      "purpose": "Supplementary authored physical teaching notes"
+    }
+  ]
+}

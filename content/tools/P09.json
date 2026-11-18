@@ -1,0 +1,567 @@
+{
+  "id": "P09",
+  "title": "Don’t Feed Every Speech Thought",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice a speech thought",
+    "Separate noticing from following",
+    "Return to one meaningful action"
+  ],
+  "deeperExplanation": {
+    "question": "What if the thought is important?",
+    "answer": "Respond to an actual practical need. If you do not know the answer, ask a question. If the room is noisy, change the setting. A repeated prediction such as they will judge me is different from a concrete need you can address. You can hear it without opening another internal debate. The goal is selective response, not ignoring your mind or refusing to think about speech."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P09-focused-v1",
+  "sections": [
+    {
+      "id": "P09-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Don’t Feed Every Speech Thought. The thought arrives: you will get stuck on the next word. You begin arguing with it, reassuring yourself and mentally testing a replacement. The thought is now the centre of the conversation.\n\nIn this session, we will notice a speech thought, separate noticing from following, and return to one meaningful action. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice a speech thought",
+      "segments": [
+        {
+          "id": "P09-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P09-01-S02",
+          "text": "Today we are exploring Don’t Feed Every Speech Thought."
+        },
+        {
+          "id": "P09-01-S03",
+          "text": "The thought arrives: you will get stuck on the next word."
+        },
+        {
+          "id": "P09-01-S04",
+          "text": "You begin arguing with it, reassuring yourself and mentally testing a replacement."
+        },
+        {
+          "id": "P09-01-S05",
+          "text": "The thought is now the centre of the conversation."
+        },
+        {
+          "id": "P09-01-S06",
+          "text": "In this session, we will notice a speech thought, separate noticing from following, and return to one meaningful action."
+        },
+        {
+          "id": "P09-01-S07",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P09-01-S08",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P09-01-S09",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice a speech thought",
+          "Separate noticing from following",
+          "Return to one meaningful action"
+        ],
+        "altText": "This session explores: Notice a speech thought; Separate noticing from following; Return to one meaningful action."
+      }
+    },
+    {
+      "id": "P09-02",
+      "type": "explain",
+      "narration": "A thought can appear without receiving a full response. You are not required to prove it wrong before you speak. Today we will practise noticing a speech thought and leaving it unfinished while returning to the message. This is not suppression. Suppression says the thought must go. Non-reactivity says it can be here without becoming the task I work on.",
+      "learningPurpose": "Notice a speech thought",
+      "segments": [
+        {
+          "id": "P09-02-S01",
+          "text": "A thought can appear without receiving a full response."
+        },
+        {
+          "id": "P09-02-S02",
+          "text": "You are not required to prove it wrong before you speak."
+        },
+        {
+          "id": "P09-02-S03",
+          "text": "Today we will practise noticing a speech thought and leaving it unfinished while returning to the message."
+        },
+        {
+          "id": "P09-02-S04",
+          "text": "This is not suppression."
+        },
+        {
+          "id": "P09-02-S05",
+          "text": "Suppression says the thought must go."
+        },
+        {
+          "id": "P09-02-S06",
+          "text": "Non-reactivity says it can be here without becoming the task I work on."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Which thought asked for a response?"
+      }
+    },
+    {
+      "id": "P09-03",
+      "type": "explain",
+      "narration": "The thought arrives: you will get stuck on the next word. You begin arguing with it, reassuring yourself and mentally testing a replacement. The thought is now the centre of the conversation.\n\nAn unwanted prediction often asks for certainty. If you answer with another reassurance, it may ask again. Instead of winning an internal debate, choose something concrete in the present: the question you heard, the point you want to make or the person you are addressing. The prediction may remain in the background.\n\nWhat if the thought is important?\n\nRespond to an actual practical need. If you do not know the answer, ask a question. If the room is noisy, change the setting. A repeated prediction such as they will judge me is different from a concrete need you can address. You can hear it without opening another internal debate. The goal is selective response, not ignoring your mind or refusing to think about speech.",
+      "learningPurpose": "Notice a speech thought",
+      "segments": [
+        {
+          "id": "P09-03-S01",
+          "text": "The thought arrives: you will get stuck on the next word."
+        },
+        {
+          "id": "P09-03-S02",
+          "text": "You begin arguing with it, reassuring yourself and mentally testing a replacement."
+        },
+        {
+          "id": "P09-03-S03",
+          "text": "The thought is now the centre of the conversation."
+        },
+        {
+          "id": "P09-03-S04",
+          "text": "An unwanted prediction often asks for certainty."
+        },
+        {
+          "id": "P09-03-S05",
+          "text": "If you answer with another reassurance, it may ask again."
+        },
+        {
+          "id": "P09-03-S06",
+          "text": "Instead of winning an internal debate, choose something concrete in the present: the question you heard, the point you want to make or the person you are addressing."
+        },
+        {
+          "id": "P09-03-S07",
+          "text": "The prediction may remain in the background."
+        },
+        {
+          "id": "P09-03-S08",
+          "text": "What if the thought is important?"
+        },
+        {
+          "id": "P09-03-S09",
+          "text": "Respond to an actual practical need."
+        },
+        {
+          "id": "P09-03-S10",
+          "text": "If you do not know the answer, ask a question."
+        },
+        {
+          "id": "P09-03-S11",
+          "text": "If the room is noisy, change the setting."
+        },
+        {
+          "id": "P09-03-S12",
+          "text": "A repeated prediction such as they will judge me is different from a concrete need you can address."
+        },
+        {
+          "id": "P09-03-S13",
+          "text": "You can hear it without opening another internal debate."
+        },
+        {
+          "id": "P09-03-S14",
+          "text": "The goal is selective response, not ignoring your mind or refusing to think about speech."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Speech thought",
+          "Choice to engage",
+          "Meaningful action"
+        ],
+        "altText": "Three parts to distinguish: Speech thought, Choice to engage, Meaningful action. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What response did you usually give?"
+      }
+    },
+    {
+      "id": "P09-04",
+      "type": "visual",
+      "narration": "A phone notification can appear while you are talking. You can see it without opening the app. Not every notification needs a reply.",
+      "learningPurpose": "Notice a speech thought",
+      "segments": [
+        {
+          "id": "P09-04-S01",
+          "text": "A phone notification can appear while you are talking."
+        },
+        {
+          "id": "P09-04-S02",
+          "text": "You can see it without opening the app."
+        },
+        {
+          "id": "P09-04-S03",
+          "text": "Not every notification needs a reply."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Notification",
+        "labels": [
+          "Thought appears",
+          "Response is a choice"
+        ],
+        "altText": "A phone notification can appear while you are talking. You can see it without opening the app. Not every notification needs a reply."
+      }
+    },
+    {
+      "id": "P09-05",
+      "type": "contrast",
+      "narration": "Debate: I will block. No I will not. But what if I do? Return: There is that prediction. I wanted to explain the meeting time. Then continue with that message. Now consider a short check. A thought says the next word will be difficult. What is one option? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Separate noticing from following",
+      "segments": [
+        {
+          "id": "P09-05-S01",
+          "text": "Debate: I will block."
+        },
+        {
+          "id": "P09-05-S02",
+          "text": "No I will not."
+        },
+        {
+          "id": "P09-05-S03",
+          "text": "But what if I do?"
+        },
+        {
+          "id": "P09-05-S04",
+          "text": "Return: There is that prediction."
+        },
+        {
+          "id": "P09-05-S05",
+          "text": "I wanted to explain the meeting time."
+        },
+        {
+          "id": "P09-05-S06",
+          "text": "Then continue with that message."
+        },
+        {
+          "id": "P09-05-S07",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P09-05-S08",
+          "text": "A thought says the next word will be difficult."
+        },
+        {
+          "id": "P09-05-S09",
+          "text": "What is one option?"
+        },
+        {
+          "id": "P09-05-S10",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "A thought says the next word will be difficult. What is one option?",
+        "labels": [
+          "Solve the thought before you continue.",
+          "Notice it without treating it as an instruction.",
+          "Force a positive thought until it disappears."
+        ],
+        "altText": "Three options: Solve the thought before you continue. / Notice it without treating it as an instruction. / Force a positive thought until it disappears."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "A thought says the next word will be difficult. What is one option?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Solve the thought before you continue.",
+            "feedback": "Consider the distinction again. You can recognise the thought and still choose what serves the message. Neither obedience nor forced positivity is required."
+          },
+          {
+            "id": "B",
+            "text": "Notice it without treating it as an instruction.",
+            "feedback": "Yes. You can recognise the thought and still choose what serves the message. Neither obedience nor forced positivity is required."
+          },
+          {
+            "id": "C",
+            "text": "Force a positive thought until it disappears.",
+            "feedback": "Consider the distinction again. You can recognise the thought and still choose what serves the message. Neither obedience nor forced positivity is required."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P09-06",
+      "type": "reflection",
+      "narration": "Write two recurring speech thoughts. Beside each, write the action it usually draws you into: rehearsing, substituting, reassuring, avoiding or checking. Choose one response you are willing to leave incomplete for a brief private practice.",
+      "learningPurpose": "Separate noticing from following",
+      "segments": [
+        {
+          "id": "P09-06-S01",
+          "text": "Write two recurring speech thoughts."
+        },
+        {
+          "id": "P09-06-S02",
+          "text": "Beside each, write the action it usually draws you into: rehearsing, substituting, reassuring, avoiding or checking."
+        },
+        {
+          "id": "P09-06-S03",
+          "text": "Choose one response you are willing to leave incomplete for a brief private practice."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write two recurring speech thoughts. Beside each, write the action it usually draws you into: rehearsing, substituting, reassuring, avoiding or checking. Choose one response you are willing to leave incomplete for a brief private practice.",
+        "questions": [
+          "Which thought asked for a response?",
+          "What response did you usually give?",
+          "What happened when you returned to the message?"
+        ]
+      }
+    },
+    {
+      "id": "P09-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Tell me one thing you would like to do this week. Notice afterwards whether a speech thought appeared. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Separate noticing from following",
+      "segments": [
+        {
+          "id": "P09-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P09-07-S02",
+          "text": "Tell me one thing you would like to do this week."
+        },
+        {
+          "id": "P09-07-S03",
+          "text": "Notice afterwards whether a speech thought appeared."
+        },
+        {
+          "id": "P09-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P09-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P09-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Tell me one thing you would like to do this week. Notice afterwards whether a speech thought appeared.",
+        "reflectionQuestions": [
+          "Which thought asked for a response?",
+          "What response did you usually give?",
+          "What happened when you returned to the message?"
+        ]
+      }
+    },
+    {
+      "id": "P09-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Share one more detail. If a speech thought appears, you may notice it without opening an argument with it, then return to the detail. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Separate noticing from following",
+      "segments": [
+        {
+          "id": "P09-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P09-08-S02",
+          "text": "Share one more detail."
+        },
+        {
+          "id": "P09-08-S03",
+          "text": "If a speech thought appears, you may notice it without opening an argument with it, then return to the detail."
+        },
+        {
+          "id": "P09-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P09-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Share one more detail. If a speech thought appears, you may notice it without opening an argument with it, then return to the detail.",
+        "reflectionQuestions": [
+          "Which thought asked for a response?",
+          "What response did you usually give?",
+          "What happened when you returned to the message?"
+        ]
+      }
+    },
+    {
+      "id": "P09-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Return to one meaningful action",
+      "segments": [
+        {
+          "id": "P09-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P09-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P09-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P09-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "The thought arrives: you will get stuck on the next word. You begin arguing with it, reassuring yourself and mentally testing a replacement. The thought is now the centre of the conversation.",
+        "partnerPrompts": [
+          "What is something you learned recently?",
+          "How did you learn it?",
+          "Where might you use it?"
+        ]
+      }
+    },
+    {
+      "id": "P09-10",
+      "type": "review",
+      "narration": "Non-reactivity does not mean ignoring useful information or physical discomfort. You can respond to an actual need. We are reducing automatic engagement with repeated predictions, not refusing all thought. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Return to one meaningful action",
+      "segments": [
+        {
+          "id": "P09-10-S01",
+          "text": "Non-reactivity does not mean ignoring useful information or physical discomfort."
+        },
+        {
+          "id": "P09-10-S02",
+          "text": "You can respond to an actual need."
+        },
+        {
+          "id": "P09-10-S03",
+          "text": "We are reducing automatic engagement with repeated predictions, not refusing all thought."
+        },
+        {
+          "id": "P09-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P09-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "Which thought asked for a response?",
+          "What response did you usually give?",
+          "What happened when you returned to the message?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P09-11",
+      "type": "transfer",
+      "narration": "Try leaving one familiar reassurance loop unfinished during a low-pressure exchange. Note what you did next. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Return to one meaningful action",
+      "segments": [
+        {
+          "id": "P09-11-S01",
+          "text": "Try leaving one familiar reassurance loop unfinished during a low-pressure exchange."
+        },
+        {
+          "id": "P09-11-S02",
+          "text": "Note what you did next."
+        },
+        {
+          "id": "P09-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P09-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P09-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Try leaving one familiar reassurance loop unfinished during a low-pressure exchange. Note what you did next.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P09-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Return to one meaningful action",
+      "segments": [
+        {
+          "id": "P09-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P09-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P09-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P09-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P09-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What happened when you returned to the message?"
+      }
+    }
+  ]
+}

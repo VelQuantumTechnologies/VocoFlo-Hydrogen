@@ -1,0 +1,527 @@
+{
+  "id": "P25",
+  "title": "Return After an Interruption",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Keep a bookmark for your point",
+    "Choose whether to return",
+    "Use a respectful bridge"
+  ],
+  "deeperExplanation": {
+    "question": "What if I cannot remember my original sentence?",
+    "answer": "Return to the main meaning rather than the exact sentence. A bookmark such as delivery timing or my main concern gives you a place to begin again. You can say the important point is and continue in new words. If the thought is genuinely gone, you can choose to return later. That is a practical adjustment, not proof that an interruption has taken away your ability to contribute."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P25-focused-v1",
+  "sections": [
+    {
+      "id": "P25-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Return After an Interruption. You are halfway through a point when someone speaks over you. By the time they finish, you feel you have lost your place and your permission to speak.\n\nIn this session, we will keep a bookmark for your point, choose whether to return, and use a respectful bridge. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Keep a bookmark for your point",
+      "segments": [
+        {
+          "id": "P25-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P25-01-S02",
+          "text": "Today we are exploring Return After an Interruption."
+        },
+        {
+          "id": "P25-01-S03",
+          "text": "You are halfway through a point when someone speaks over you."
+        },
+        {
+          "id": "P25-01-S04",
+          "text": "By the time they finish, you feel you have lost your place and your permission to speak."
+        },
+        {
+          "id": "P25-01-S05",
+          "text": "In this session, we will keep a bookmark for your point, choose whether to return, and use a respectful bridge."
+        },
+        {
+          "id": "P25-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P25-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P25-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Keep a bookmark for your point",
+          "Choose whether to return",
+          "Use a respectful bridge"
+        ],
+        "altText": "This session explores: Keep a bookmark for your point; Choose whether to return; Use a respectful bridge."
+      }
+    },
+    {
+      "id": "P25-02",
+      "type": "explain",
+      "narration": "An interruption changes the timing of the exchange; it does not automatically remove your right to finish. First identify whether you still want to complete the point. Then use a short bridge to return. You can say I want to finish that thought, or the point I was making is. You do not need to recreate the exact sentence you were saying.",
+      "learningPurpose": "Keep a bookmark for your point",
+      "segments": [
+        {
+          "id": "P25-02-S01",
+          "text": "An interruption changes the timing of the exchange; it does not automatically remove your right to finish."
+        },
+        {
+          "id": "P25-02-S02",
+          "text": "First identify whether you still want to complete the point."
+        },
+        {
+          "id": "P25-02-S03",
+          "text": "Then use a short bridge to return."
+        },
+        {
+          "id": "P25-02-S04",
+          "text": "You can say I want to finish that thought, or the point I was making is."
+        },
+        {
+          "id": "P25-02-S05",
+          "text": "You do not need to recreate the exact sentence you were saying."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What was your bookmark?"
+      }
+    },
+    {
+      "id": "P25-03",
+      "type": "explain",
+      "narration": "You are halfway through a point when someone speaks over you. By the time they finish, you feel you have lost your place and your permission to speak.\n\nPeople interrupt for different reasons, including enthusiasm, habit, urgency or disregard. You do not have to solve the motive before choosing a response. You can welcome some overlaps and set boundaries around others. Your preference about sentence completion is also legitimate and can be stated directly.\n\nWhat if I cannot remember my original sentence?\n\nReturn to the main meaning rather than the exact sentence. A bookmark such as delivery timing or my main concern gives you a place to begin again. You can say the important point is and continue in new words. If the thought is genuinely gone, you can choose to return later. That is a practical adjustment, not proof that an interruption has taken away your ability to contribute.",
+      "learningPurpose": "Keep a bookmark for your point",
+      "segments": [
+        {
+          "id": "P25-03-S01",
+          "text": "You are halfway through a point when someone speaks over you."
+        },
+        {
+          "id": "P25-03-S02",
+          "text": "By the time they finish, you feel you have lost your place and your permission to speak."
+        },
+        {
+          "id": "P25-03-S03",
+          "text": "People interrupt for different reasons, including enthusiasm, habit, urgency or disregard."
+        },
+        {
+          "id": "P25-03-S04",
+          "text": "You do not have to solve the motive before choosing a response."
+        },
+        {
+          "id": "P25-03-S05",
+          "text": "You can welcome some overlaps and set boundaries around others."
+        },
+        {
+          "id": "P25-03-S06",
+          "text": "Your preference about sentence completion is also legitimate and can be stated directly."
+        },
+        {
+          "id": "P25-03-S07",
+          "text": "What if I cannot remember my original sentence?"
+        },
+        {
+          "id": "P25-03-S08",
+          "text": "Return to the main meaning rather than the exact sentence."
+        },
+        {
+          "id": "P25-03-S09",
+          "text": "A bookmark such as delivery timing or my main concern gives you a place to begin again."
+        },
+        {
+          "id": "P25-03-S10",
+          "text": "You can say the important point is and continue in new words."
+        },
+        {
+          "id": "P25-03-S11",
+          "text": "If the thought is genuinely gone, you can choose to return later."
+        },
+        {
+          "id": "P25-03-S12",
+          "text": "That is a practical adjustment, not proof that an interruption has taken away your ability to contribute."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Point bookmark",
+          "Interruption",
+          "Return bridge"
+        ],
+        "altText": "Three parts to distinguish: Point bookmark, Interruption, Return bridge. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What kind of interruption was it?"
+      }
+    },
+    {
+      "id": "P25-04",
+      "type": "visual",
+      "narration": "A bookmark marks the idea you want to return to. You can reopen the page at the main point rather than beginning the whole book again.",
+      "learningPurpose": "Keep a bookmark for your point",
+      "segments": [
+        {
+          "id": "P25-04-S01",
+          "text": "A bookmark marks the idea you want to return to."
+        },
+        {
+          "id": "P25-04-S02",
+          "text": "You can reopen the page at the main point rather than beginning the whole book again."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Bookmark",
+        "labels": [
+          "Place interrupted",
+          "Point still available"
+        ],
+        "altText": "A bookmark marks the idea you want to return to. You can reopen the page at the main point rather than beginning the whole book again."
+      }
+    },
+    {
+      "id": "P25-05",
+      "type": "contrast",
+      "narration": "Lost place: They spoke, so my chance is gone. Bridge: Before we move on, I want to finish one point about timing. That names both your intention and the topic. Now consider a short check. What can help after an interruption? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Choose whether to return",
+      "segments": [
+        {
+          "id": "P25-05-S01",
+          "text": "Lost place: They spoke, so my chance is gone."
+        },
+        {
+          "id": "P25-05-S02",
+          "text": "Bridge: Before we move on, I want to finish one point about timing."
+        },
+        {
+          "id": "P25-05-S03",
+          "text": "That names both your intention and the topic."
+        },
+        {
+          "id": "P25-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P25-05-S05",
+          "text": "What can help after an interruption?"
+        },
+        {
+          "id": "P25-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What can help after an interruption?",
+        "labels": [
+          "Recreate every exact word.",
+          "Assume your chance has gone.",
+          "Use a short topic bookmark and a return phrase if you want to finish."
+        ],
+        "altText": "Three options: Recreate every exact word. / Assume your chance has gone. / Use a short topic bookmark and a return phrase if you want to finish."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What can help after an interruption?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Recreate every exact word.",
+            "feedback": "Consider the distinction again. A bookmark preserves the idea while wording can change. You can return now, later, or choose not to continue."
+          },
+          {
+            "id": "B",
+            "text": "Assume your chance has gone.",
+            "feedback": "Consider the distinction again. A bookmark preserves the idea while wording can change. You can return now, later, or choose not to continue."
+          },
+          {
+            "id": "C",
+            "text": "Use a short topic bookmark and a return phrase if you want to finish.",
+            "feedback": "Yes. A bookmark preserves the idea while wording can change. You can return now, later, or choose not to continue."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P25-06",
+      "type": "reflection",
+      "narration": "Choose a real message and give it a three-word bookmark. Practise two return phrases. Use wording that sounds like you, not a line intended to dominate the room.",
+      "learningPurpose": "Choose whether to return",
+      "segments": [
+        {
+          "id": "P25-06-S01",
+          "text": "Choose a real message and give it a three-word bookmark."
+        },
+        {
+          "id": "P25-06-S02",
+          "text": "Practise two return phrases."
+        },
+        {
+          "id": "P25-06-S03",
+          "text": "Use wording that sounds like you, not a line intended to dominate the room."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Choose a real message and give it a three-word bookmark. Practise two return phrases. Use wording that sounds like you, not a line intended to dominate the room.",
+        "questions": [
+          "What was your bookmark?",
+          "What kind of interruption was it?",
+          "Which return phrase preserved your meaning?"
+        ]
+      }
+    },
+    {
+      "id": "P25-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Begin an update on a familiar plan, keeping a short topic bookmark. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Choose whether to return",
+      "segments": [
+        {
+          "id": "P25-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P25-07-S02",
+          "text": "Begin an update on a familiar plan, keeping a short topic bookmark."
+        },
+        {
+          "id": "P25-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P25-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P25-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Begin an update on a familiar plan, keeping a short topic bookmark.",
+        "reflectionQuestions": [
+          "What was your bookmark?",
+          "What kind of interruption was it?",
+          "Which return phrase preserved your meaning?"
+        ]
+      }
+    },
+    {
+      "id": "P25-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. After this prepared interruption, return if you want: That reminds me of something else. Use a short bridge such as: Before we move on, I want to finish one point about the plan. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Choose whether to return",
+      "segments": [
+        {
+          "id": "P25-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P25-08-S02",
+          "text": "After this prepared interruption, return if you want: That reminds me of something else."
+        },
+        {
+          "id": "P25-08-S03",
+          "text": "Use a short bridge such as: Before we move on, I want to finish one point about the plan."
+        },
+        {
+          "id": "P25-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P25-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "After this prepared interruption, return if you want: That reminds me of something else. Use a short bridge such as: Before we move on, I want to finish one point about the plan.",
+        "reflectionQuestions": [
+          "What was your bookmark?",
+          "What kind of interruption was it?",
+          "Which return phrase preserved your meaning?"
+        ]
+      }
+    },
+    {
+      "id": "P25-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Use a respectful bridge",
+      "segments": [
+        {
+          "id": "P25-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P25-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P25-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P25-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "You are halfway through a point when someone speaks over you. By the time they finish, you feel you have lost your place and your permission to speak.",
+        "partnerPrompts": [
+          "Tell me about a plan you are making.",
+          "Prepared interruption: That reminds me of something else. Return to your point.",
+          "Prepared interruption: Let me finish that sentence for you. State your preference if you wish."
+        ]
+      }
+    },
+    {
+      "id": "P25-10",
+      "type": "review",
+      "narration": "You are not responsible for making yourself impossible to interrupt. A clear voice and posture are options, while the other person remains responsible for their behaviour. Sometimes a private follow-up is the best route. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Use a respectful bridge",
+      "segments": [
+        {
+          "id": "P25-10-S01",
+          "text": "You are not responsible for making yourself impossible to interrupt."
+        },
+        {
+          "id": "P25-10-S02",
+          "text": "A clear voice and posture are options, while the other person remains responsible for their behaviour."
+        },
+        {
+          "id": "P25-10-S03",
+          "text": "Sometimes a private follow-up is the best route."
+        },
+        {
+          "id": "P25-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P25-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What was your bookmark?",
+          "What kind of interruption was it?",
+          "Which return phrase preserved your meaning?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P25-11",
+      "type": "transfer",
+      "narration": "Use a short bookmark before a meeting contribution. If interrupted, decide whether to return now or later. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Use a respectful bridge",
+      "segments": [
+        {
+          "id": "P25-11-S01",
+          "text": "Use a short bookmark before a meeting contribution."
+        },
+        {
+          "id": "P25-11-S02",
+          "text": "If interrupted, decide whether to return now or later."
+        },
+        {
+          "id": "P25-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P25-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P25-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Use a short bookmark before a meeting contribution. If interrupted, decide whether to return now or later.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P25-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Use a respectful bridge",
+      "segments": [
+        {
+          "id": "P25-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P25-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P25-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P25-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P25-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Which return phrase preserved your meaning?"
+      }
+    }
+  ]
+}

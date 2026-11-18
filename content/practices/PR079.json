@@ -1,0 +1,32 @@
+{
+  "id": "PR079",
+  "title": "A wrong bill",
+  "type": "roleplay",
+  "contentVersion": "1.0.0-draft",
+  "toolIds": [],
+  "scenario": "Identify a detail and ask for it to be checked.",
+  "partnerRole": "A patient ordinary conversation partner appropriate to this scenario.",
+  "opening": "Let us practise a wrong bill. What would you like to tell me or ask?",
+  "scriptedPrompts": [
+    "Which part of the bill would you like checked?",
+    "What did you expect instead?",
+    "How would you ask us to resolve it?",
+    "Take a moment to add or clarify something you want understood.",
+    "Make one relevant request or ask a follow-up of your choice.",
+    "Close the exchange in a way that fits your purpose."
+  ],
+  "fixedDialogueDisclosure": "These prompts are prepared; they do not respond to your answer.",
+  "steps": [
+    "Choose a purpose and optional tool.",
+    "Read the scenario and listen to the opening.",
+    "Complete up to six learner turns.",
+    "Review one useful moment.",
+    "Try a short transfer message.",
+    "Save an observation."
+  ],
+  "reflection": [
+    "What did you want to communicate?",
+    "What helped participation?",
+    "What would you choose next?"
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "B10",
+  "title": "Comfortable Vocal Projection — Let Your Voice Reach",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Match audibility to listener and setting",
+    "Keep the message ending available",
+    "Distinguish projection from shouting"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B10-focused-v1",
+  "sections": [
+    {
+      "id": "B10-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Comfortable Vocal Projection — Let Your Voice Reach. You begin a contribution clearly, but its ending becomes hard for someone across a quiet room to hear.\n\nWe will match audibility to listener and setting, keep the message ending available, and distinguish projection from shouting. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Match audibility to listener and setting",
+      "segments": [
+        {
+          "id": "B10-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B10-01-S02",
+          "text": "Today we are exploring Comfortable Vocal Projection — Let Your Voice Reach."
+        },
+        {
+          "id": "B10-01-S03",
+          "text": "You begin a contribution clearly, but its ending becomes hard for someone across a quiet room to hear."
+        },
+        {
+          "id": "B10-01-S04",
+          "text": "We will match audibility to listener and setting, keep the message ending available, and distinguish projection from shouting."
+        },
+        {
+          "id": "B10-01-S05",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B10-01-S06",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B10-01-S07",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B10-01-S08",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B10-01-S09",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Match audibility to listener and setting",
+          "Keep the message ending available",
+          "Distinguish projection from shouting"
+        ],
+        "altText": "Nearby listener -> Farther quiet-room listener -> Whole message audible"
+      }
+    },
+    {
+      "id": "B10-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Projection means allowing the voice to reach the intended listener with suitable audibility. It is different from shouting or choosing an artificially deep voice. Room conditions and recording gain can change what you hear, so demonstrations keep the microphone setup constant for a fair comparison.\n\nYour voice can reach a listener with an amount of volume that fits the setting. Today we will compare a nearby conversation, someone farther away in a quiet room and a small group. The aim is to keep the whole message available, including the ending. You can remain warm and natural while exploring a more audible voice.\n\nNotice the distinction: The listener and setting guide audibility. Distance, background noise and available amplification matter; maximum loudness is not the task. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Match audibility to listener and setting",
+      "segments": [
+        {
+          "id": "B10-02-S01",
+          "text": "Projection means allowing the voice to reach the intended listener with suitable audibility."
+        },
+        {
+          "id": "B10-02-S02",
+          "text": "It is different from shouting or choosing an artificially deep voice."
+        },
+        {
+          "id": "B10-02-S03",
+          "text": "Room conditions and recording gain can change what you hear, so demonstrations keep the microphone setup constant for a fair comparison."
+        },
+        {
+          "id": "B10-02-S04",
+          "text": "Your voice can reach a listener with an amount of volume that fits the setting."
+        },
+        {
+          "id": "B10-02-S05",
+          "text": "Today we will compare a nearby conversation, someone farther away in a quiet room and a small group."
+        },
+        {
+          "id": "B10-02-S06",
+          "text": "The aim is to keep the whole message available, including the ending."
+        },
+        {
+          "id": "B10-02-S07",
+          "text": "You can remain warm and natural while exploring a more audible voice."
+        },
+        {
+          "id": "B10-02-S08",
+          "text": "Notice the distinction: The listener and setting guide audibility."
+        },
+        {
+          "id": "B10-02-S09",
+          "text": "Distance, background noise and available amplification matter; maximum loudness is not the task."
+        },
+        {
+          "id": "B10-02-S10",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B10-02-S11",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "Nearby listener",
+          "Farther quiet-room listener",
+          "Whole message audible"
+        ],
+        "altText": "Nearby listener -> Farther quiet-room listener -> Whole message audible"
+      }
+    },
+    {
+      "id": "B10-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: I would like to add something. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Audibility, physical effort and whether the ending stays present. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Keep the message ending available",
+      "segments": [
+        {
+          "id": "B10-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B10-03-S02",
+          "text": "We will use this message: I would like to add something."
+        },
+        {
+          "id": "B10-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B10-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B10-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B10-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B10-03-S07",
+          "text": "Audibility, physical effort and whether the ending stays present."
+        },
+        {
+          "id": "B10-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B10-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "Nearby listener",
+          "Farther quiet-room listener",
+          "Whole message audible"
+        ],
+        "altText": "Model a phrase for near and farther quiet-room listeners. Keep recording distance constant during demonstration comparisons so microphone gain does not fabricate the effect. Show listener distance, not a loudness score. Avoid shouting, squeezing, forced pitch changes or competing with noise; a microphone is an option in a large space."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B10-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Say a phrase to an imagined nearby listener. Next: Try it for a listener farther away in a quiet room at a comfortable volume. Then: Use it in a short introduction or meeting contribution.\n\nUse these familiar phrases one at a time: I would like to add something. Here is the update from our team. Can everyone hear the last part? Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Keep the message ending available",
+      "segments": [
+        {
+          "id": "B10-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B10-04-S02",
+          "text": "First: Say a phrase to an imagined nearby listener."
+        },
+        {
+          "id": "B10-04-S03",
+          "text": "Next: Try it for a listener farther away in a quiet room at a comfortable volume."
+        },
+        {
+          "id": "B10-04-S04",
+          "text": "Then: Use it in a short introduction or meeting contribution."
+        },
+        {
+          "id": "B10-04-S05",
+          "text": "Use these familiar phrases one at a time: I would like to add something."
+        },
+        {
+          "id": "B10-04-S06",
+          "text": "Here is the update from our team."
+        },
+        {
+          "id": "B10-04-S07",
+          "text": "Can everyone hear the last part?"
+        },
+        {
+          "id": "B10-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B10-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B10-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B10-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B10-try-1",
+            "instruction": "Say a phrase to an imagined nearby listener.",
+            "phrase": "I would like to add something.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B10-try-2",
+            "instruction": "Try it for a listener farther away in a quiet room at a comfortable volume.",
+            "phrase": "Here is the update from our team.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B10-try-3",
+            "instruction": "Use it in a short introduction or meeting contribution.",
+            "phrase": "Can everyone hear the last part?",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B10-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. What is comfortable projection? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Audibility, physical effort and whether the ending stays present. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Keep the message ending available",
+      "segments": [
+        {
+          "id": "B10-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B10-05-S02",
+          "text": "What is comfortable projection?"
+        },
+        {
+          "id": "B10-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B10-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B10-05-S05",
+          "text": "After the check, notice one observation from your attempt: Audibility, physical effort and whether the ending stays present."
+        },
+        {
+          "id": "B10-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B10-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is comfortable projection?",
+        "labels": [
+          "Competing with any noise by shouting.",
+          "Using suitable audibility for the listener without extra strain.",
+          "Keeping maximum loudness throughout every conversation."
+        ],
+        "altText": "Nearby listener -> Farther quiet-room listener -> Whole message audible"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is comfortable projection?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Competing with any noise by shouting.",
+            "feedback": "Consider the distinction again. The listener and setting guide audibility. Distance, background noise and available amplification matter; maximum loudness is not the task."
+          },
+          {
+            "id": "B",
+            "text": "Using suitable audibility for the listener without extra strain.",
+            "feedback": "Yes. The listener and setting guide audibility. Distance, background noise and available amplification matter; maximum loudness is not the task."
+          },
+          {
+            "id": "C",
+            "text": "Keeping maximum loudness throughout every conversation.",
+            "feedback": "Consider the distinction again. The listener and setting guide audibility. Distance, background noise and available amplification matter; maximum loudness is not the task."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "B10-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Distinguish projection from shouting",
+      "segments": [
+        {
+          "id": "B10-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B10-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B10-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B10-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B10-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B10-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B10-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Audibility, physical effort and whether the ending stays present.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B10-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Distinguish projection from shouting",
+      "segments": [
+        {
+          "id": "B10-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B10-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B10-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B10-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B10-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B10-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Audibility, physical effort and whether the ending stays present. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Distinguish projection from shouting",
+      "segments": [
+        {
+          "id": "B10-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B10-08-S02",
+          "text": "Here is the feature we explored: Audibility, physical effort and whether the ending stays present."
+        },
+        {
+          "id": "B10-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B10-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B10-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B10-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B10-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B10-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B10-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B10-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "Nearby listener",
+          "Farther quiet-room listener",
+          "Whole message audible"
+        ],
+        "altText": "Nearby listener -> Farther quiet-room listener -> Whole message audible"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore a clearly audible voice suited to the listener and setting.",
+    "teachingScript": "Your voice can reach a listener with an amount of volume that fits the setting. Today we will compare a nearby conversation, someone farther away in a quiet room and a small group. The aim is to keep the whole message available, including the ending. You can remain warm and natural while exploring a more audible voice.",
+    "demonstrationProduction": "Model a phrase for near and farther quiet-room listeners. Keep recording distance constant during demonstration comparisons so microphone gain does not fabricate the effect. Show listener distance, not a loudness score. Avoid shouting, squeezing, forced pitch changes or competing with noise; a microphone is an option in a large space.",
+    "guidedSteps": [
+      "Say a phrase to an imagined nearby listener.",
+      "Try it for a listener farther away in a quiet room at a comfortable volume.",
+      "Use it in a short introduction or meeting contribution."
+    ],
+    "phrases": [
+      "I would like to add something.",
+      "Here is the update from our team.",
+      "Can everyone hear the last part?"
+    ],
+    "observation": "Audibility, physical effort and whether the ending stays present.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "id": "B09",
+  "title": "Expressive Speech — Stress and Intonation",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Hear how emphasis changes meaning",
+    "Choose what matters in a sentence",
+    "Use comfortable melody in your own voice"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B09-focused-v1",
+  "sections": [
+    {
+      "id": "B09-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Expressive Speech — Stress and Intonation. You say the right words, but the part you care about is lost because every word receives the same weight.\n\nWe will hear how emphasis changes meaning, choose what matters in a sentence, and use comfortable melody in your own voice. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Hear how emphasis changes meaning",
+      "segments": [
+        {
+          "id": "B09-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B09-01-S02",
+          "text": "Today we are exploring Expressive Speech — Stress and Intonation."
+        },
+        {
+          "id": "B09-01-S03",
+          "text": "You say the right words, but the part you care about is lost because every word receives the same weight."
+        },
+        {
+          "id": "B09-01-S04",
+          "text": "We will hear how emphasis changes meaning, choose what matters in a sentence, and use comfortable melody in your own voice."
+        },
+        {
+          "id": "B09-01-S05",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B09-01-S06",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B09-01-S07",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B09-01-S08",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B09-01-S09",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Hear how emphasis changes meaning",
+          "Choose what matters in a sentence",
+          "Use comfortable melody in your own voice"
+        ],
+        "altText": "Same words -> Different emphasis -> Intended meaning"
+      }
+    },
+    {
+      "id": "B09-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Stress is the emphasis given to a word or part of a word. Intonation is the pitch movement across an utterance. Both can express meaning. You can explore a small contrast comfortably, including at a slower pace; the task is not to perform a dramatic voice.\n\nThe same words can communicate different meanings through emphasis and melody. We will explore expression without turning your voice into an impression of somebody else. Start from what you mean. Let the important part receive attention, then return to a natural explanation in your own voice. Expression is available at a slower pace too.\n\nNotice the distinction: Meaning guides the choice. Expression does not require imitating another speaker or maximizing pitch movement. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Hear how emphasis changes meaning",
+      "segments": [
+        {
+          "id": "B09-02-S01",
+          "text": "Stress is the emphasis given to a word or part of a word."
+        },
+        {
+          "id": "B09-02-S02",
+          "text": "Intonation is the pitch movement across an utterance."
+        },
+        {
+          "id": "B09-02-S03",
+          "text": "Both can express meaning."
+        },
+        {
+          "id": "B09-02-S04",
+          "text": "You can explore a small contrast comfortably, including at a slower pace; the task is not to perform a dramatic voice."
+        },
+        {
+          "id": "B09-02-S05",
+          "text": "The same words can communicate different meanings through emphasis and melody."
+        },
+        {
+          "id": "B09-02-S06",
+          "text": "We will explore expression without turning your voice into an impression of somebody else."
+        },
+        {
+          "id": "B09-02-S07",
+          "text": "Start from what you mean."
+        },
+        {
+          "id": "B09-02-S08",
+          "text": "Let the important part receive attention, then return to a natural explanation in your own voice."
+        },
+        {
+          "id": "B09-02-S09",
+          "text": "Expression is available at a slower pace too."
+        },
+        {
+          "id": "B09-02-S10",
+          "text": "Notice the distinction: Meaning guides the choice."
+        },
+        {
+          "id": "B09-02-S11",
+          "text": "Expression does not require imitating another speaker or maximizing pitch movement."
+        },
+        {
+          "id": "B09-02-S12",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B09-02-S13",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "Same words",
+          "Different emphasis",
+          "Intended meaning"
+        ],
+        "altText": "Same words -> Different emphasis -> Intended meaning"
+      }
+    },
+    {
+      "id": "B09-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: I wanted the blue one. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Meaning, expression, comfort and whether the listener can hear the intended emphasis. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Choose what matters in a sentence",
+      "segments": [
+        {
+          "id": "B09-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B09-03-S02",
+          "text": "We will use this message: I wanted the blue one."
+        },
+        {
+          "id": "B09-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B09-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B09-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B09-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B09-03-S07",
+          "text": "Meaning, expression, comfort and whether the listener can hear the intended emphasis."
+        },
+        {
+          "id": "B09-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B09-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "Same words",
+          "Different emphasis",
+          "Intended meaning"
+        ],
+        "altText": "Model I wanted the blue one with emphasis on I, wanted and blue. Draw three simple emphasis highlights and pitch contours. Do not prescribe a lower pitch as more authoritative. Keep pitch comfortable; compare intention rather than maximal vocal range."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B09-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Choose what matters in a short sentence. Next: Say it with emphasis that matches the intention. Then: Use natural melody in a short story or explanation.\n\nUse these familiar phrases one at a time: I wanted the blue one. Are you coming with us? That was the part I enjoyed most. Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Choose what matters in a sentence",
+      "segments": [
+        {
+          "id": "B09-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B09-04-S02",
+          "text": "First: Choose what matters in a short sentence."
+        },
+        {
+          "id": "B09-04-S03",
+          "text": "Next: Say it with emphasis that matches the intention."
+        },
+        {
+          "id": "B09-04-S04",
+          "text": "Then: Use natural melody in a short story or explanation."
+        },
+        {
+          "id": "B09-04-S05",
+          "text": "Use these familiar phrases one at a time: I wanted the blue one."
+        },
+        {
+          "id": "B09-04-S06",
+          "text": "Are you coming with us?"
+        },
+        {
+          "id": "B09-04-S07",
+          "text": "That was the part I enjoyed most."
+        },
+        {
+          "id": "B09-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B09-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B09-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B09-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B09-try-1",
+            "instruction": "Choose what matters in a short sentence.",
+            "phrase": "I wanted the blue one.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B09-try-2",
+            "instruction": "Say it with emphasis that matches the intention.",
+            "phrase": "Are you coming with us?",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B09-try-3",
+            "instruction": "Use natural melody in a short story or explanation.",
+            "phrase": "That was the part I enjoyed most.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B09-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. What should guide emphasis? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Meaning, expression, comfort and whether the listener can hear the intended emphasis. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Choose what matters in a sentence",
+      "segments": [
+        {
+          "id": "B09-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B09-05-S02",
+          "text": "What should guide emphasis?"
+        },
+        {
+          "id": "B09-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B09-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B09-05-S05",
+          "text": "After the check, notice one observation from your attempt: Meaning, expression, comfort and whether the listener can hear the intended emphasis."
+        },
+        {
+          "id": "B09-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B09-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What should guide emphasis?",
+        "labels": [
+          "The meaning you want the listener to hear.",
+          "A requirement to sound lower and more authoritative.",
+          "The widest pitch range possible."
+        ],
+        "altText": "Same words -> Different emphasis -> Intended meaning"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What should guide emphasis?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The meaning you want the listener to hear.",
+            "feedback": "Yes. Meaning guides the choice. Expression does not require imitating another speaker or maximizing pitch movement."
+          },
+          {
+            "id": "B",
+            "text": "A requirement to sound lower and more authoritative.",
+            "feedback": "Consider the distinction again. Meaning guides the choice. Expression does not require imitating another speaker or maximizing pitch movement."
+          },
+          {
+            "id": "C",
+            "text": "The widest pitch range possible.",
+            "feedback": "Consider the distinction again. Meaning guides the choice. Expression does not require imitating another speaker or maximizing pitch movement."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "B09-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Use comfortable melody in your own voice",
+      "segments": [
+        {
+          "id": "B09-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B09-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B09-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B09-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B09-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B09-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B09-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Meaning, expression, comfort and whether the listener can hear the intended emphasis.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B09-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Use comfortable melody in your own voice",
+      "segments": [
+        {
+          "id": "B09-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B09-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B09-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B09-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B09-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B09-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Meaning, expression, comfort and whether the listener can hear the intended emphasis. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Use comfortable melody in your own voice",
+      "segments": [
+        {
+          "id": "B09-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B09-08-S02",
+          "text": "Here is the feature we explored: Meaning, expression, comfort and whether the listener can hear the intended emphasis."
+        },
+        {
+          "id": "B09-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B09-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B09-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B09-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B09-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B09-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B09-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B09-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "Same words",
+          "Different emphasis",
+          "Intended meaning"
+        ],
+        "altText": "Same words -> Different emphasis -> Intended meaning"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore how emphasis and pitch movement carry meaning.",
+    "teachingScript": "The same words can communicate different meanings through emphasis and melody. We will explore expression without turning your voice into an impression of somebody else. Start from what you mean. Let the important part receive attention, then return to a natural explanation in your own voice. Expression is available at a slower pace too.",
+    "demonstrationProduction": "Model I wanted the blue one with emphasis on I, wanted and blue. Draw three simple emphasis highlights and pitch contours. Do not prescribe a lower pitch as more authoritative. Keep pitch comfortable; compare intention rather than maximal vocal range.",
+    "guidedSteps": [
+      "Choose what matters in a short sentence.",
+      "Say it with emphasis that matches the intention.",
+      "Use natural melody in a short story or explanation."
+    ],
+    "phrases": [
+      "I wanted the blue one.",
+      "Are you coming with us?",
+      "That was the part I enjoyed most."
+    ],
+    "observation": "Meaning, expression, comfort and whether the listener can hear the intended emphasis.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

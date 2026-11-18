@@ -1,0 +1,828 @@
+{
+  "version": "1.0.0-review",
+  "status": "authored_review_drafts",
+  "approvedForCommercialRelease": false,
+  "count": 40,
+  "cards": [
+    {
+      "id": "P01-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P01",
+      "activityId": "PR052",
+      "compatibleActivityIds": [
+        "PR052"
+      ],
+      "instructionSource": "P01-07",
+      "purpose": "Try a specific observation",
+      "beforeAttempt": "Keep the same topic. Before speaking, you may use: For this attempt, I am sharing one interest. Then give attention to what you want to share.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What label did you notice?",
+      "reflectionQuestions": [
+        "What label did you notice?",
+        "Did protecting that label take attention?",
+        "What could you describe more specifically?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P02-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P02",
+      "activityId": "PR032",
+      "compatibleActivityIds": [
+        "PR032"
+      ],
+      "instructionSource": "P02-07",
+      "purpose": "Try a respectful small request",
+      "beforeAttempt": "Ask a second ordinary question about the meeting. Allow yourself to be heard without first hiding every imperfection.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What were you trying to hide?",
+      "reflectionQuestions": [
+        "What were you trying to hide?",
+        "Which phrase gave you useful permission?",
+        "What is a respectful small action you are willing to try?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P03-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P03",
+      "activityId": "PR033",
+      "compatibleActivityIds": [
+        "PR033"
+      ],
+      "instructionSource": "P03-07",
+      "purpose": "Share one useful piece",
+      "beforeAttempt": "Explain the same update to a colleague who needs one practical fact. Make that useful fact the task.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Were you sharing or proving?",
+      "reflectionQuestions": [
+        "Were you sharing or proving?",
+        "What did your listener actually need?",
+        "What happened when the task became smaller?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P04-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P04",
+      "activityId": "PR035",
+      "compatibleActivityIds": [
+        "PR035"
+      ],
+      "instructionSource": "P04-07",
+      "purpose": "Explore lighter control",
+      "beforeAttempt": "Tell the same story with lighter supervision. Allow the first ordinary wording that fits your meaning; keep respect and clarity.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What were you supervising?",
+      "reflectionQuestions": [
+        "What were you supervising?",
+        "What did you still care about?",
+        "Did lighter attention make any difference to the experience?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P05-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P05",
+      "activityId": "PR055",
+      "compatibleActivityIds": [
+        "PR055"
+      ],
+      "instructionSource": "P05-07",
+      "purpose": "Choose a supportive next step",
+      "beforeAttempt": "Before answering the next question, use a believable supportive sentence if useful. Then answer: What is one thing you would like to do next? Do not create an awkward moment on purpose.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What information was hidden inside the criticism?",
+      "reflectionQuestions": [
+        "What information was hidden inside the criticism?",
+        "What response would help the next moment?",
+        "Which supportive sentence feels believable?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P06-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P06",
+      "activityId": "PR052",
+      "compatibleActivityIds": [
+        "PR052"
+      ],
+      "instructionSource": "P06-07",
+      "purpose": "Continue with one meaningful sentence",
+      "beforeAttempt": "Notice any feeling or urge to hide without making a conclusion about your whole self. Say one more meaningful sentence; the feeling does not need to disappear.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What was the event?",
+      "reflectionQuestions": [
+        "What was the event?",
+        "What did the feeling seem to say about you?",
+        "Which part is known, and which part remains an interpretation?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P07-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P07",
+      "activityId": "PR035",
+      "compatibleActivityIds": [
+        "PR035"
+      ],
+      "instructionSource": "P07-07",
+      "purpose": "Choose comfortable expression",
+      "beforeAttempt": "Choose a welcome, a curious question or a sincere thank-you. Say it with the meaning you want to express, without grading your whole voice.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did your voice communicate?",
+      "reflectionQuestions": [
+        "What did your voice communicate?",
+        "Which reaction was about unfamiliarity?",
+        "What one feature would you like to explore gently?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P08-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P08",
+      "activityId": "PR047",
+      "compatibleActivityIds": [
+        "PR047"
+      ],
+      "instructionSource": "P08-07",
+      "purpose": "Return attention to the exchange",
+      "beforeAttempt": "Answer again, giving attention to one detail you want the listener to understand. Do not keep checking whether the watcher is gone.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did supervision ask you to do?",
+      "reflectionQuestions": [
+        "What did supervision ask you to do?",
+        "What brought attention outward?",
+        "Did noticing become another task?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P09-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P09",
+      "activityId": "PR059",
+      "compatibleActivityIds": [
+        "PR059"
+      ],
+      "instructionSource": "P09-07",
+      "purpose": "Return to one meaningful action",
+      "beforeAttempt": "Share one more detail. If a speech thought appears, you may notice it without opening an argument with it, then return to the detail.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Which thought asked for a response?",
+      "reflectionQuestions": [
+        "Which thought asked for a response?",
+        "What response did you usually give?",
+        "What happened when you returned to the message?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P10-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P10",
+      "activityId": "PR047",
+      "compatibleActivityIds": [
+        "PR047"
+      ],
+      "instructionSource": "P10-07",
+      "purpose": "Respond to the current message",
+      "beforeAttempt": "Hear the same message once more, then respond to the detail about the quiet park. Return to that meaning if attention drifts; no perfect-focus requirement.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What detail helped you return?",
+      "reflectionQuestions": [
+        "What detail helped you return?",
+        "Did you pretend or clarify?",
+        "What did you discover about the other person?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P11-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P11",
+      "activityId": "PR035",
+      "compatibleActivityIds": [
+        "PR035"
+      ],
+      "instructionSource": "P11-07",
+      "purpose": "Respond from what you heard",
+      "beforeAttempt": "Listen again for what mattered to the speaker, rather than planning a perfect answer. Give one relevant reply or question. There is no fluency comparison.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "When did rehearsal begin?",
+      "reflectionQuestions": [
+        "When did rehearsal begin?",
+        "What became clearer when you listened?",
+        "Did you allow a pause before replying?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P12-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P12",
+      "activityId": "PR034",
+      "compatibleActivityIds": [
+        "PR034"
+      ],
+      "instructionSource": "P12-07",
+      "purpose": "Compare a forecast with an observation",
+      "beforeAttempt": "Try another short request and describe what actually happened. Include uncertainty and difficulty; do not force the observation to disprove the prediction.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did you know before speaking?",
+      "reflectionQuestions": [
+        "What did you know before speaking?",
+        "What had you only predicted?",
+        "What was different, even slightly, from the forecast?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P13-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P13",
+      "activityId": "PR052",
+      "compatibleActivityIds": [
+        "PR052"
+      ],
+      "instructionSource": "P13-07",
+      "purpose": "Try a flexible permission",
+      "beforeAttempt": "Answer again with one chosen permission: a pause, clarification, ordinary vocabulary or a shorter answer. Keep the underlying communication value.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Which rule made the task narrow?",
+      "reflectionQuestions": [
+        "Which rule made the task narrow?",
+        "What value did you want to keep?",
+        "What changed when you allowed another option?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P14-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P14",
+      "activityId": "PR053",
+      "compatibleActivityIds": [
+        "PR053"
+      ],
+      "instructionSource": "P14-07",
+      "purpose": "Choose an action without obeying every impulse",
+      "beforeAttempt": "Continue the message with the feeling allowed to be present. If body attention is unhelpful, orient to the room and the meaning instead. No requirement to find an emotion.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What was directly felt?",
+      "reflectionQuestions": [
+        "What was directly felt?",
+        "What interpretation arrived?",
+        "What could you choose while both were present?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P15-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P15",
+      "activityId": "PR055",
+      "compatibleActivityIds": [
+        "PR055"
+      ],
+      "instructionSource": "P15-07",
+      "purpose": "Choose a small next action",
+      "beforeAttempt": "Say one useful next detail or request. A constructive next step and frustration can coexist; you need not manufacture a positive feeling.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What mattered underneath the disappointment?",
+      "reflectionQuestions": [
+        "What mattered underneath the disappointment?",
+        "What conclusion became larger than the facts?",
+        "What response would support the next day?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P16-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P16",
+      "activityId": "PR050",
+      "compatibleActivityIds": [
+        "PR050"
+      ],
+      "instructionSource": "P16-07",
+      "purpose": "Make a respectful request",
+      "beforeAttempt": "Practise one respectful request, such as: I would like a moment to finish this point. Ask about timing if needed and allow the listener a real choice.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What expectation was stated?",
+      "reflectionQuestions": [
+        "What expectation was stated?",
+        "What did you assume?",
+        "What need could you express respectfully?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P17-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P17",
+      "activityId": "PR055",
+      "compatibleActivityIds": [
+        "PR055"
+      ],
+      "instructionSource": "P17-07",
+      "purpose": "Stop reviewing when the task is done",
+      "beforeAttempt": "Try the same process with only the one experiment you chose. Make another short map, then stop the review rather than search for a complete cause.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Did the observation lead to a choice?",
+      "reflectionQuestions": [
+        "Did the observation lead to a choice?",
+        "When did analysis stop adding useful information?",
+        "What one pattern is worth exploring?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P18-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P18",
+      "activityId": "PR052",
+      "compatibleActivityIds": [
+        "PR052"
+      ],
+      "instructionSource": "P18-07",
+      "purpose": "Let the next sentence develop",
+      "beforeAttempt": "Start another update from one useful sentence, then add the next piece when it becomes available. A pause or clarification remains allowed.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did the first sentence need to do?",
+      "reflectionQuestions": [
+        "What did the first sentence need to do?",
+        "Did you try to prepare the whole answer?",
+        "How did the next sentence emerge?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P19-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P19",
+      "activityId": "PR033",
+      "compatibleActivityIds": [
+        "PR033"
+      ],
+      "instructionSource": "P19-07",
+      "purpose": "Adapt the structure to the listener",
+      "beforeAttempt": "Explain it again in manageable meaning pieces. Use only what this listener needs; do not announce or police a rigid formula.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Where did one idea end?",
+      "reflectionQuestions": [
+        "Where did one idea end?",
+        "Which pieces did the listener need?",
+        "Did the structure help or crowd the task?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P20-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P20",
+      "activityId": "PR043",
+      "compatibleActivityIds": [
+        "PR043"
+      ],
+      "instructionSource": "P20-07",
+      "purpose": "Allow flexible wording",
+      "beforeAttempt": "Answer this prepared follow-up: What would change if your plan moved to tomorrow? Allow different wording while keeping the useful meaning.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What preparation was useful?",
+      "reflectionQuestions": [
+        "What preparation was useful?",
+        "What became a demand to reproduce?",
+        "Could you adapt while keeping your purpose?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P21-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P21",
+      "activityId": "PR054",
+      "compatibleActivityIds": [
+        "PR054"
+      ],
+      "instructionSource": "P21-07",
+      "purpose": "Share the main point",
+      "beforeAttempt": "Practise a time or space request you would actually use, such as: Let me think for a moment, or: Can I finish this point? No fixed number of seconds.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Where did the time pressure come from?",
+      "reflectionQuestions": [
+        "Where did the time pressure come from?",
+        "What request felt natural?",
+        "Could you make the message smaller without abandoning it?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P22-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P22",
+      "activityId": "PR032",
+      "compatibleActivityIds": [
+        "PR032"
+      ],
+      "instructionSource": "P22-07",
+      "purpose": "Choose a small voluntary variation",
+      "beforeAttempt": "Try one small voluntary variation in the same request. You can keep the support or stop the comparison; removal is not the success condition.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What function did the habit serve?",
+      "reflectionQuestions": [
+        "What function did the habit serve?",
+        "What did it cost?",
+        "What small alternative are you willing to explore?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P23-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P23",
+      "activityId": "PR051",
+      "compatibleActivityIds": [
+        "PR051"
+      ],
+      "instructionSource": "P23-07",
+      "purpose": "Preserve the point with flexible wording",
+      "beforeAttempt": "Express the same intended meaning again with a different plain wording if useful. Preserve the point rather than force one exact sound or agree when you do not mean it.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What was the parcel inside the wording?",
+      "reflectionQuestions": [
+        "What was the parcel inside the wording?",
+        "Did a change of words preserve or change it?",
+        "What helped you keep the point available?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P24-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P24",
+      "activityId": "PR048",
+      "compatibleActivityIds": [
+        "PR048"
+      ],
+      "instructionSource": "P24-07",
+      "purpose": "End a brief review",
+      "beforeAttempt": "Clarify only a detail that actually needs clarification, or add the next story detail if meaning was clear. Make one observation and end the review.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "Was meaning unclear?",
+      "reflectionQuestions": [
+        "Was meaning unclear?",
+        "What did you feel compelled to repair?",
+        "What helped you take the next conversational step?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P25-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P25",
+      "activityId": "PR048",
+      "compatibleActivityIds": [
+        "PR048"
+      ],
+      "instructionSource": "P25-07",
+      "purpose": "Use a respectful bridge",
+      "beforeAttempt": "After this prepared interruption, return if you want: That reminds me of something else. Use a short bridge such as: Before we move on, I want to finish one point about the plan.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What was your bookmark?",
+      "reflectionQuestions": [
+        "What was your bookmark?",
+        "What kind of interruption was it?",
+        "Which return phrase preserved your meaning?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P26-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P26",
+      "activityId": "PR042",
+      "compatibleActivityIds": [
+        "PR042"
+      ],
+      "instructionSource": "P26-07",
+      "purpose": "Leave an uncertain result open",
+      "beforeAttempt": "Describe it again with that one chosen difference. Save an observation, not a personal grade. Do not add speed, shouting or a cleverness test.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What variable did you change?",
+      "reflectionQuestions": [
+        "What variable did you change?",
+        "What did you actually notice?",
+        "Can you leave part of the result uncertain?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P27-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P27",
+      "activityId": "PR047",
+      "compatibleActivityIds": [
+        "PR047"
+      ],
+      "instructionSource": "P27-07",
+      "purpose": "Keep useful choices available",
+      "beforeAttempt": "Answer an equally familiar question with a lighter version only if willing. Compare usefulness and choice; your original support remains available.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did the support offer?",
+      "reflectionQuestions": [
+        "What did the support offer?",
+        "When did it become a requirement?",
+        "What amount of support would feel useful today?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P28-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P28",
+      "activityId": "PR045",
+      "compatibleActivityIds": [
+        "PR045"
+      ],
+      "instructionSource": "P28-07",
+      "purpose": "Choose a willing next step",
+      "beforeAttempt": "Make the message or first action smaller if needed, then share one concrete detail. Notice practical friction without judging the depth of your desire.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What matters beyond sounding good?",
+      "reflectionQuestions": [
+        "What matters beyond sounding good?",
+        "Where did the action become difficult?",
+        "What is a willing next step?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P29-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P29",
+      "activityId": "PR058",
+      "compatibleActivityIds": [
+        "PR058"
+      ],
+      "instructionSource": "P29-07",
+      "purpose": "Separate observed reaction from a guess",
+      "beforeAttempt": "Choose a warmer restatement, a firmer boundary, a written response or an exit for a repeated interruption. Share only as much personal information as you choose.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What did you want the listener to do?",
+      "reflectionQuestions": [
+        "What did you want the listener to do?",
+        "How much did you choose to disclose?",
+        "Which reaction was observed rather than assumed?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "P30-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "P30",
+      "activityId": "PR060",
+      "compatibleActivityIds": [
+        "PR060"
+      ],
+      "instructionSource": "P30-07",
+      "purpose": "Review and adjust your plan",
+      "beforeAttempt": "Explain your small speaking map to your future self: the situation, one support or experiment, and how you will review it without turning the week into an exam.",
+      "duringAttempt": "No coaching, grading or reminder banners while the learner speaks.",
+      "afterAttempt": "What is in your current travel kit?",
+      "reflectionQuestions": [
+        "What is in your current travel kit?",
+        "What would tell you to adjust it?",
+        "What is your next real speaking opportunity?"
+      ],
+      "repeatInstruction": "Repeat the same communication purpose with this one optional experiment. After a short attempt, save one specific observation; keep useful supports available."
+    },
+    {
+      "id": "B01-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B01",
+      "activityId": "PR001",
+      "compatibleActivityIds": [
+        "PR001"
+      ],
+      "purpose": "Explore beginning a short spoken message with comfortable outward airflow.",
+      "beforeAttempt": "Try a short familiar phrase while allowing outward airflow. Use one of these familiar phrases: I would like some water. The meeting starts tomorrow. Can I ask a question?",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Whether beginning felt held, pressured or easier; whether breath remained comfortable.",
+      "reflectionQuestions": [
+        "Whether beginning felt held, pressured or easier; whether breath remained comfortable.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B02-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B02",
+      "activityId": "PR002",
+      "compatibleActivityIds": [
+        "PR002"
+      ],
+      "purpose": "Explore a pace below your natural pace with a little gentle stretching and natural expression.",
+      "beforeAttempt": "Try a little more time and gentle stretch while preserving the meaning. Use one of these familiar phrases: I enjoyed speaking with you. Could we discuss the plan tomorrow? Here is the part that matters to me.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Pace, effort, expression and whether the message still feels like your own.",
+      "reflectionQuestions": [
+        "Pace, effort, expression and whether the message still feels like your own.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B03-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B03",
+      "activityId": "PR003",
+      "compatibleActivityIds": [
+        "PR003"
+      ],
+      "purpose": "Explore spaces that help you organise meaning and continue comfortably.",
+      "beforeAttempt": "Say it with a comfortable space at a chosen boundary. Use one of these familiar phrases: The delivery is late. We can change the schedule. Let me think for a moment. There are two options. I prefer the second.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Whether you used the space for meaning, recovery or renewed checking.",
+      "reflectionQuestions": [
+        "Whether you used the space for meaning, recovery or renewed checking.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B04-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B04",
+      "activityId": "PR004",
+      "compatibleActivityIds": [
+        "PR004"
+      ],
+      "purpose": "Explore forming sounds with less unnecessary pressing and gripping.",
+      "beforeAttempt": "Try a familiar word with gentle contact and an ordinary release. Use one of these familiar phrases: My name is here on the list. Please bring the paper. I would like to make a point.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Contact pressure and intelligibility, not whether you produced the lightest possible movement.",
+      "reflectionQuestions": [
+        "Contact pressure and intelligibility, not whether you produced the lightest possible movement.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B05-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B05",
+      "activityId": "PR005",
+      "compatibleActivityIds": [
+        "PR005"
+      ],
+      "purpose": "Explore a gradual comfortable beginning of voicing.",
+      "beforeAttempt": "Try a short comfortable vowel with a gradual voice start. Use one of these familiar phrases: I have an idea. Are we meeting today? It is good to see you.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Whether onset felt comfortable and whether you added pressure to achieve it.",
+      "reflectionQuestions": [
+        "Whether onset felt comfortable and whether you added pressure to achieve it.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B06-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B06",
+      "activityId": "PR006",
+      "compatibleActivityIds": [
+        "PR006"
+      ],
+      "purpose": "Explore continuity between words within meaningful phrases.",
+      "beforeAttempt": "Listen for connections rather than equal beats. Use one of these familiar phrases: I would like to know more. Thank you for taking the time. Let us look at the next step.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Connection between words, physical effort and whether the meaning remains clear.",
+      "reflectionQuestions": [
+        "Connection between words, physical effort and whether the meaning remains clear.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B07-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B07",
+      "activityId": "PR007",
+      "compatibleActivityIds": [
+        "PR007"
+      ],
+      "purpose": "Explore releasing an obvious layer of added physical effort while speaking.",
+      "beforeAttempt": "Make a small comfortable adjustment. Use one of these familiar phrases: I want to ask about the plan. There are two possibilities. This part became easier over time.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "One chosen area of effort and whether the adjustment freed or crowded attention.",
+      "reflectionQuestions": [
+        "One chosen area of effort and whether the adjustment freed or crowded attention.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B08-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B08",
+      "activityId": "PR008",
+      "compatibleActivityIds": [
+        "PR008"
+      ],
+      "purpose": "Explore reducing added struggle during an existing difficult moment and continuing the message.",
+      "beforeAttempt": "Practise a comfortable contact-to-release transition in an easy word. Use one of these familiar phrases: I would like to explain this. Please give me a moment. The point I wanted to make is this.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Whether added struggle changed and whether you could preserve the message.",
+      "reflectionQuestions": [
+        "Whether added struggle changed and whether you could preserve the message.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B09-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B09",
+      "activityId": "PR009",
+      "compatibleActivityIds": [
+        "PR009"
+      ],
+      "purpose": "Explore how emphasis and pitch movement carry meaning.",
+      "beforeAttempt": "Say it with emphasis that matches the intention. Use one of these familiar phrases: I wanted the blue one. Are you coming with us? That was the part I enjoyed most.",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Meaning, expression, comfort and whether the listener can hear the intended emphasis.",
+      "reflectionQuestions": [
+        "Meaning, expression, comfort and whether the listener can hear the intended emphasis.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    },
+    {
+      "id": "B10-focused-v1",
+      "status": "authored_review_draft",
+      "founderApproved": false,
+      "toolId": "B10",
+      "activityId": "PR010",
+      "compatibleActivityIds": [
+        "PR010"
+      ],
+      "purpose": "Explore a clearly audible voice suited to the listener and setting.",
+      "beforeAttempt": "Try it for a listener farther away in a quiet room at a comfortable volume. Use one of these familiar phrases: I would like to add something. Here is the update from our team. Can everyone hear the last part?",
+      "duringAttempt": "No continuous technique prompts. Stop for discomfort; keep ordinary breathing and a short message.",
+      "afterAttempt": "Audibility, physical effort and whether the ending stays present.",
+      "reflectionQuestions": [
+        "Audibility, physical effort and whether the ending stays present.",
+        "Was your message clear enough for its purpose?"
+      ],
+      "repeatInstruction": "Choose another short phrase if useful. Keep the smallest comfortable amount; no requirement to improve the second attempt."
+    }
+  ]
+}

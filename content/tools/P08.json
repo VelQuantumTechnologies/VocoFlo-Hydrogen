@@ -1,0 +1,535 @@
+{
+  "id": "P08",
+  "title": "Recognise the Watcher",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Recognise self-supervision",
+    "Distinguish chosen focus from inspection",
+    "Return attention to the exchange"
+  ],
+  "deeperExplanation": {
+    "question": "Is any self-awareness while speaking a problem?",
+    "answer": "No. A short chosen focus can be useful when learning. The distinction is whether you are exploring one feature or attempting to police everything. You might choose to notice phrase boundaries during a private reading, then let that focus become lighter in conversation. You can also decide that outward attention serves this moment better. The watcher is a description of an experience, not a new thing you must defeat."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P08-focused-v1",
+  "sections": [
+    {
+      "id": "P08-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Recognise the Watcher. While someone is listening, part of your attention seems to stand beside you. It checks your mouth, predicts the next word and asks whether you look nervous.\n\nIn this session, we will recognise self-supervision, distinguish chosen focus from inspection, and return attention to the exchange. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Recognise self-supervision",
+      "segments": [
+        {
+          "id": "P08-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P08-01-S02",
+          "text": "Today we are exploring Recognise the Watcher."
+        },
+        {
+          "id": "P08-01-S03",
+          "text": "While someone is listening, part of your attention seems to stand beside you."
+        },
+        {
+          "id": "P08-01-S04",
+          "text": "It checks your mouth, predicts the next word and asks whether you look nervous."
+        },
+        {
+          "id": "P08-01-S05",
+          "text": "In this session, we will recognise self-supervision, distinguish chosen focus from inspection, and return attention to the exchange."
+        },
+        {
+          "id": "P08-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P08-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P08-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Recognise self-supervision",
+          "Distinguish chosen focus from inspection",
+          "Return attention to the exchange"
+        ],
+        "altText": "This session explores: Recognise self-supervision; Distinguish chosen focus from inspection; Return attention to the exchange."
+      }
+    },
+    {
+      "id": "P08-02",
+      "type": "explain",
+      "narration": "The watcher is our name for this experience of supervising yourself while speaking. It is a pattern of attention, not a separate person inside you. Recognising it gives you a choice about where attention goes next. We are not trying to eliminate awareness; a little awareness can be useful when learning. We are exploring the difference between a chosen practice focus and a running inspection.",
+      "learningPurpose": "Recognise self-supervision",
+      "segments": [
+        {
+          "id": "P08-02-S01",
+          "text": "The watcher is our name for this experience of supervising yourself while speaking."
+        },
+        {
+          "id": "P08-02-S02",
+          "text": "It is a pattern of attention, not a separate person inside you."
+        },
+        {
+          "id": "P08-02-S03",
+          "text": "Recognising it gives you a choice about where attention goes next."
+        },
+        {
+          "id": "P08-02-S04",
+          "text": "We are not trying to eliminate awareness; a little awareness can be useful when learning."
+        },
+        {
+          "id": "P08-02-S05",
+          "text": "We are exploring the difference between a chosen practice focus and a running inspection."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did supervision ask you to do?"
+      }
+    },
+    {
+      "id": "P08-03",
+      "type": "explain",
+      "narration": "While someone is listening, part of your attention seems to stand beside you. It checks your mouth, predicts the next word and asks whether you look nervous.\n\nWhen you are learning a physical skill, brief attention to one movement can help. But trying to check every movement during a conversation may feel crowded. In this session, choose one moment to notice the watcher, then return to the listener’s message. You do not have to check whether the watcher has disappeared.\n\nIs any self-awareness while speaking a problem?\n\nNo. A short chosen focus can be useful when learning. The distinction is whether you are exploring one feature or attempting to police everything. You might choose to notice phrase boundaries during a private reading, then let that focus become lighter in conversation. You can also decide that outward attention serves this moment better. The watcher is a description of an experience, not a new thing you must defeat.",
+      "learningPurpose": "Recognise self-supervision",
+      "segments": [
+        {
+          "id": "P08-03-S01",
+          "text": "While someone is listening, part of your attention seems to stand beside you."
+        },
+        {
+          "id": "P08-03-S02",
+          "text": "It checks your mouth, predicts the next word and asks whether you look nervous."
+        },
+        {
+          "id": "P08-03-S03",
+          "text": "When you are learning a physical skill, brief attention to one movement can help."
+        },
+        {
+          "id": "P08-03-S04",
+          "text": "But trying to check every movement during a conversation may feel crowded."
+        },
+        {
+          "id": "P08-03-S05",
+          "text": "In this session, choose one moment to notice the watcher, then return to the listener’s message."
+        },
+        {
+          "id": "P08-03-S06",
+          "text": "You do not have to check whether the watcher has disappeared."
+        },
+        {
+          "id": "P08-03-S07",
+          "text": "Is any self-awareness while speaking a problem?"
+        },
+        {
+          "id": "P08-03-S08",
+          "text": "No."
+        },
+        {
+          "id": "P08-03-S09",
+          "text": "A short chosen focus can be useful when learning."
+        },
+        {
+          "id": "P08-03-S10",
+          "text": "The distinction is whether you are exploring one feature or attempting to police everything."
+        },
+        {
+          "id": "P08-03-S11",
+          "text": "You might choose to notice phrase boundaries during a private reading, then let that focus become lighter in conversation."
+        },
+        {
+          "id": "P08-03-S12",
+          "text": "You can also decide that outward attention serves this moment better."
+        },
+        {
+          "id": "P08-03-S13",
+          "text": "The watcher is a description of an experience, not a new thing you must defeat."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Continuous inspection",
+          "Chosen practice focus",
+          "Conversation detail"
+        ],
+        "altText": "Three parts to distinguish: Continuous inspection, Chosen practice focus, Conversation detail. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What brought attention outward?"
+      }
+    },
+    {
+      "id": "P08-04",
+      "type": "visual",
+      "narration": "Imagine a camera operator who keeps turning the camera back on themselves instead of filming the scene. You can turn the camera towards the conversation again.",
+      "learningPurpose": "Recognise self-supervision",
+      "segments": [
+        {
+          "id": "P08-04-S01",
+          "text": "Imagine a camera operator who keeps turning the camera back on themselves instead of filming the scene."
+        },
+        {
+          "id": "P08-04-S02",
+          "text": "You can turn the camera towards the conversation again."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Camera",
+        "labels": [
+          "Self-inspection",
+          "The conversation"
+        ],
+        "altText": "Imagine a camera operator who keeps turning the camera back on themselves instead of filming the scene. You can turn the camera towards the conversation again."
+      }
+    },
+    {
+      "id": "P08-05",
+      "type": "contrast",
+      "narration": "Helpful practice focus: On this short attempt I am exploring a comfortable pace. Running inspection: Is my pace right now, what about this word, do they notice, am I still watching? Now consider a short check. What is the watcher in this lesson? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Distinguish chosen focus from inspection",
+      "segments": [
+        {
+          "id": "P08-05-S01",
+          "text": "Helpful practice focus: On this short attempt I am exploring a comfortable pace."
+        },
+        {
+          "id": "P08-05-S02",
+          "text": "Running inspection: Is my pace right now, what about this word, do they notice, am I still watching?"
+        },
+        {
+          "id": "P08-05-S03",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P08-05-S04",
+          "text": "What is the watcher in this lesson?"
+        },
+        {
+          "id": "P08-05-S05",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is the watcher in this lesson?",
+        "labels": [
+          "A separate part of the brain we can diagnose.",
+          "Any awareness that must be eliminated.",
+          "A name for the experience of continuously supervising yourself."
+        ],
+        "altText": "Three options: A separate part of the brain we can diagnose. / Any awareness that must be eliminated. / A name for the experience of continuously supervising yourself."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is the watcher in this lesson?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A separate part of the brain we can diagnose.",
+            "feedback": "Consider the distinction again. The watcher describes an attention pattern. A short chosen focus can be useful; no hidden person or diagnosis is implied."
+          },
+          {
+            "id": "B",
+            "text": "Any awareness that must be eliminated.",
+            "feedback": "Consider the distinction again. The watcher describes an attention pattern. A short chosen focus can be useful; no hidden person or diagnosis is implied."
+          },
+          {
+            "id": "C",
+            "text": "A name for the experience of continuously supervising yourself.",
+            "feedback": "Yes. The watcher describes an attention pattern. A short chosen focus can be useful; no hidden person or diagnosis is implied."
+          }
+        ],
+        "correctChoiceId": "C"
+      }
+    },
+    {
+      "id": "P08-06",
+      "type": "reflection",
+      "narration": "Remember a recent easy conversation and a demanding one. Write where attention seemed to go in each. Use simple words such as message, listener, mouth, impression or next word. No need to assign percentages.",
+      "learningPurpose": "Distinguish chosen focus from inspection",
+      "segments": [
+        {
+          "id": "P08-06-S01",
+          "text": "Remember a recent easy conversation and a demanding one."
+        },
+        {
+          "id": "P08-06-S02",
+          "text": "Write where attention seemed to go in each."
+        },
+        {
+          "id": "P08-06-S03",
+          "text": "Use simple words such as message, listener, mouth, impression or next word."
+        },
+        {
+          "id": "P08-06-S04",
+          "text": "No need to assign percentages."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Remember a recent easy conversation and a demanding one. Write where attention seemed to go in each. Use simple words such as message, listener, mouth, impression or next word. No need to assign percentages.",
+        "questions": [
+          "What did supervision ask you to do?",
+          "What brought attention outward?",
+          "Did noticing become another task?"
+        ]
+      }
+    },
+    {
+      "id": "P08-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Answer this prepared question: What is one activity you enjoy? Afterwards, notice where attention went. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Distinguish chosen focus from inspection",
+      "segments": [
+        {
+          "id": "P08-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P08-07-S02",
+          "text": "Answer this prepared question: What is one activity you enjoy?"
+        },
+        {
+          "id": "P08-07-S03",
+          "text": "Afterwards, notice where attention went."
+        },
+        {
+          "id": "P08-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P08-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P08-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Answer this prepared question: What is one activity you enjoy? Afterwards, notice where attention went.",
+        "reflectionQuestions": [
+          "What did supervision ask you to do?",
+          "What brought attention outward?",
+          "Did noticing become another task?"
+        ]
+      }
+    },
+    {
+      "id": "P08-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Answer again, giving attention to one detail you want the listener to understand. Do not keep checking whether the watcher is gone. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Distinguish chosen focus from inspection",
+      "segments": [
+        {
+          "id": "P08-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P08-08-S02",
+          "text": "Answer again, giving attention to one detail you want the listener to understand."
+        },
+        {
+          "id": "P08-08-S03",
+          "text": "Do not keep checking whether the watcher is gone."
+        },
+        {
+          "id": "P08-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P08-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Answer again, giving attention to one detail you want the listener to understand. Do not keep checking whether the watcher is gone.",
+        "reflectionQuestions": [
+          "What did supervision ask you to do?",
+          "What brought attention outward?",
+          "Did noticing become another task?"
+        ]
+      }
+    },
+    {
+      "id": "P08-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Return attention to the exchange",
+      "segments": [
+        {
+          "id": "P08-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P08-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P08-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P08-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "While someone is listening, part of your attention seems to stand beside you. It checks your mouth, predicts the next word and asks whether you look nervous.",
+        "partnerPrompts": [
+          "What is a place you know well?",
+          "What detail would help me imagine it?",
+          "What do you like or dislike about being there?"
+        ]
+      }
+    },
+    {
+      "id": "P08-10",
+      "type": "review",
+      "narration": "Watching for the watcher can become another inspection. Notice briefly, name the pattern if helpful, and return. If you cannot tell where attention is, simply answer the actual question. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Return attention to the exchange",
+      "segments": [
+        {
+          "id": "P08-10-S01",
+          "text": "Watching for the watcher can become another inspection."
+        },
+        {
+          "id": "P08-10-S02",
+          "text": "Notice briefly, name the pattern if helpful, and return."
+        },
+        {
+          "id": "P08-10-S03",
+          "text": "If you cannot tell where attention is, simply answer the actual question."
+        },
+        {
+          "id": "P08-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P08-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did supervision ask you to do?",
+          "What brought attention outward?",
+          "Did noticing become another task?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P08-11",
+      "type": "transfer",
+      "narration": "During one conversation, return to one detail the other person has shared. Reflect afterwards rather than continuously tracking yourself. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Return attention to the exchange",
+      "segments": [
+        {
+          "id": "P08-11-S01",
+          "text": "During one conversation, return to one detail the other person has shared."
+        },
+        {
+          "id": "P08-11-S02",
+          "text": "Reflect afterwards rather than continuously tracking yourself."
+        },
+        {
+          "id": "P08-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P08-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P08-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "During one conversation, return to one detail the other person has shared. Reflect afterwards rather than continuously tracking yourself.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P08-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Return attention to the exchange",
+      "segments": [
+        {
+          "id": "P08-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P08-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P08-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P08-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P08-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Did noticing become another task?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "P27",
+  "title": "Keep Your Supports Light",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Notice support and dependency",
+    "Explore a lighter option",
+    "Keep useful choices available"
+  ],
+  "deeperExplanation": {
+    "question": "What if I prefer using a support every day?",
+    "answer": "You can choose that. Repetition can make a practice familiar and useful. The question is whether the support remains available by choice or becomes a condition that prevents participation whenever it is missing. Explore flexibility only where you are willing. You are not trying to prove that tools are unnecessary. You are building a practical relationship with them that leaves you more options in different situations."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P27-focused-v1",
+  "sections": [
+    {
+      "id": "P27-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Keep Your Supports Light. A helpful practice becomes a rule. You begin to feel you cannot speak unless you have warmed up, prepared the exact phrase or completed a breathing routine.\n\nIn this session, we will notice support and dependency, explore a lighter option, and keep useful choices available. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Notice support and dependency",
+      "segments": [
+        {
+          "id": "P27-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P27-01-S02",
+          "text": "Today we are exploring Keep Your Supports Light."
+        },
+        {
+          "id": "P27-01-S03",
+          "text": "A helpful practice becomes a rule."
+        },
+        {
+          "id": "P27-01-S04",
+          "text": "You begin to feel you cannot speak unless you have warmed up, prepared the exact phrase or completed a breathing routine."
+        },
+        {
+          "id": "P27-01-S05",
+          "text": "In this session, we will notice support and dependency, explore a lighter option, and keep useful choices available."
+        },
+        {
+          "id": "P27-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P27-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P27-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Notice support and dependency",
+          "Explore a lighter option",
+          "Keep useful choices available"
+        ],
+        "altText": "This session explores: Notice support and dependency; Explore a lighter option; Keep useful choices available."
+      }
+    },
+    {
+      "id": "P27-02",
+      "type": "explain",
+      "narration": "A support is most useful when it gives you options. It becomes heavy when it feels like permission you must earn before speaking. Today we will look at one support and explore flexibility around it. We are not taking away something that helps. We are checking whether it remains a choice.",
+      "learningPurpose": "Notice support and dependency",
+      "segments": [
+        {
+          "id": "P27-02-S01",
+          "text": "A support is most useful when it gives you options."
+        },
+        {
+          "id": "P27-02-S02",
+          "text": "It becomes heavy when it feels like permission you must earn before speaking."
+        },
+        {
+          "id": "P27-02-S03",
+          "text": "Today we will look at one support and explore flexibility around it."
+        },
+        {
+          "id": "P27-02-S04",
+          "text": "We are not taking away something that helps."
+        },
+        {
+          "id": "P27-02-S05",
+          "text": "We are checking whether it remains a choice."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did the support offer?"
+      }
+    },
+    {
+      "id": "P27-03",
+      "type": "explain",
+      "narration": "A helpful practice becomes a rule. You begin to feel you cannot speak unless you have warmed up, prepared the exact phrase or completed a breathing routine.\n\nYou might use a slower pace in one setting, a note in another and no deliberate tool in a familiar exchange. That does not mean you used the method incorrectly. Different situations can call for different amounts of support. The aim is to notice what serves your purpose without carrying a complete checklist into every conversation.\n\nWhat if I prefer using a support every day?\n\nYou can choose that. Repetition can make a practice familiar and useful. The question is whether the support remains available by choice or becomes a condition that prevents participation whenever it is missing. Explore flexibility only where you are willing. You are not trying to prove that tools are unnecessary. You are building a practical relationship with them that leaves you more options in different situations.",
+      "learningPurpose": "Notice support and dependency",
+      "segments": [
+        {
+          "id": "P27-03-S01",
+          "text": "A helpful practice becomes a rule."
+        },
+        {
+          "id": "P27-03-S02",
+          "text": "You begin to feel you cannot speak unless you have warmed up, prepared the exact phrase or completed a breathing routine."
+        },
+        {
+          "id": "P27-03-S03",
+          "text": "You might use a slower pace in one setting, a note in another and no deliberate tool in a familiar exchange."
+        },
+        {
+          "id": "P27-03-S04",
+          "text": "That does not mean you used the method incorrectly."
+        },
+        {
+          "id": "P27-03-S05",
+          "text": "Different situations can call for different amounts of support."
+        },
+        {
+          "id": "P27-03-S06",
+          "text": "The aim is to notice what serves your purpose without carrying a complete checklist into every conversation."
+        },
+        {
+          "id": "P27-03-S07",
+          "text": "What if I prefer using a support every day?"
+        },
+        {
+          "id": "P27-03-S08",
+          "text": "You can choose that."
+        },
+        {
+          "id": "P27-03-S09",
+          "text": "Repetition can make a practice familiar and useful."
+        },
+        {
+          "id": "P27-03-S10",
+          "text": "The question is whether the support remains available by choice or becomes a condition that prevents participation whenever it is missing."
+        },
+        {
+          "id": "P27-03-S11",
+          "text": "Explore flexibility only where you are willing."
+        },
+        {
+          "id": "P27-03-S12",
+          "text": "You are not trying to prove that tools are unnecessary."
+        },
+        {
+          "id": "P27-03-S13",
+          "text": "You are building a practical relationship with them that leaves you more options in different situations."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Support available",
+          "Rigid requirement",
+          "Flexible choice"
+        ],
+        "altText": "Three parts to distinguish: Support available, Rigid requirement, Flexible choice. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "When did it become a requirement?"
+      }
+    },
+    {
+      "id": "P27-04",
+      "type": "visual",
+      "narration": "A walking stick can help on a rough trail. You can carry it where it is useful and set it down when the path permits. It does not need to become an admission ticket to every room.",
+      "learningPurpose": "Notice support and dependency",
+      "segments": [
+        {
+          "id": "P27-04-S01",
+          "text": "A walking stick can help on a rough trail."
+        },
+        {
+          "id": "P27-04-S02",
+          "text": "You can carry it where it is useful and set it down when the path permits."
+        },
+        {
+          "id": "P27-04-S03",
+          "text": "It does not need to become an admission ticket to every room."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Walking stick",
+        "labels": [
+          "Support when useful",
+          "Not an entry condition"
+        ],
+        "altText": "A walking stick can help on a rough trail. You can carry it where it is useful and set it down when the path permits. It does not need to become an admission ticket to every room."
+      }
+    },
+    {
+      "id": "P27-05",
+      "type": "contrast",
+      "narration": "Heavy support: If I miss my warm-up, I cannot speak today. Light support: I can warm up when useful, and I can also try a small familiar exchange without it. Now consider a short check. What makes a support lighter? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Explore a lighter option",
+      "segments": [
+        {
+          "id": "P27-05-S01",
+          "text": "Heavy support: If I miss my warm-up, I cannot speak today."
+        },
+        {
+          "id": "P27-05-S02",
+          "text": "Light support: I can warm up when useful, and I can also try a small familiar exchange without it."
+        },
+        {
+          "id": "P27-05-S03",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P27-05-S04",
+          "text": "What makes a support lighter?"
+        },
+        {
+          "id": "P27-05-S05",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What makes a support lighter?",
+        "labels": [
+          "Throwing away every technique.",
+          "Using it when useful without making it permission you must earn before speaking.",
+          "Adding a longer checklist."
+        ],
+        "altText": "Three options: Throwing away every technique. / Using it when useful without making it permission you must earn before speaking. / Adding a longer checklist."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What makes a support lighter?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Throwing away every technique.",
+            "feedback": "Consider the distinction again. A flexible support offers options. Exploring a lighter version does not require removing something that helps."
+          },
+          {
+            "id": "B",
+            "text": "Using it when useful without making it permission you must earn before speaking.",
+            "feedback": "Yes. A flexible support offers options. Exploring a lighter version does not require removing something that helps."
+          },
+          {
+            "id": "C",
+            "text": "Adding a longer checklist.",
+            "feedback": "Consider the distinction again. A flexible support offers options. Exploring a lighter version does not require removing something that helps."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P27-06",
+      "type": "reflection",
+      "narration": "List the supports you use. For one, write how it helps and how you feel if it is unavailable. Choose a small variation: shorter preparation, one fewer checklist item or trying an easy situation without it.",
+      "learningPurpose": "Explore a lighter option",
+      "segments": [
+        {
+          "id": "P27-06-S01",
+          "text": "List the supports you use."
+        },
+        {
+          "id": "P27-06-S02",
+          "text": "For one, write how it helps and how you feel if it is unavailable."
+        },
+        {
+          "id": "P27-06-S03",
+          "text": "Choose a small variation: shorter preparation, one fewer checklist item or trying an easy situation without it."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "List the supports you use. For one, write how it helps and how you feel if it is unavailable. Choose a small variation: shorter preparation, one fewer checklist item or trying an easy situation without it.",
+        "questions": [
+          "What did the support offer?",
+          "When did it become a requirement?",
+          "What amount of support would feel useful today?"
+        ]
+      }
+    },
+    {
+      "id": "P27-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Answer a familiar question with your usual chosen support. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Explore a lighter option",
+      "segments": [
+        {
+          "id": "P27-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P27-07-S02",
+          "text": "Answer a familiar question with your usual chosen support."
+        },
+        {
+          "id": "P27-07-S03",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P27-07-S04",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P27-07-S05",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Answer a familiar question with your usual chosen support.",
+        "reflectionQuestions": [
+          "What did the support offer?",
+          "When did it become a requirement?",
+          "What amount of support would feel useful today?"
+        ]
+      }
+    },
+    {
+      "id": "P27-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Answer an equally familiar question with a lighter version only if willing. Compare usefulness and choice; your original support remains available. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Explore a lighter option",
+      "segments": [
+        {
+          "id": "P27-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P27-08-S02",
+          "text": "Answer an equally familiar question with a lighter version only if willing."
+        },
+        {
+          "id": "P27-08-S03",
+          "text": "Compare usefulness and choice; your original support remains available."
+        },
+        {
+          "id": "P27-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P27-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Answer an equally familiar question with a lighter version only if willing. Compare usefulness and choice; your original support remains available.",
+        "reflectionQuestions": [
+          "What did the support offer?",
+          "When did it become a requirement?",
+          "What amount of support would feel useful today?"
+        ]
+      }
+    },
+    {
+      "id": "P27-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Keep useful choices available",
+      "segments": [
+        {
+          "id": "P27-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P27-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P27-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P27-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "A helpful practice becomes a rule. You begin to feel you cannot speak unless you have warmed up, prepared the exact phrase or completed a breathing routine.",
+        "partnerPrompts": [
+          "Tell me a simple fact about your day using your preferred support.",
+          "Tell me another with a lighter version if you choose.",
+          "What support would you pick for a more demanding setting?"
+        ]
+      }
+    },
+    {
+      "id": "P27-10",
+      "type": "review",
+      "narration": "This is not a test of independence. Repeatedly using a tool can be useful practice. We are observing fear of being unable to function without the exact ritual, not criticising repetition. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Keep useful choices available",
+      "segments": [
+        {
+          "id": "P27-10-S01",
+          "text": "This is not a test of independence."
+        },
+        {
+          "id": "P27-10-S02",
+          "text": "Repeatedly using a tool can be useful practice."
+        },
+        {
+          "id": "P27-10-S03",
+          "text": "We are observing fear of being unable to function without the exact ritual, not criticising repetition."
+        },
+        {
+          "id": "P27-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P27-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "What did the support offer?",
+          "When did it become a requirement?",
+          "What amount of support would feel useful today?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P27-11",
+      "type": "transfer",
+      "narration": "Choose support deliberately before one conversation. Afterwards record why you chose it and whether it served the purpose. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Keep useful choices available",
+      "segments": [
+        {
+          "id": "P27-11-S01",
+          "text": "Choose support deliberately before one conversation."
+        },
+        {
+          "id": "P27-11-S02",
+          "text": "Afterwards record why you chose it and whether it served the purpose."
+        },
+        {
+          "id": "P27-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P27-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P27-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Choose support deliberately before one conversation. Afterwards record why you chose it and whether it served the purpose.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P27-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Keep useful choices available",
+      "segments": [
+        {
+          "id": "P27-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P27-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P27-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P27-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P27-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What amount of support would feel useful today?"
+      }
+    }
+  ]
+}

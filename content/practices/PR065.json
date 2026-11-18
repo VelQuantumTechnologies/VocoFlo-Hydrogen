@@ -1,0 +1,32 @@
+{
+  "id": "PR065",
+  "title": "A friend’s weekend",
+  "type": "roleplay",
+  "contentVersion": "1.0.0-draft",
+  "toolIds": [],
+  "scenario": "Ask about a plan and share one relevant detail.",
+  "partnerRole": "A patient ordinary conversation partner appropriate to this scenario.",
+  "opening": "Let us practise a friend’s weekend. What would you like to tell me or ask?",
+  "scriptedPrompts": [
+    "What would you like to ask about my weekend?",
+    "I spent part of it outdoors. What interests you about that?",
+    "What would you like to share about your own plans?",
+    "Take a moment to add or clarify something you want understood.",
+    "Make one relevant request or ask a follow-up of your choice.",
+    "Close the exchange in a way that fits your purpose."
+  ],
+  "fixedDialogueDisclosure": "These prompts are prepared; they do not respond to your answer.",
+  "steps": [
+    "Choose a purpose and optional tool.",
+    "Read the scenario and listen to the opening.",
+    "Complete up to six learner turns.",
+    "Review one useful moment.",
+    "Try a short transfer message.",
+    "Save an observation."
+  ],
+  "reflection": [
+    "What did you want to communicate?",
+    "What helped participation?",
+    "What would you choose next?"
+  ]
+}

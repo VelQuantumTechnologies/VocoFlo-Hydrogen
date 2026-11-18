@@ -1,0 +1,546 @@
+{
+  "version": "1.0.0-draft",
+  "count": 90,
+  "items": [
+    {
+      "id": "PR001",
+      "title": "A quiet morning",
+      "type": "reading",
+      "path": "content/practices/PR001.json"
+    },
+    {
+      "id": "PR002",
+      "title": "A changed plan",
+      "type": "reading",
+      "path": "content/practices/PR002.json"
+    },
+    {
+      "id": "PR003",
+      "title": "A helpful question",
+      "type": "reading",
+      "path": "content/practices/PR003.json"
+    },
+    {
+      "id": "PR004",
+      "title": "A simple recipe",
+      "type": "reading",
+      "path": "content/practices/PR004.json"
+    },
+    {
+      "id": "PR005",
+      "title": "A new route",
+      "type": "reading",
+      "path": "content/practices/PR005.json"
+    },
+    {
+      "id": "PR006",
+      "title": "The borrowed book",
+      "type": "reading",
+      "path": "content/practices/PR006.json"
+    },
+    {
+      "id": "PR007",
+      "title": "A team update",
+      "type": "reading",
+      "path": "content/practices/PR007.json"
+    },
+    {
+      "id": "PR008",
+      "title": "An ordinary introduction",
+      "type": "reading",
+      "path": "content/practices/PR008.json"
+    },
+    {
+      "id": "PR009",
+      "title": "The train platform",
+      "type": "reading",
+      "path": "content/practices/PR009.json"
+    },
+    {
+      "id": "PR010",
+      "title": "A small repair",
+      "type": "reading",
+      "path": "content/practices/PR010.json"
+    },
+    {
+      "id": "PR011",
+      "title": "An unfinished idea",
+      "type": "reading",
+      "path": "content/practices/PR011.json"
+    },
+    {
+      "id": "PR012",
+      "title": "The first visit",
+      "type": "reading",
+      "path": "content/practices/PR012.json"
+    },
+    {
+      "id": "PR013",
+      "title": "A weekend choice",
+      "type": "reading",
+      "path": "content/practices/PR013.json"
+    },
+    {
+      "id": "PR014",
+      "title": "A thoughtful message",
+      "type": "reading",
+      "path": "content/practices/PR014.json"
+    },
+    {
+      "id": "PR015",
+      "title": "The garden",
+      "type": "reading",
+      "path": "content/practices/PR015.json"
+    },
+    {
+      "id": "PR016",
+      "title": "A useful pause",
+      "type": "reading",
+      "path": "content/practices/PR016.json"
+    },
+    {
+      "id": "PR017",
+      "title": "The workshop",
+      "type": "reading",
+      "path": "content/practices/PR017.json"
+    },
+    {
+      "id": "PR018",
+      "title": "Two versions",
+      "type": "reading",
+      "path": "content/practices/PR018.json"
+    },
+    {
+      "id": "PR019",
+      "title": "A place to rest",
+      "type": "reading",
+      "path": "content/practices/PR019.json"
+    },
+    {
+      "id": "PR020",
+      "title": "The local shop",
+      "type": "reading",
+      "path": "content/practices/PR020.json"
+    },
+    {
+      "id": "PR021",
+      "title": "A different opinion",
+      "type": "reading",
+      "path": "content/practices/PR021.json"
+    },
+    {
+      "id": "PR022",
+      "title": "A familiar photograph",
+      "type": "reading",
+      "path": "content/practices/PR022.json"
+    },
+    {
+      "id": "PR023",
+      "title": "The short version",
+      "type": "reading",
+      "path": "content/practices/PR023.json"
+    },
+    {
+      "id": "PR024",
+      "title": "The invitation",
+      "type": "reading",
+      "path": "content/practices/PR024.json"
+    },
+    {
+      "id": "PR025",
+      "title": "A clear direction",
+      "type": "reading",
+      "path": "content/practices/PR025.json"
+    },
+    {
+      "id": "PR026",
+      "title": "A new habit",
+      "type": "reading",
+      "path": "content/practices/PR026.json"
+    },
+    {
+      "id": "PR027",
+      "title": "The shared table",
+      "type": "reading",
+      "path": "content/practices/PR027.json"
+    },
+    {
+      "id": "PR028",
+      "title": "The final detail",
+      "type": "reading",
+      "path": "content/practices/PR028.json"
+    },
+    {
+      "id": "PR029",
+      "title": "The open notebook",
+      "type": "reading",
+      "path": "content/practices/PR029.json"
+    },
+    {
+      "id": "PR030",
+      "title": "The next conversation",
+      "type": "reading",
+      "path": "content/practices/PR030.json"
+    },
+    {
+      "id": "PR031",
+      "title": "Describe: A station enquiry",
+      "type": "description",
+      "path": "content/practices/PR031.json"
+    },
+    {
+      "id": "PR032",
+      "title": "Describe: A cafe order",
+      "type": "description",
+      "path": "content/practices/PR032.json"
+    },
+    {
+      "id": "PR033",
+      "title": "Describe: A team update",
+      "type": "description",
+      "path": "content/practices/PR033.json"
+    },
+    {
+      "id": "PR034",
+      "title": "Describe: A phone appointment",
+      "type": "description",
+      "path": "content/practices/PR034.json"
+    },
+    {
+      "id": "PR035",
+      "title": "Describe: A friend’s weekend",
+      "type": "description",
+      "path": "content/practices/PR035.json"
+    },
+    {
+      "id": "PR036",
+      "title": "Describe: A delayed delivery",
+      "type": "description",
+      "path": "content/practices/PR036.json"
+    },
+    {
+      "id": "PR037",
+      "title": "Describe: A new neighbour",
+      "type": "description",
+      "path": "content/practices/PR037.json"
+    },
+    {
+      "id": "PR038",
+      "title": "Describe: A shop return",
+      "type": "description",
+      "path": "content/practices/PR038.json"
+    },
+    {
+      "id": "PR039",
+      "title": "Describe: A hotel check-in",
+      "type": "description",
+      "path": "content/practices/PR039.json"
+    },
+    {
+      "id": "PR040",
+      "title": "Describe: A meeting suggestion",
+      "type": "description",
+      "path": "content/practices/PR040.json"
+    },
+    {
+      "id": "PR041",
+      "title": "Describe: A work clarification",
+      "type": "description",
+      "path": "content/practices/PR041.json"
+    },
+    {
+      "id": "PR042",
+      "title": "Describe: A meal preference",
+      "type": "description",
+      "path": "content/practices/PR042.json"
+    },
+    {
+      "id": "PR043",
+      "title": "Describe: A travel plan",
+      "type": "description",
+      "path": "content/practices/PR043.json"
+    },
+    {
+      "id": "PR044",
+      "title": "Describe: A book recommendation",
+      "type": "description",
+      "path": "content/practices/PR044.json"
+    },
+    {
+      "id": "PR045",
+      "title": "Describe: A project concern",
+      "type": "description",
+      "path": "content/practices/PR045.json"
+    },
+    {
+      "id": "PR046",
+      "title": "Describe: A family invitation",
+      "type": "description",
+      "path": "content/practices/PR046.json"
+    },
+    {
+      "id": "PR047",
+      "title": "Describe: A colleague’s question",
+      "type": "description",
+      "path": "content/practices/PR047.json"
+    },
+    {
+      "id": "PR048",
+      "title": "Describe: An interrupted update",
+      "type": "description",
+      "path": "content/practices/PR048.json"
+    },
+    {
+      "id": "PR049",
+      "title": "Describe: A wrong bill",
+      "type": "description",
+      "path": "content/practices/PR049.json"
+    },
+    {
+      "id": "PR050",
+      "title": "Describe: A request for help",
+      "type": "description",
+      "path": "content/practices/PR050.json"
+    },
+    {
+      "id": "PR051",
+      "title": "Describe: A friendly disagreement",
+      "type": "description",
+      "path": "content/practices/PR051.json"
+    },
+    {
+      "id": "PR052",
+      "title": "Describe: A short introduction",
+      "type": "description",
+      "path": "content/practices/PR052.json"
+    },
+    {
+      "id": "PR053",
+      "title": "Describe: A service enquiry",
+      "type": "description",
+      "path": "content/practices/PR053.json"
+    },
+    {
+      "id": "PR054",
+      "title": "Describe: A schedule change",
+      "type": "description",
+      "path": "content/practices/PR054.json"
+    },
+    {
+      "id": "PR055",
+      "title": "Describe: A progress review",
+      "type": "description",
+      "path": "content/practices/PR055.json"
+    },
+    {
+      "id": "PR056",
+      "title": "Describe: A birthday plan",
+      "type": "description",
+      "path": "content/practices/PR056.json"
+    },
+    {
+      "id": "PR057",
+      "title": "Describe: A task handover",
+      "type": "description",
+      "path": "content/practices/PR057.json"
+    },
+    {
+      "id": "PR058",
+      "title": "Describe: A speaking preference",
+      "type": "description",
+      "path": "content/practices/PR058.json"
+    },
+    {
+      "id": "PR059",
+      "title": "Describe: An unexpected question",
+      "type": "description",
+      "path": "content/practices/PR059.json"
+    },
+    {
+      "id": "PR060",
+      "title": "Describe: A continuing plan",
+      "type": "description",
+      "path": "content/practices/PR060.json"
+    },
+    {
+      "id": "PR061",
+      "title": "A station enquiry",
+      "type": "roleplay",
+      "path": "content/practices/PR061.json"
+    },
+    {
+      "id": "PR062",
+      "title": "A cafe order",
+      "type": "roleplay",
+      "path": "content/practices/PR062.json"
+    },
+    {
+      "id": "PR063",
+      "title": "A team update",
+      "type": "roleplay",
+      "path": "content/practices/PR063.json"
+    },
+    {
+      "id": "PR064",
+      "title": "A phone appointment",
+      "type": "roleplay",
+      "path": "content/practices/PR064.json"
+    },
+    {
+      "id": "PR065",
+      "title": "A friend’s weekend",
+      "type": "roleplay",
+      "path": "content/practices/PR065.json"
+    },
+    {
+      "id": "PR066",
+      "title": "A delayed delivery",
+      "type": "roleplay",
+      "path": "content/practices/PR066.json"
+    },
+    {
+      "id": "PR067",
+      "title": "A new neighbour",
+      "type": "roleplay",
+      "path": "content/practices/PR067.json"
+    },
+    {
+      "id": "PR068",
+      "title": "A shop return",
+      "type": "roleplay",
+      "path": "content/practices/PR068.json"
+    },
+    {
+      "id": "PR069",
+      "title": "A hotel check-in",
+      "type": "roleplay",
+      "path": "content/practices/PR069.json"
+    },
+    {
+      "id": "PR070",
+      "title": "A meeting suggestion",
+      "type": "roleplay",
+      "path": "content/practices/PR070.json"
+    },
+    {
+      "id": "PR071",
+      "title": "A work clarification",
+      "type": "roleplay",
+      "path": "content/practices/PR071.json"
+    },
+    {
+      "id": "PR072",
+      "title": "A meal preference",
+      "type": "roleplay",
+      "path": "content/practices/PR072.json"
+    },
+    {
+      "id": "PR073",
+      "title": "A travel plan",
+      "type": "roleplay",
+      "path": "content/practices/PR073.json"
+    },
+    {
+      "id": "PR074",
+      "title": "A book recommendation",
+      "type": "roleplay",
+      "path": "content/practices/PR074.json"
+    },
+    {
+      "id": "PR075",
+      "title": "A project concern",
+      "type": "roleplay",
+      "path": "content/practices/PR075.json"
+    },
+    {
+      "id": "PR076",
+      "title": "A family invitation",
+      "type": "roleplay",
+      "path": "content/practices/PR076.json"
+    },
+    {
+      "id": "PR077",
+      "title": "A colleague’s question",
+      "type": "roleplay",
+      "path": "content/practices/PR077.json"
+    },
+    {
+      "id": "PR078",
+      "title": "An interrupted update",
+      "type": "roleplay",
+      "path": "content/practices/PR078.json"
+    },
+    {
+      "id": "PR079",
+      "title": "A wrong bill",
+      "type": "roleplay",
+      "path": "content/practices/PR079.json"
+    },
+    {
+      "id": "PR080",
+      "title": "A request for help",
+      "type": "roleplay",
+      "path": "content/practices/PR080.json"
+    },
+    {
+      "id": "PR081",
+      "title": "A friendly disagreement",
+      "type": "roleplay",
+      "path": "content/practices/PR081.json"
+    },
+    {
+      "id": "PR082",
+      "title": "A short introduction",
+      "type": "roleplay",
+      "path": "content/practices/PR082.json"
+    },
+    {
+      "id": "PR083",
+      "title": "A service enquiry",
+      "type": "roleplay",
+      "path": "content/practices/PR083.json"
+    },
+    {
+      "id": "PR084",
+      "title": "A schedule change",
+      "type": "roleplay",
+      "path": "content/practices/PR084.json"
+    },
+    {
+      "id": "PR085",
+      "title": "A progress review",
+      "type": "roleplay",
+      "path": "content/practices/PR085.json"
+    },
+    {
+      "id": "PR086",
+      "title": "A birthday plan",
+      "type": "roleplay",
+      "path": "content/practices/PR086.json"
+    },
+    {
+      "id": "PR087",
+      "title": "A task handover",
+      "type": "roleplay",
+      "path": "content/practices/PR087.json"
+    },
+    {
+      "id": "PR088",
+      "title": "A speaking preference",
+      "type": "roleplay",
+      "path": "content/practices/PR088.json"
+    },
+    {
+      "id": "PR089",
+      "title": "An unexpected question",
+      "type": "roleplay",
+      "path": "content/practices/PR089.json"
+    },
+    {
+      "id": "PR090",
+      "title": "A continuing plan",
+      "type": "roleplay",
+      "path": "content/practices/PR090.json"
+    }
+  ]
+}

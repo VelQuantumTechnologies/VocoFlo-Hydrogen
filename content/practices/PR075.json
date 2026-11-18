@@ -1,0 +1,32 @@
+{
+  "id": "PR075",
+  "title": "A project concern",
+  "type": "roleplay",
+  "contentVersion": "1.0.0-draft",
+  "toolIds": [],
+  "scenario": "Raise one concern and offer a next step.",
+  "partnerRole": "A patient ordinary conversation partner appropriate to this scenario.",
+  "opening": "Let us practise a project concern. What would you like to tell me or ask?",
+  "scriptedPrompts": [
+    "What concern would you like to raise?",
+    "How might it affect the project?",
+    "What next step do you suggest?",
+    "Take a moment to add or clarify something you want understood.",
+    "Make one relevant request or ask a follow-up of your choice.",
+    "Close the exchange in a way that fits your purpose."
+  ],
+  "fixedDialogueDisclosure": "These prompts are prepared; they do not respond to your answer.",
+  "steps": [
+    "Choose a purpose and optional tool.",
+    "Read the scenario and listen to the opening.",
+    "Complete up to six learner turns.",
+    "Review one useful moment.",
+    "Try a short transfer message.",
+    "Save an observation."
+  ],
+  "reflection": [
+    "What did you want to communicate?",
+    "What helped participation?",
+    "What would you choose next?"
+  ]
+}

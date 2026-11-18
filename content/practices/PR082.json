@@ -1,0 +1,32 @@
+{
+  "id": "PR082",
+  "title": "A short introduction",
+  "type": "roleplay",
+  "contentVersion": "1.0.0-draft",
+  "toolIds": [],
+  "scenario": "Explain who you are and what you enjoy.",
+  "partnerRole": "A patient ordinary conversation partner appropriate to this scenario.",
+  "opening": "Let us practise a short introduction. What would you like to tell me or ask?",
+  "scriptedPrompts": [
+    "How would you introduce yourself?",
+    "What do you enjoy working on?",
+    "What would you like to ask me?",
+    "Take a moment to add or clarify something you want understood.",
+    "Make one relevant request or ask a follow-up of your choice.",
+    "Close the exchange in a way that fits your purpose."
+  ],
+  "fixedDialogueDisclosure": "These prompts are prepared; they do not respond to your answer.",
+  "steps": [
+    "Choose a purpose and optional tool.",
+    "Read the scenario and listen to the opening.",
+    "Complete up to six learner turns.",
+    "Review one useful moment.",
+    "Try a short transfer message.",
+    "Save an observation."
+  ],
+  "reflection": [
+    "What did you want to communicate?",
+    "What helped participation?",
+    "What would you choose next?"
+  ]
+}

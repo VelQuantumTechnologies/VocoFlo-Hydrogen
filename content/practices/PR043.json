@@ -1,0 +1,22 @@
+{
+  "id": "PR043",
+  "title": "Describe: A travel plan",
+  "type": "description",
+  "contentVersion": "1.0.0-draft",
+  "toolIds": [],
+  "prompt": "Imagine a travel plan. Explain a destination and one practical decision. Describe the setting, the people and what you need to communicate. You can use a real familiar example instead.",
+  "steps": [
+    "Choose a real or imagined setting.",
+    "Describe one scene without preparing full sentences.",
+    "Add one detail that helps a listener picture it.",
+    "Explain what you would want to say there.",
+    "Repeat with one selected tool or a different listener.",
+    "Save an observation."
+  ],
+  "visualAssetRequired": false,
+  "reflection": [
+    "What was the main meaning?",
+    "Did you remain with the scene?",
+    "What one difference would you explore?"
+  ]
+}

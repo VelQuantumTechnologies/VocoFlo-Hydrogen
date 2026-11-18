@@ -1,0 +1,531 @@
+{
+  "id": "B02",
+  "title": "Slow Speech With Gentle Stretching",
+  "category": "body",
+  "contentVersion": "1.1.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Distinguish a slower pace from robotic timing",
+    "Explore gentle stretching",
+    "Keep ordinary expression and meaning"
+  ],
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "B02-focused-v1",
+  "sections": [
+    {
+      "id": "B02-01",
+      "type": "welcome",
+      "phase": "Introduction",
+      "heading": "Welcome and what we will explore",
+      "narration": "Welcome. Today we are exploring Slow Speech With Gentle Stretching. You want more room in a message, but your attempt to slow down makes it sound like a list of separate syllables.\n\nWe will distinguish a slower pace from robotic timing, explore gentle stretching, and keep ordinary expression and meaning. First I will explain the distinction. Then you will see and hear a demonstration, try a few short phrases, and notice your own experience. We will finish with a short prepared rehearsal and an everyday next step. You can pause or ask a question at any point. A small comfortable experiment is enough.",
+      "learningPurpose": "Distinguish a slower pace from robotic timing",
+      "segments": [
+        {
+          "id": "B02-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "B02-01-S02",
+          "text": "Today we are exploring Slow Speech With Gentle Stretching."
+        },
+        {
+          "id": "B02-01-S03",
+          "text": "You want more room in a message, but your attempt to slow down makes it sound like a list of separate syllables."
+        },
+        {
+          "id": "B02-01-S04",
+          "text": "We will distinguish a slower pace from robotic timing, explore gentle stretching, and keep ordinary expression and meaning."
+        },
+        {
+          "id": "B02-01-S05",
+          "text": "First I will explain the distinction."
+        },
+        {
+          "id": "B02-01-S06",
+          "text": "Then you will see and hear a demonstration, try a few short phrases, and notice your own experience."
+        },
+        {
+          "id": "B02-01-S07",
+          "text": "We will finish with a short prepared rehearsal and an everyday next step."
+        },
+        {
+          "id": "B02-01-S08",
+          "text": "You can pause or ask a question at any point."
+        },
+        {
+          "id": "B02-01-S09",
+          "text": "A small comfortable experiment is enough."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "Welcome and what we will explore",
+        "labels": [
+          "Distinguish a slower pace from robotic timing",
+          "Explore gentle stretching",
+          "Keep ordinary expression and meaning"
+        ],
+        "altText": "Ordinary pace -> Gentle stretch with melody -> Smallest useful amount"
+      }
+    },
+    {
+      "id": "B02-02",
+      "type": "explain",
+      "phase": "Understand",
+      "heading": "What this tool means",
+      "narration": "Pace is how quickly the message moves. Gentle stretching gives selected sounds and transitions a little more time. It is different from placing a long silence after each word. Some sounds can be lengthened comfortably; a stop sound does not need to be held or pushed.\n\nSlow speech gives the message a little more room. It includes a gentle lengthening of selected sounds and transitions, rather than only adding long gaps. Your voice can still sound interested, warm or curious. Compare a slightly slower version with your ordinary pace, and choose an amount you can use in a real exchange.\n\nNotice the distinction: The useful contrast is pace and gentle stretch while keeping expression; mechanical equal timing is not the aim. You are choosing one feature for this learning experience, rather than inspecting every aspect of speech. We will use short familiar messages so there is room to notice that feature.",
+      "learningPurpose": "Distinguish a slower pace from robotic timing",
+      "segments": [
+        {
+          "id": "B02-02-S01",
+          "text": "Pace is how quickly the message moves."
+        },
+        {
+          "id": "B02-02-S02",
+          "text": "Gentle stretching gives selected sounds and transitions a little more time."
+        },
+        {
+          "id": "B02-02-S03",
+          "text": "It is different from placing a long silence after each word."
+        },
+        {
+          "id": "B02-02-S04",
+          "text": "Some sounds can be lengthened comfortably; a stop sound does not need to be held or pushed."
+        },
+        {
+          "id": "B02-02-S05",
+          "text": "Slow speech gives the message a little more room."
+        },
+        {
+          "id": "B02-02-S06",
+          "text": "It includes a gentle lengthening of selected sounds and transitions, rather than only adding long gaps."
+        },
+        {
+          "id": "B02-02-S07",
+          "text": "Your voice can still sound interested, warm or curious."
+        },
+        {
+          "id": "B02-02-S08",
+          "text": "Compare a slightly slower version with your ordinary pace, and choose an amount you can use in a real exchange."
+        },
+        {
+          "id": "B02-02-S09",
+          "text": "Notice the distinction: The useful contrast is pace and gentle stretch while keeping expression; mechanical equal timing is not the aim."
+        },
+        {
+          "id": "B02-02-S10",
+          "text": "You are choosing one feature for this learning experience, rather than inspecting every aspect of speech."
+        },
+        {
+          "id": "B02-02-S11",
+          "text": "We will use short familiar messages so there is room to notice that feature."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "What this tool means",
+        "labels": [
+          "Ordinary pace",
+          "Gentle stretch with melody",
+          "Smallest useful amount"
+        ],
+        "altText": "Ordinary pace -> Gentle stretch with melody -> Smallest useful amount"
+      }
+    },
+    {
+      "id": "B02-03",
+      "type": "demonstration",
+      "phase": "Understand",
+      "heading": "Watch and listen",
+      "narration": "Watch the demonstration before trying. We will use this message: I enjoyed speaking with you. First listen to the models and notice the feature being compared. The labels on screen identify each version. You can replay either model without copying an uncomfortable contrast.\n\nNow listen once more for the message itself. Pace, effort, expression and whether the message still feels like your own. This is an invitation to compare your experience, not a demand to match the model exactly. When you are ready, move to a short guided attempt.",
+      "learningPurpose": "Explore gentle stretching",
+      "segments": [
+        {
+          "id": "B02-03-S01",
+          "text": "Watch the demonstration before trying."
+        },
+        {
+          "id": "B02-03-S02",
+          "text": "We will use this message: I enjoyed speaking with you."
+        },
+        {
+          "id": "B02-03-S03",
+          "text": "First listen to the models and notice the feature being compared."
+        },
+        {
+          "id": "B02-03-S04",
+          "text": "The labels on screen identify each version."
+        },
+        {
+          "id": "B02-03-S05",
+          "text": "You can replay either model without copying an uncomfortable contrast."
+        },
+        {
+          "id": "B02-03-S06",
+          "text": "Now listen once more for the message itself."
+        },
+        {
+          "id": "B02-03-S07",
+          "text": "Pace, effort, expression and whether the message still feels like your own."
+        },
+        {
+          "id": "B02-03-S08",
+          "text": "This is an invitation to compare your experience, not a demand to match the model exactly."
+        },
+        {
+          "id": "B02-03-S09",
+          "text": "When you are ready, move to a short guided attempt."
+        }
+      ],
+      "visual": {
+        "kind": "reviewed_demonstration",
+        "title": "Watch and listen",
+        "labels": [
+          "Ordinary pace",
+          "Gentle stretch with melody",
+          "Smallest useful amount"
+        ],
+        "altText": "Record the same message at ordinary pace, slower with gentle stretch and an intentionally mechanical version for contrast. Label the mechanical version as a contrast only. Demonstrate stretching on sounds that can be lengthened comfortably; do not extend every stop consonant or force every syllable to equal length."
+      },
+      "exercise": {
+        "kind": "demonstration_review",
+        "prompt": "Which feature did you notice in the models?"
+      }
+    },
+    {
+      "id": "B02-04",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "Try the three small steps",
+      "narration": "Let us try this in small steps. First: Say a familiar short message at your ordinary pace. Next: Try a little more time and gentle stretch while preserving the meaning. Then: Return to a short conversation with the smallest useful amount.\n\nUse these familiar phrases one at a time: I enjoyed speaking with you. Could we discuss the plan tomorrow? Here is the part that matters to me. Stop between attempts when you want to. You can listen to a model again, record a short attempt, or leave this part to return later. Keep attention on this one chosen feature; you do not need to check every sound. If the attempt becomes effortful, stop and return to comfortable ordinary speaking.",
+      "learningPurpose": "Explore gentle stretching",
+      "segments": [
+        {
+          "id": "B02-04-S01",
+          "text": "Let us try this in small steps."
+        },
+        {
+          "id": "B02-04-S02",
+          "text": "First: Say a familiar short message at your ordinary pace."
+        },
+        {
+          "id": "B02-04-S03",
+          "text": "Next: Try a little more time and gentle stretch while preserving the meaning."
+        },
+        {
+          "id": "B02-04-S04",
+          "text": "Then: Return to a short conversation with the smallest useful amount."
+        },
+        {
+          "id": "B02-04-S05",
+          "text": "Use these familiar phrases one at a time: I enjoyed speaking with you."
+        },
+        {
+          "id": "B02-04-S06",
+          "text": "Could we discuss the plan tomorrow?"
+        },
+        {
+          "id": "B02-04-S07",
+          "text": "Here is the part that matters to me."
+        },
+        {
+          "id": "B02-04-S08",
+          "text": "Stop between attempts when you want to."
+        },
+        {
+          "id": "B02-04-S09",
+          "text": "You can listen to a model again, record a short attempt, or leave this part to return later."
+        },
+        {
+          "id": "B02-04-S10",
+          "text": "Keep attention on this one chosen feature; you do not need to check every sound."
+        },
+        {
+          "id": "B02-04-S11",
+          "text": "If the attempt becomes effortful, stop and return to comfortable ordinary speaking."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "guided_recording_steps",
+        "steps": [
+          {
+            "id": "B02-try-1",
+            "instruction": "Say a familiar short message at your ordinary pace.",
+            "phrase": "I enjoyed speaking with you.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B02-try-2",
+            "instruction": "Try a little more time and gentle stretch while preserving the meaning.",
+            "phrase": "Could we discuss the plan tomorrow?",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          },
+          {
+            "id": "B02-try-3",
+            "instruction": "Return to a short conversation with the smallest useful amount.",
+            "phrase": "Here is the part that matters to me.",
+            "recordingMaxSeconds": 60,
+            "learnerStartsRecording": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "B02-05",
+      "type": "contrast",
+      "phase": "Understand",
+      "heading": "Compare and check",
+      "narration": "Consider what this tool is asking you to explore. Which version matches this tool? You can select an answer and read or hear the explanation. It is a check of the idea, not a test of how you sound.\n\nAfter the check, notice one observation from your attempt: Pace, effort, expression and whether the message still feels like your own. It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed. You can record that uncertainty without repeating until you obtain a preferred result.",
+      "learningPurpose": "Explore gentle stretching",
+      "segments": [
+        {
+          "id": "B02-05-S01",
+          "text": "Consider what this tool is asking you to explore."
+        },
+        {
+          "id": "B02-05-S02",
+          "text": "Which version matches this tool?"
+        },
+        {
+          "id": "B02-05-S03",
+          "text": "You can select an answer and read or hear the explanation."
+        },
+        {
+          "id": "B02-05-S04",
+          "text": "It is a check of the idea, not a test of how you sound."
+        },
+        {
+          "id": "B02-05-S05",
+          "text": "After the check, notice one observation from your attempt: Pace, effort, expression and whether the message still feels like your own."
+        },
+        {
+          "id": "B02-05-S06",
+          "text": "It is possible for a movement to feel different while the message still takes effort, or for you to be unsure what changed."
+        },
+        {
+          "id": "B02-05-S07",
+          "text": "You can record that uncertainty without repeating until you obtain a preferred result."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "Which version matches this tool?",
+        "labels": [
+          "A slightly slower message with gentle stretch and natural expression.",
+          "Equal-length syllables with no melody.",
+          "Only adding long gaps between rushed words."
+        ],
+        "altText": "Ordinary pace -> Gentle stretch with melody -> Smallest useful amount"
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "Which version matches this tool?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A slightly slower message with gentle stretch and natural expression.",
+            "feedback": "Yes. The useful contrast is pace and gentle stretch while keeping expression; mechanical equal timing is not the aim."
+          },
+          {
+            "id": "B",
+            "text": "Equal-length syllables with no melody.",
+            "feedback": "Consider the distinction again. The useful contrast is pace and gentle stretch while keeping expression; mechanical equal timing is not the aim."
+          },
+          {
+            "id": "C",
+            "text": "Only adding long gaps between rushed words.",
+            "feedback": "Consider the distinction again. The useful contrast is pace and gentle stretch while keeping expression; mechanical equal timing is not the aim."
+          }
+        ],
+        "correctChoiceId": "A"
+      }
+    },
+    {
+      "id": "B02-06",
+      "type": "speaking",
+      "phase": "Try",
+      "heading": "From a phrase to your own message",
+      "narration": "Choose a short message you actually want to share. You might use one of the phrases we have practised and add one useful detail in your own words. Give yourself one small cue from the demonstration, then let the message continue. There is no need to increase the amount of the technique to make the attempt count.\n\nAfter speaking, ask what you noticed about the chosen feature and about the message. You can keep a small useful change, adjust it, or leave the result open. Try another short message only if it serves your learning today.",
+      "learningPurpose": "Keep ordinary expression and meaning",
+      "segments": [
+        {
+          "id": "B02-06-S01",
+          "text": "Choose a short message you actually want to share."
+        },
+        {
+          "id": "B02-06-S02",
+          "text": "You might use one of the phrases we have practised and add one useful detail in your own words."
+        },
+        {
+          "id": "B02-06-S03",
+          "text": "Give yourself one small cue from the demonstration, then let the message continue."
+        },
+        {
+          "id": "B02-06-S04",
+          "text": "There is no need to increase the amount of the technique to make the attempt count."
+        },
+        {
+          "id": "B02-06-S05",
+          "text": "After speaking, ask what you noticed about the chosen feature and about the message."
+        },
+        {
+          "id": "B02-06-S06",
+          "text": "You can keep a small useful change, adjust it, or leave the result open."
+        },
+        {
+          "id": "B02-06-S07",
+          "text": "Try another short message only if it serves your learning today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Use one practised phrase, then add a useful detail in your own words.",
+        "reflectionQuestions": [
+          "Pace, effort, expression and whether the message still feels like your own.",
+          "Was your intended message available?",
+          "Would you keep, change or leave this experiment open?"
+        ]
+      }
+    },
+    {
+      "id": "B02-07",
+      "type": "scripted_roleplay",
+      "phase": "Try",
+      "heading": "Prepared guided rehearsal",
+      "narration": "We will now use three prepared prompts. Each prompt is fixed and will not adapt to your answer. This is a short learning exercise. You can try the smallest comfortable amount of today's approach, then give attention to the message. Continue when you are ready; there is no countdown to answer.",
+      "learningPurpose": "Keep ordinary expression and meaning",
+      "segments": [
+        {
+          "id": "B02-07-S01",
+          "text": "We will now use three prepared prompts."
+        },
+        {
+          "id": "B02-07-S02",
+          "text": "Each prompt is fixed and will not adapt to your answer."
+        },
+        {
+          "id": "B02-07-S03",
+          "text": "This is a short learning exercise."
+        },
+        {
+          "id": "B02-07-S04",
+          "text": "You can try the smallest comfortable amount of today's approach, then give attention to the message."
+        },
+        {
+          "id": "B02-07-S05",
+          "text": "Continue when you are ready; there is no countdown to answer."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal — prepared prompts",
+        "partnerPrompts": [
+          "Introduce the purpose of your visit.",
+          "Ask for the information you need.",
+          "Explain one detail or make one request."
+        ]
+      }
+    },
+    {
+      "id": "B02-08",
+      "type": "close",
+      "phase": "Take it with you",
+      "heading": "Your observation and next step",
+      "narration": "Before finishing, save one observation. Here is the feature we explored: Pace, effort, expression and whether the message still feels like your own. Something may have changed, things may have felt much the same, or you may be unsure. Your observation belongs to this attempt and setting.\n\nIn focused practice, you can deliberately explore this one feature. In conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange.\n\nChoose one manageable situation in which you would like to speak. You can plan a small practice, have a conversation, revisit the demonstration, or finish here. Save what you would keep, change or leave open.",
+      "learningPurpose": "Keep ordinary expression and meaning",
+      "segments": [
+        {
+          "id": "B02-08-S01",
+          "text": "Before finishing, save one observation."
+        },
+        {
+          "id": "B02-08-S02",
+          "text": "Here is the feature we explored: Pace, effort, expression and whether the message still feels like your own."
+        },
+        {
+          "id": "B02-08-S03",
+          "text": "Something may have changed, things may have felt much the same, or you may be unsure."
+        },
+        {
+          "id": "B02-08-S04",
+          "text": "Your observation belongs to this attempt and setting."
+        },
+        {
+          "id": "B02-08-S05",
+          "text": "In focused practice, you can deliberately explore this one feature."
+        },
+        {
+          "id": "B02-08-S06",
+          "text": "In conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "B02-08-S07",
+          "text": "A familiar support can be available if it helps; it does not need to become a checklist you monitor throughout the exchange."
+        },
+        {
+          "id": "B02-08-S08",
+          "text": "Choose one manageable situation in which you would like to speak."
+        },
+        {
+          "id": "B02-08-S09",
+          "text": "You can plan a small practice, have a conversation, revisit the demonstration, or finish here."
+        },
+        {
+          "id": "B02-08-S10",
+          "text": "Save what you would keep, change or leave open."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "Your observation and next step",
+        "labels": [
+          "Ordinary pace",
+          "Gentle stretch with melody",
+          "Smallest useful amount"
+        ],
+        "altText": "Ordinary pace -> Gentle stretch with melody -> Smallest useful amount"
+      },
+      "exercise": {
+        "kind": "save_observation",
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ],
+        "fields": [
+          "observation",
+          "realSituation",
+          "smallNextStep"
+        ]
+      }
+    }
+  ],
+  "physicalToolNotes": {
+    "purpose": "Explore a pace below your natural pace with a little gentle stretching and natural expression.",
+    "teachingScript": "Slow speech gives the message a little more room. It includes a gentle lengthening of selected sounds and transitions, rather than only adding long gaps. Your voice can still sound interested, warm or curious. Compare a slightly slower version with your ordinary pace, and choose an amount you can use in a real exchange.",
+    "demonstrationProduction": "Record the same message at ordinary pace, slower with gentle stretch and an intentionally mechanical version for contrast. Label the mechanical version as a contrast only. Demonstrate stretching on sounds that can be lengthened comfortably; do not extend every stop consonant or force every syllable to equal length.",
+    "guidedSteps": [
+      "Say a familiar short message at your ordinary pace.",
+      "Try a little more time and gentle stretch while preserving the meaning.",
+      "Return to a short conversation with the smallest useful amount."
+    ],
+    "phrases": [
+      "I enjoyed speaking with you.",
+      "Could we discuss the plan tomorrow?",
+      "Here is the part that matters to me."
+    ],
+    "observation": "Pace, effort, expression and whether the message still feels like your own.",
+    "scriptedPartnerPrompts": [
+      "Introduce the purpose of your visit.",
+      "Ask for the information you need.",
+      "Explain one detail or make one request."
+    ]
+  }
+}

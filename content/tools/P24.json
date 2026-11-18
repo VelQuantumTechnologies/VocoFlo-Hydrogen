@@ -1,0 +1,535 @@
+{
+  "id": "P24",
+  "title": "Recover Without Repairing or Replaying",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Distinguish meaning repair from image repair",
+    "Return to the current exchange",
+    "End a brief review"
+  ],
+  "deeperExplanation": {
+    "question": "How is reflection different from replaying?",
+    "answer": "Reflection has a question and an ending. You might ask what helped me return after a difficult word, write one observation and choose a small experiment. Replaying often seeks a past version you can no longer create or certainty about what everyone thought. When you notice the review has stopped producing useful information, close it. You can return later with a specific question if there is a reason."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P24-focused-v1",
+  "sections": [
+    {
+      "id": "P24-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Recover Without Repairing or Replaying. A word is difficult, then the rest of the answer goes by while you are still mentally correcting it. Later you replay the whole conversation, hoping to find the version that should have happened.\n\nIn this session, we will distinguish meaning repair from image repair, return to the current exchange, and end a brief review. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Distinguish meaning repair from image repair",
+      "segments": [
+        {
+          "id": "P24-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P24-01-S02",
+          "text": "Today we are exploring Recover Without Repairing or Replaying."
+        },
+        {
+          "id": "P24-01-S03",
+          "text": "A word is difficult, then the rest of the answer goes by while you are still mentally correcting it."
+        },
+        {
+          "id": "P24-01-S04",
+          "text": "Later you replay the whole conversation, hoping to find the version that should have happened."
+        },
+        {
+          "id": "P24-01-S05",
+          "text": "In this session, we will distinguish meaning repair from image repair, return to the current exchange, and end a brief review."
+        },
+        {
+          "id": "P24-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P24-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P24-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Distinguish meaning repair from image repair",
+          "Return to the current exchange",
+          "End a brief review"
+        ],
+        "altText": "This session explores: Distinguish meaning repair from image repair; Return to the current exchange; End a brief review."
+      }
+    },
+    {
+      "id": "P24-02",
+      "type": "explain",
+      "narration": "Recovery means returning to what is happening now. You may need to repair meaning if the listener misunderstood. You do not have to repair every uneven sound or repeat a whole answer to prove you can say it smoothly. We will distinguish communication repair from image repair.",
+      "learningPurpose": "Distinguish meaning repair from image repair",
+      "segments": [
+        {
+          "id": "P24-02-S01",
+          "text": "Recovery means returning to what is happening now."
+        },
+        {
+          "id": "P24-02-S02",
+          "text": "You may need to repair meaning if the listener misunderstood."
+        },
+        {
+          "id": "P24-02-S03",
+          "text": "You do not have to repair every uneven sound or repeat a whole answer to prove you can say it smoothly."
+        },
+        {
+          "id": "P24-02-S04",
+          "text": "We will distinguish communication repair from image repair."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Was meaning unclear?"
+      }
+    },
+    {
+      "id": "P24-03",
+      "type": "explain",
+      "narration": "A word is difficult, then the rest of the answer goes by while you are still mentally correcting it. Later you replay the whole conversation, hoping to find the version that should have happened.\n\nAfter a difficult moment, ask a practical question: is something important unclear? If yes, clarify that part. If the message was understood, consider continuing. Later reflection can be useful when it is brief and leads to one experiment. Replaying for a different past outcome often has no natural stopping point.\n\nHow is reflection different from replaying?\n\nReflection has a question and an ending. You might ask what helped me return after a difficult word, write one observation and choose a small experiment. Replaying often seeks a past version you can no longer create or certainty about what everyone thought. When you notice the review has stopped producing useful information, close it. You can return later with a specific question if there is a reason.",
+      "learningPurpose": "Distinguish meaning repair from image repair",
+      "segments": [
+        {
+          "id": "P24-03-S01",
+          "text": "A word is difficult, then the rest of the answer goes by while you are still mentally correcting it."
+        },
+        {
+          "id": "P24-03-S02",
+          "text": "Later you replay the whole conversation, hoping to find the version that should have happened."
+        },
+        {
+          "id": "P24-03-S03",
+          "text": "After a difficult moment, ask a practical question: is something important unclear?"
+        },
+        {
+          "id": "P24-03-S04",
+          "text": "If yes, clarify that part."
+        },
+        {
+          "id": "P24-03-S05",
+          "text": "If the message was understood, consider continuing."
+        },
+        {
+          "id": "P24-03-S06",
+          "text": "Later reflection can be useful when it is brief and leads to one experiment."
+        },
+        {
+          "id": "P24-03-S07",
+          "text": "Replaying for a different past outcome often has no natural stopping point."
+        },
+        {
+          "id": "P24-03-S08",
+          "text": "How is reflection different from replaying?"
+        },
+        {
+          "id": "P24-03-S09",
+          "text": "Reflection has a question and an ending."
+        },
+        {
+          "id": "P24-03-S10",
+          "text": "You might ask what helped me return after a difficult word, write one observation and choose a small experiment."
+        },
+        {
+          "id": "P24-03-S11",
+          "text": "Replaying often seeks a past version you can no longer create or certainty about what everyone thought."
+        },
+        {
+          "id": "P24-03-S12",
+          "text": "When you notice the review has stopped producing useful information, close it."
+        },
+        {
+          "id": "P24-03-S13",
+          "text": "You can return later with a specific question if there is a reason."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Was meaning unclear?",
+          "Clarify that detail",
+          "Return to exchange"
+        ],
+        "altText": "Three parts to distinguish: Was meaning unclear?, Clarify that detail, Return to exchange. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What did you feel compelled to repair?"
+      }
+    },
+    {
+      "id": "P24-04",
+      "type": "visual",
+      "narration": "If you stumble on a step, you can find your footing and keep walking. You do not need to walk the entire staircase again in front of everyone.",
+      "learningPurpose": "Distinguish meaning repair from image repair",
+      "segments": [
+        {
+          "id": "P24-04-S01",
+          "text": "If you stumble on a step, you can find your footing and keep walking."
+        },
+        {
+          "id": "P24-04-S02",
+          "text": "You do not need to walk the entire staircase again in front of everyone."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Staircase",
+        "labels": [
+          "Find your footing",
+          "Continue the exchange"
+        ],
+        "altText": "If you stumble on a step, you can find your footing and keep walking. You do not need to walk the entire staircase again in front of everyone."
+      }
+    },
+    {
+      "id": "P24-05",
+      "type": "contrast",
+      "narration": "Meaning repair: I said Tuesday, but I meant Thursday. Image repair: Let me repeat the whole sentence so you hear I can say it properly. Notice which task you are doing. Now consider a short check. When is clarification useful? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Return to the current exchange",
+      "segments": [
+        {
+          "id": "P24-05-S01",
+          "text": "Meaning repair: I said Tuesday, but I meant Thursday."
+        },
+        {
+          "id": "P24-05-S02",
+          "text": "Image repair: Let me repeat the whole sentence so you hear I can say it properly."
+        },
+        {
+          "id": "P24-05-S03",
+          "text": "Notice which task you are doing."
+        },
+        {
+          "id": "P24-05-S04",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P24-05-S05",
+          "text": "When is clarification useful?"
+        },
+        {
+          "id": "P24-05-S06",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "When is clarification useful?",
+        "labels": [
+          "Whenever a sentence sounded uneven.",
+          "When an important detail was misunderstood.",
+          "Until you can repeat the whole answer smoothly."
+        ],
+        "altText": "Three options: Whenever a sentence sounded uneven. / When an important detail was misunderstood. / Until you can repeat the whole answer smoothly."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "When is clarification useful?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Whenever a sentence sounded uneven.",
+            "feedback": "Consider the distinction again. Clarify the information that matters. Repeating solely to prove a smooth version is a different task."
+          },
+          {
+            "id": "B",
+            "text": "When an important detail was misunderstood.",
+            "feedback": "Yes. Clarify the information that matters. Repeating solely to prove a smooth version is a different task."
+          },
+          {
+            "id": "C",
+            "text": "Until you can repeat the whole answer smoothly.",
+            "feedback": "Consider the distinction again. Clarify the information that matters. Repeating solely to prove a smooth version is a different task."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P24-06",
+      "type": "reflection",
+      "narration": "Choose a mild remembered event. Write what the listener needed clarified, if anything. Then write what you wanted to redo for your own image. Give those tasks separate names.",
+      "learningPurpose": "Return to the current exchange",
+      "segments": [
+        {
+          "id": "P24-06-S01",
+          "text": "Choose a mild remembered event."
+        },
+        {
+          "id": "P24-06-S02",
+          "text": "Write what the listener needed clarified, if anything."
+        },
+        {
+          "id": "P24-06-S03",
+          "text": "Then write what you wanted to redo for your own image."
+        },
+        {
+          "id": "P24-06-S04",
+          "text": "Give those tasks separate names."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Choose a mild remembered event. Write what the listener needed clarified, if anything. Then write what you wanted to redo for your own image. Give those tasks separate names.",
+        "questions": [
+          "Was meaning unclear?",
+          "What did you feel compelled to repair?",
+          "What helped you take the next conversational step?"
+        ]
+      }
+    },
+    {
+      "id": "P24-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Tell a short familiar story and continue after any natural hesitation. Do not induce one. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Return to the current exchange",
+      "segments": [
+        {
+          "id": "P24-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P24-07-S02",
+          "text": "Tell a short familiar story and continue after any natural hesitation."
+        },
+        {
+          "id": "P24-07-S03",
+          "text": "Do not induce one."
+        },
+        {
+          "id": "P24-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P24-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P24-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Tell a short familiar story and continue after any natural hesitation. Do not induce one.",
+        "reflectionQuestions": [
+          "Was meaning unclear?",
+          "What did you feel compelled to repair?",
+          "What helped you take the next conversational step?"
+        ]
+      }
+    },
+    {
+      "id": "P24-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Clarify only a detail that actually needs clarification, or add the next story detail if meaning was clear. Make one observation and end the review. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Return to the current exchange",
+      "segments": [
+        {
+          "id": "P24-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P24-08-S02",
+          "text": "Clarify only a detail that actually needs clarification, or add the next story detail if meaning was clear."
+        },
+        {
+          "id": "P24-08-S03",
+          "text": "Make one observation and end the review."
+        },
+        {
+          "id": "P24-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P24-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Clarify only a detail that actually needs clarification, or add the next story detail if meaning was clear. Make one observation and end the review.",
+        "reflectionQuestions": [
+          "Was meaning unclear?",
+          "What did you feel compelled to repair?",
+          "What helped you take the next conversational step?"
+        ]
+      }
+    },
+    {
+      "id": "P24-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "End a brief review",
+      "segments": [
+        {
+          "id": "P24-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P24-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P24-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P24-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "A word is difficult, then the rest of the answer goes by while you are still mentally correcting it. Later you replay the whole conversation, hoping to find the version that should have happened.",
+        "partnerPrompts": [
+          "What happened first?",
+          "I am not sure which day you meant. Clarify just that detail.",
+          "What happened after that?"
+        ]
+      }
+    },
+    {
+      "id": "P24-10",
+      "type": "review",
+      "narration": "Choosing not to repeat is not another strict rule. Sometimes repetition helps a listener or is simply natural. The point is to recognise when repair has become a test of your worth. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "End a brief review",
+      "segments": [
+        {
+          "id": "P24-10-S01",
+          "text": "Choosing not to repeat is not another strict rule."
+        },
+        {
+          "id": "P24-10-S02",
+          "text": "Sometimes repetition helps a listener or is simply natural."
+        },
+        {
+          "id": "P24-10-S03",
+          "text": "The point is to recognise when repair has become a test of your worth."
+        },
+        {
+          "id": "P24-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P24-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "Was meaning unclear?",
+          "What did you feel compelled to repair?",
+          "What helped you take the next conversational step?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P24-11",
+      "type": "transfer",
+      "narration": "After one difficult moment, check meaning once and return to the exchange. Save at most one observation for later practice. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "End a brief review",
+      "segments": [
+        {
+          "id": "P24-11-S01",
+          "text": "After one difficult moment, check meaning once and return to the exchange."
+        },
+        {
+          "id": "P24-11-S02",
+          "text": "Save at most one observation for later practice."
+        },
+        {
+          "id": "P24-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P24-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P24-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "After one difficult moment, check meaning once and return to the exchange. Save at most one observation for later practice.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P24-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "End a brief review",
+      "segments": [
+        {
+          "id": "P24-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P24-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P24-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P24-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P24-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "What helped you take the next conversational step?"
+      }
+    }
+  ]
+}

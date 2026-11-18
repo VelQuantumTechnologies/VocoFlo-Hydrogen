@@ -1,0 +1,287 @@
+{
+  "count": 40,
+  "psychological": 30,
+  "body": 10,
+  "tools": [
+    {
+      "id": "B01",
+      "title": "Exhalation — Begin With Moving Air",
+      "category": "body",
+      "path": "content/tools/B01.json",
+      "practiceCardId": "B01-focused-v1"
+    },
+    {
+      "id": "B02",
+      "title": "Slow Speech With Gentle Stretching",
+      "category": "body",
+      "path": "content/tools/B02.json",
+      "practiceCardId": "B02-focused-v1"
+    },
+    {
+      "id": "B03",
+      "title": "Comfortable Pauses",
+      "category": "body",
+      "path": "content/tools/B03.json",
+      "practiceCardId": "B03-focused-v1"
+    },
+    {
+      "id": "B04",
+      "title": "Light Articulation",
+      "category": "body",
+      "path": "content/tools/B04.json",
+      "practiceCardId": "B04-focused-v1"
+    },
+    {
+      "id": "B05",
+      "title": "Gentle Voice Start",
+      "category": "body",
+      "path": "content/tools/B05.json",
+      "practiceCardId": "B05-focused-v1"
+    },
+    {
+      "id": "B06",
+      "title": "Linked Speech / Legato",
+      "category": "body",
+      "path": "content/tools/B06.json",
+      "practiceCardId": "B06-focused-v1"
+    },
+    {
+      "id": "B07",
+      "title": "Reduce Unnecessary Body Bracing",
+      "category": "body",
+      "path": "content/tools/B07.json",
+      "practiceCardId": "B07-focused-v1"
+    },
+    {
+      "id": "B08",
+      "title": "Ease Out of a Block",
+      "category": "body",
+      "path": "content/tools/B08.json",
+      "practiceCardId": "B08-focused-v1"
+    },
+    {
+      "id": "B09",
+      "title": "Expressive Speech — Stress and Intonation",
+      "category": "body",
+      "path": "content/tools/B09.json",
+      "practiceCardId": "B09-focused-v1"
+    },
+    {
+      "id": "B10",
+      "title": "Comfortable Vocal Projection — Let Your Voice Reach",
+      "category": "body",
+      "path": "content/tools/B10.json",
+      "practiceCardId": "B10-focused-v1"
+    },
+    {
+      "id": "P01",
+      "title": "Your Identity With Your Speech",
+      "category": "psychological",
+      "path": "content/tools/P01.json",
+      "practiceCardId": "P01-focused-v1"
+    },
+    {
+      "id": "P02",
+      "title": "A Little Shameless",
+      "category": "psychological",
+      "path": "content/tools/P02.json",
+      "practiceCardId": "P02-focused-v1"
+    },
+    {
+      "id": "P03",
+      "title": "Drop Performance Mode",
+      "category": "psychological",
+      "path": "content/tools/P03.json",
+      "practiceCardId": "P03-focused-v1"
+    },
+    {
+      "id": "P04",
+      "title": "The Careless Approach",
+      "category": "psychological",
+      "path": "content/tools/P04.json",
+      "practiceCardId": "P04-focused-v1"
+    },
+    {
+      "id": "P05",
+      "title": "Stop Standing Against Yourself",
+      "category": "psychological",
+      "path": "content/tools/P05.json",
+      "practiceCardId": "P05-focused-v1"
+    },
+    {
+      "id": "P06",
+      "title": "Understand Your Shame",
+      "category": "psychological",
+      "path": "content/tools/P06.json",
+      "practiceCardId": "P06-focused-v1"
+    },
+    {
+      "id": "P07",
+      "title": "Your Relationship With Your Voice",
+      "category": "psychological",
+      "path": "content/tools/P07.json",
+      "practiceCardId": "P07-focused-v1"
+    },
+    {
+      "id": "P08",
+      "title": "Recognise the Watcher",
+      "category": "psychological",
+      "path": "content/tools/P08.json",
+      "practiceCardId": "P08-focused-v1"
+    },
+    {
+      "id": "P09",
+      "title": "Don’t Feed Every Speech Thought",
+      "category": "psychological",
+      "path": "content/tools/P09.json",
+      "practiceCardId": "P09-focused-v1"
+    },
+    {
+      "id": "P10",
+      "title": "Return to the Conversation",
+      "category": "psychological",
+      "path": "content/tools/P10.json",
+      "practiceCardId": "P10-focused-v1"
+    },
+    {
+      "id": "P11",
+      "title": "Listening Without Rehearsing or Comparing",
+      "category": "psychological",
+      "path": "content/tools/P11.json",
+      "practiceCardId": "P11-focused-v1"
+    },
+    {
+      "id": "P12",
+      "title": "Prediction Is Not Reality",
+      "category": "psychological",
+      "path": "content/tools/P12.json",
+      "practiceCardId": "P12-focused-v1"
+    },
+    {
+      "id": "P13",
+      "title": "Loosen Your Speaking Rules",
+      "category": "psychological",
+      "path": "content/tools/P13.json",
+      "practiceCardId": "P13-focused-v1"
+    },
+    {
+      "id": "P14",
+      "title": "Feel the Emotion and Choose Your Response",
+      "category": "psychological",
+      "path": "content/tools/P14.json",
+      "practiceCardId": "P14-focused-v1"
+    },
+    {
+      "id": "P15",
+      "title": "Make Room for Disappointment and Frustration",
+      "category": "psychological",
+      "path": "content/tools/P15.json",
+      "practiceCardId": "P15-focused-v1"
+    },
+    {
+      "id": "P16",
+      "title": "Guilt, Expectations, and Speaking Needs",
+      "category": "psychological",
+      "path": "content/tools/P16.json",
+      "practiceCardId": "P16-focused-v1"
+    },
+    {
+      "id": "P17",
+      "title": "Understand Your Pattern Without Overanalysing",
+      "category": "psychological",
+      "path": "content/tools/P17.json",
+      "practiceCardId": "P17-focused-v1"
+    },
+    {
+      "id": "P18",
+      "title": "First Sentence Only",
+      "category": "psychological",
+      "path": "content/tools/P18.json",
+      "practiceCardId": "P18-focused-v1"
+    },
+    {
+      "id": "P19",
+      "title": "Carry Meaning in Small Pieces",
+      "category": "psychological",
+      "path": "content/tools/P19.json",
+      "practiceCardId": "P19-focused-v1"
+    },
+    {
+      "id": "P20",
+      "title": "Prepare Less, Allow More Spontaneity",
+      "category": "psychological",
+      "path": "content/tools/P20.json",
+      "practiceCardId": "P20-focused-v1"
+    },
+    {
+      "id": "P21",
+      "title": "Give Yourself Time and Space",
+      "category": "psychological",
+      "path": "content/tools/P21.json",
+      "practiceCardId": "P21-focused-v1"
+    },
+    {
+      "id": "P22",
+      "title": "Understand Avoidance and Safety Habits",
+      "category": "psychological",
+      "path": "content/tools/P22.json",
+      "practiceCardId": "P22-focused-v1"
+    },
+    {
+      "id": "P23",
+      "title": "Stay With What You Wanted to Say",
+      "category": "psychological",
+      "path": "content/tools/P23.json",
+      "practiceCardId": "P23-focused-v1"
+    },
+    {
+      "id": "P24",
+      "title": "Recover Without Repairing or Replaying",
+      "category": "psychological",
+      "path": "content/tools/P24.json",
+      "practiceCardId": "P24-focused-v1"
+    },
+    {
+      "id": "P25",
+      "title": "Return After an Interruption",
+      "category": "psychological",
+      "path": "content/tools/P25.json",
+      "practiceCardId": "P25-focused-v1"
+    },
+    {
+      "id": "P26",
+      "title": "Experiment Without Grading Yourself",
+      "category": "psychological",
+      "path": "content/tools/P26.json",
+      "practiceCardId": "P26-focused-v1"
+    },
+    {
+      "id": "P27",
+      "title": "Keep Your Supports Light",
+      "category": "psychological",
+      "path": "content/tools/P27.json",
+      "practiceCardId": "P27-focused-v1"
+    },
+    {
+      "id": "P28",
+      "title": "Find Your Reason to Speak and Take a Step",
+      "category": "psychological",
+      "path": "content/tools/P28.json",
+      "practiceCardId": "P28-focused-v1"
+    },
+    {
+      "id": "P29",
+      "title": "Disclosure, Boundaries, and Listener Reactions",
+      "category": "psychological",
+      "path": "content/tools/P29.json",
+      "practiceCardId": "P29-focused-v1"
+    },
+    {
+      "id": "P30",
+      "title": "Your Personal Speaking Map and Continuing Plan",
+      "category": "psychological",
+      "path": "content/tools/P30.json",
+      "practiceCardId": "P30-focused-v1"
+    }
+  ]
+}

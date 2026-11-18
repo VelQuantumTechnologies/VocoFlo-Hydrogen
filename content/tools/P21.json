@@ -1,0 +1,527 @@
+{
+  "id": "P21",
+  "title": "Give Yourself Time and Space",
+  "category": "psychological",
+  "contentVersion": "1.2.0-scripted-review",
+  "status": "authored_review_draft",
+  "learningGoals": [
+    "Separate actual time limits from assumed ones",
+    "Ask for space when useful",
+    "Share the main point"
+  ],
+  "deeperExplanation": {
+    "question": "What if the other person really is in a hurry?",
+    "answer": "You can name the practical choice. Offer a short version now, ask which detail is most important or arrange another time. This respects the real limit without assuming that you must race every sound. You may still choose to say something brief. Giving yourself time means including your needs in the decision, not ignoring the listener or requiring unlimited time from everyone."
+  },
+  "authoringStatus": "complete_script_review_draft",
+  "founderApproved": false,
+  "productionReleaseAllowed": false,
+  "practiceCardId": "P21-focused-v1",
+  "sections": [
+    {
+      "id": "P21-01",
+      "type": "welcome",
+      "narration": "Welcome. Today we are exploring Give Yourself Time and Space. A question arrives and you feel you must answer before the silence becomes noticeable. You begin before you know what you want to say, then hurry because you already feel behind.\n\nIn this session, we will separate actual time limits from assumed ones, ask for space when useful, and share the main point. I will explain the idea, show a visual example, and invite you to try it in a small experience of your own. You can ask me a question or switch to reading at any point. We will finish by choosing what, if anything, you want to take into a real conversation.",
+      "learningPurpose": "Separate actual time limits from assumed ones",
+      "segments": [
+        {
+          "id": "P21-01-S01",
+          "text": "Welcome."
+        },
+        {
+          "id": "P21-01-S02",
+          "text": "Today we are exploring Give Yourself Time and Space."
+        },
+        {
+          "id": "P21-01-S03",
+          "text": "A question arrives and you feel you must answer before the silence becomes noticeable."
+        },
+        {
+          "id": "P21-01-S04",
+          "text": "You begin before you know what you want to say, then hurry because you already feel behind."
+        },
+        {
+          "id": "P21-01-S05",
+          "text": "In this session, we will separate actual time limits from assumed ones, ask for space when useful, and share the main point."
+        },
+        {
+          "id": "P21-01-S06",
+          "text": "I will explain the idea, show a visual example, and invite you to try it in a small experience of your own."
+        },
+        {
+          "id": "P21-01-S07",
+          "text": "You can ask me a question or switch to reading at any point."
+        },
+        {
+          "id": "P21-01-S08",
+          "text": "We will finish by choosing what, if anything, you want to take into a real conversation."
+        }
+      ],
+      "visual": {
+        "kind": "learning_goals",
+        "title": "What we will explore",
+        "labels": [
+          "Separate actual time limits from assumed ones",
+          "Ask for space when useful",
+          "Share the main point"
+        ],
+        "altText": "This session explores: Separate actual time limits from assumed ones; Ask for space when useful; Share the main point."
+      }
+    },
+    {
+      "id": "P21-02",
+      "type": "explain",
+      "narration": "You can participate without treating every moment of silence as a debt. Time and space can mean a short pause, a request to repeat the question, a comfortable physical position or permission to finish a point. We will practise asking for what serves the exchange instead of assuming the listener requires instant speech.",
+      "learningPurpose": "Separate actual time limits from assumed ones",
+      "segments": [
+        {
+          "id": "P21-02-S01",
+          "text": "You can participate without treating every moment of silence as a debt."
+        },
+        {
+          "id": "P21-02-S02",
+          "text": "Time and space can mean a short pause, a request to repeat the question, a comfortable physical position or permission to finish a point."
+        },
+        {
+          "id": "P21-02-S03",
+          "text": "We will practise asking for what serves the exchange instead of assuming the listener requires instant speech."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "Where did the time pressure come from?"
+      }
+    },
+    {
+      "id": "P21-03",
+      "type": "explain",
+      "narration": "A question arrives and you feel you must answer before the silence becomes noticeable. You begin before you know what you want to say, then hurry because you already feel behind.\n\nSome settings genuinely have time limits. You can work with those limits by choosing a shorter message or agreeing another time. Giving yourself space does not mean making every answer long. It means including your need in the conversation rather than silently racing an imagined clock.\n\nWhat if the other person really is in a hurry?\n\nYou can name the practical choice. Offer a short version now, ask which detail is most important or arrange another time. This respects the real limit without assuming that you must race every sound. You may still choose to say something brief. Giving yourself time means including your needs in the decision, not ignoring the listener or requiring unlimited time from everyone.",
+      "learningPurpose": "Separate actual time limits from assumed ones",
+      "segments": [
+        {
+          "id": "P21-03-S01",
+          "text": "A question arrives and you feel you must answer before the silence becomes noticeable."
+        },
+        {
+          "id": "P21-03-S02",
+          "text": "You begin before you know what you want to say, then hurry because you already feel behind."
+        },
+        {
+          "id": "P21-03-S03",
+          "text": "Some settings genuinely have time limits."
+        },
+        {
+          "id": "P21-03-S04",
+          "text": "You can work with those limits by choosing a shorter message or agreeing another time."
+        },
+        {
+          "id": "P21-03-S05",
+          "text": "Giving yourself space does not mean making every answer long."
+        },
+        {
+          "id": "P21-03-S06",
+          "text": "It means including your need in the conversation rather than silently racing an imagined clock."
+        },
+        {
+          "id": "P21-03-S07",
+          "text": "What if the other person really is in a hurry?"
+        },
+        {
+          "id": "P21-03-S08",
+          "text": "You can name the practical choice."
+        },
+        {
+          "id": "P21-03-S09",
+          "text": "Offer a short version now, ask which detail is most important or arrange another time."
+        },
+        {
+          "id": "P21-03-S10",
+          "text": "This respects the real limit without assuming that you must race every sound."
+        },
+        {
+          "id": "P21-03-S11",
+          "text": "You may still choose to say something brief."
+        },
+        {
+          "id": "P21-03-S12",
+          "text": "Giving yourself time means including your needs in the decision, not ignoring the listener or requiring unlimited time from everyone."
+        }
+      ],
+      "visual": {
+        "kind": "three_part_map",
+        "title": "A closer look",
+        "labels": [
+          "Actual limit",
+          "Assumed urgency",
+          "Useful request"
+        ],
+        "altText": "Three parts to distinguish: Actual limit, Assumed urgency, Useful request. These are a learning map, not a diagnosis."
+      },
+      "exercise": {
+        "kind": "pause_and_notice",
+        "prompt": "What request felt natural?"
+      }
+    },
+    {
+      "id": "P21-04",
+      "type": "visual",
+      "narration": "If you try to pour water into a cup while moving it away, you spill. Letting the cup stay still for a moment is a practical action, not a personal indulgence.",
+      "learningPurpose": "Separate actual time limits from assumed ones",
+      "segments": [
+        {
+          "id": "P21-04-S01",
+          "text": "If you try to pour water into a cup while moving it away, you spill."
+        },
+        {
+          "id": "P21-04-S02",
+          "text": "Letting the cup stay still for a moment is a practical action, not a personal indulgence."
+        }
+      ],
+      "visual": {
+        "kind": "authored_metaphor_illustration",
+        "title": "Cup",
+        "labels": [
+          "Racing the moment",
+          "Space for the message"
+        ],
+        "altText": "If you try to pour water into a cup while moving it away, you spill. Letting the cup stay still for a moment is a practical action, not a personal indulgence."
+      }
+    },
+    {
+      "id": "P21-05",
+      "type": "contrast",
+      "narration": "Racing: I need to answer now or I will look uncertain. Spacious: Let me think for a moment. The main point is this. Use the phrase only when you actually want the moment. Now consider a short check. What is a useful response to a real short time limit? Choose an option when you are ready; I will explain the distinction.",
+      "learningPurpose": "Ask for space when useful",
+      "segments": [
+        {
+          "id": "P21-05-S01",
+          "text": "Racing: I need to answer now or I will look uncertain."
+        },
+        {
+          "id": "P21-05-S02",
+          "text": "Spacious: Let me think for a moment."
+        },
+        {
+          "id": "P21-05-S03",
+          "text": "The main point is this."
+        },
+        {
+          "id": "P21-05-S04",
+          "text": "Use the phrase only when you actually want the moment."
+        },
+        {
+          "id": "P21-05-S05",
+          "text": "Now consider a short check."
+        },
+        {
+          "id": "P21-05-S06",
+          "text": "What is a useful response to a real short time limit?"
+        },
+        {
+          "id": "P21-05-S07",
+          "text": "Choose an option when you are ready; I will explain the distinction."
+        }
+      ],
+      "visual": {
+        "kind": "choice_comparison",
+        "title": "What is a useful response to a real short time limit?",
+        "labels": [
+          "Rush every detail.",
+          "Give the main point or ask for a suitable time to finish.",
+          "Treat the limit as proof the listener dislikes you."
+        ],
+        "altText": "Three options: Rush every detail. / Give the main point or ask for a suitable time to finish. / Treat the limit as proof the listener dislikes you."
+      },
+      "exercise": {
+        "kind": "understanding_check",
+        "prompt": "What is a useful response to a real short time limit?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rush every detail.",
+            "feedback": "Consider the distinction again. A real constraint can guide the size or timing of the message. It does not establish a judgment about your worth."
+          },
+          {
+            "id": "B",
+            "text": "Give the main point or ask for a suitable time to finish.",
+            "feedback": "Yes. A real constraint can guide the size or timing of the message. It does not establish a judgment about your worth."
+          },
+          {
+            "id": "C",
+            "text": "Treat the limit as proof the listener dislikes you.",
+            "feedback": "Consider the distinction again. A real constraint can guide the size or timing of the message. It does not establish a judgment about your worth."
+          }
+        ],
+        "correctChoiceId": "B"
+      }
+    },
+    {
+      "id": "P21-06",
+      "type": "reflection",
+      "narration": "Write a situation where time pressure appears. Separate actual time limits from assumed ones. Choose one simple request: give me a moment, could you repeat that, or can I finish this point?",
+      "learningPurpose": "Ask for space when useful",
+      "segments": [
+        {
+          "id": "P21-06-S01",
+          "text": "Write a situation where time pressure appears."
+        },
+        {
+          "id": "P21-06-S02",
+          "text": "Separate actual time limits from assumed ones."
+        },
+        {
+          "id": "P21-06-S03",
+          "text": "Choose one simple request: give me a moment, could you repeat that, or can I finish this point?"
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "private_notes",
+        "prompt": "Write a situation where time pressure appears. Separate actual time limits from assumed ones. Choose one simple request: give me a moment, could you repeat that, or can I finish this point?",
+        "questions": [
+          "Where did the time pressure come from?",
+          "What request felt natural?",
+          "Could you make the message smaller without abandoning it?"
+        ]
+      }
+    },
+    {
+      "id": "P21-07",
+      "type": "speaking",
+      "narration": "Let us try a small speaking experience. Hear this prepared question: What is one decision you are considering? Allow a natural moment, then answer one useful part. A shorter attempt is fine. Record only when you choose. Afterwards save one observation rather than decide what this says about you as a person.",
+      "learningPurpose": "Ask for space when useful",
+      "segments": [
+        {
+          "id": "P21-07-S01",
+          "text": "Let us try a small speaking experience."
+        },
+        {
+          "id": "P21-07-S02",
+          "text": "Hear this prepared question: What is one decision you are considering?"
+        },
+        {
+          "id": "P21-07-S03",
+          "text": "Allow a natural moment, then answer one useful part."
+        },
+        {
+          "id": "P21-07-S04",
+          "text": "A shorter attempt is fine."
+        },
+        {
+          "id": "P21-07-S05",
+          "text": "Record only when you choose."
+        },
+        {
+          "id": "P21-07-S06",
+          "text": "Afterwards save one observation rather than decide what this says about you as a person."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Hear this prepared question: What is one decision you are considering? Allow a natural moment, then answer one useful part.",
+        "reflectionQuestions": [
+          "Where did the time pressure come from?",
+          "What request felt natural?",
+          "Could you make the message smaller without abandoning it?"
+        ]
+      }
+    },
+    {
+      "id": "P21-08",
+      "type": "speaking",
+      "narration": "For this next attempt, keep one clear purpose. Practise a time or space request you would actually use, such as: Let me think for a moment, or: Can I finish this point? No fixed number of seconds. You can listen back if useful, or reflect without replaying. Changed, unchanged or uncertain experiences are all information.",
+      "learningPurpose": "Ask for space when useful",
+      "segments": [
+        {
+          "id": "P21-08-S01",
+          "text": "For this next attempt, keep one clear purpose."
+        },
+        {
+          "id": "P21-08-S02",
+          "text": "Practise a time or space request you would actually use, such as: Let me think for a moment, or: Can I finish this point?"
+        },
+        {
+          "id": "P21-08-S03",
+          "text": "No fixed number of seconds."
+        },
+        {
+          "id": "P21-08-S04",
+          "text": "You can listen back if useful, or reflect without replaying."
+        },
+        {
+          "id": "P21-08-S05",
+          "text": "Changed, unchanged or uncertain experiences are all information."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "recording",
+        "prompt": "Practise a time or space request you would actually use, such as: Let me think for a moment, or: Can I finish this point? No fixed number of seconds.",
+        "reflectionQuestions": [
+          "Where did the time pressure come from?",
+          "What request felt natural?",
+          "Could you make the message smaller without abandoning it?"
+        ]
+      }
+    },
+    {
+      "id": "P21-09",
+      "type": "scripted_roleplay",
+      "narration": "We will now use three prepared prompts for guided rehearsal. Each prompt is fixed, so it will not adapt to your reply. Take your time, answer in your own words, and continue when ready. Your task is to explore today’s approach in the situation, not to produce a perfect version.",
+      "learningPurpose": "Share the main point",
+      "segments": [
+        {
+          "id": "P21-09-S01",
+          "text": "We will now use three prepared prompts for guided rehearsal."
+        },
+        {
+          "id": "P21-09-S02",
+          "text": "Each prompt is fixed, so it will not adapt to your reply."
+        },
+        {
+          "id": "P21-09-S03",
+          "text": "Take your time, answer in your own words, and continue when ready."
+        },
+        {
+          "id": "P21-09-S04",
+          "text": "Your task is to explore today’s approach in the situation, not to produce a perfect version."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "scripted_roleplay",
+        "label": "Guided rehearsal",
+        "scenario": "A question arrives and you feel you must answer before the silence becomes noticeable. You begin before you know what you want to say, then hurry because you already feel behind.",
+        "partnerPrompts": [
+          "What is one decision you are considering?",
+          "I have a follow-up, but you have not finished. Ask to finish your point.",
+          "We have only a minute. What is the main thing I need to know?"
+        ]
+      }
+    },
+    {
+      "id": "P21-10",
+      "type": "review",
+      "narration": "You do not need to pause conspicuously to demonstrate confidence. Nor must you apologise for every moment. Space is something you can use, not something you have to perform. A changed, unchanged or uncertain experience is information, not a grade. You do not have to report relief for this attempt to count as exploration.",
+      "learningPurpose": "Share the main point",
+      "segments": [
+        {
+          "id": "P21-10-S01",
+          "text": "You do not need to pause conspicuously to demonstrate confidence."
+        },
+        {
+          "id": "P21-10-S02",
+          "text": "Nor must you apologise for every moment."
+        },
+        {
+          "id": "P21-10-S03",
+          "text": "Space is something you can use, not something you have to perform."
+        },
+        {
+          "id": "P21-10-S04",
+          "text": "A changed, unchanged or uncertain experience is information, not a grade."
+        },
+        {
+          "id": "P21-10-S05",
+          "text": "You do not have to report relief for this attempt to count as exploration."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "review",
+        "prompt": "Compare one observation from your attempts.",
+        "questions": [
+          "Where did the time pressure come from?",
+          "What request felt natural?",
+          "Could you make the message smaller without abandoning it?"
+        ],
+        "observationChoices": [
+          "Something changed",
+          "Much the same",
+          "Not sure"
+        ]
+      }
+    },
+    {
+      "id": "P21-11",
+      "type": "transfer",
+      "narration": "Use one time or space request in an ordinary setting. Notice the actual response. During focused practice, you can deliberately explore this one tool. In an everyday conversation, give most of your attention to the message and the other person. A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange.",
+      "learningPurpose": "Share the main point",
+      "segments": [
+        {
+          "id": "P21-11-S01",
+          "text": "Use one time or space request in an ordinary setting."
+        },
+        {
+          "id": "P21-11-S02",
+          "text": "Notice the actual response."
+        },
+        {
+          "id": "P21-11-S03",
+          "text": "During focused practice, you can deliberately explore this one tool."
+        },
+        {
+          "id": "P21-11-S04",
+          "text": "In an everyday conversation, give most of your attention to the message and the other person."
+        },
+        {
+          "id": "P21-11-S05",
+          "text": "A familiar support can be available if it helps; you do not have to monitor the tool throughout the exchange."
+        }
+      ],
+      "visual": {
+        "kind": "comparison_cards",
+        "title": "Two different attention goals",
+        "labels": [
+          "Focused practice: explore this tool",
+          "Conversation: share meaning and listen"
+        ],
+        "altText": "Focused practice explores one tool. Conversation gives attention to the message and the listener, with familiar supports available."
+      },
+      "exercise": {
+        "kind": "plan",
+        "prompt": "Use one time or space request in an ordinary setting. Notice the actual response.",
+        "fields": [
+          "situation",
+          "smallAction",
+          "observationToNotice"
+        ]
+      }
+    },
+    {
+      "id": "P21-12",
+      "type": "close",
+      "narration": "Before leaving, save one observation in your own words. What would you keep, change or leave open? You can repeat this session, practise in another setting or choose a different tool. Your next step can be small. Return to your real situation with the part that feels useful today.",
+      "learningPurpose": "Share the main point",
+      "segments": [
+        {
+          "id": "P21-12-S01",
+          "text": "Before leaving, save one observation in your own words."
+        },
+        {
+          "id": "P21-12-S02",
+          "text": "What would you keep, change or leave open?"
+        },
+        {
+          "id": "P21-12-S03",
+          "text": "You can repeat this session, practise in another setting or choose a different tool."
+        },
+        {
+          "id": "P21-12-S04",
+          "text": "Your next step can be small."
+        },
+        {
+          "id": "P21-12-S05",
+          "text": "Return to your real situation with the part that feels useful today."
+        }
+      ],
+      "visual": null,
+      "exercise": {
+        "kind": "save_observation",
+        "prompt": "Could you make the message smaller without abandoning it?"
+      }
+    }
+  ]
+}
